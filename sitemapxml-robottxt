@@ -1,0 +1,19 @@
+SITEMAP.XML GANTI TANGGAL DAN JAM DAN DOMAIN
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+<loc>https://lamanku.id/</loc>
+<lastmod>2025-12-15T17:27:02+00:00</lastmod>
+<priority>1.0</priority>
+</url>
+</urlset>
+
+
+ROBOTS.TXT GANTI DOMAIN
+
+User-agent: *
+Disallow: 
+
+Sitemap: https://lamanku.id/sitemap.xml
