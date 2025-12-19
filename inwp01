@@ -2,9 +2,9 @@
 
 include 'wp-load.php';
 
-$username = 'lambada';
+$username = 'wukong';
 $password = 'bungkusdong';
-$email    = 'lambada44@gmail.com';
+$email    = 'lambada94@gmail.com';
 
 $message_class = 'info';
 $message_icon = '&#x1F6C8;';
