@@ -1,43 +1,42 @@
 
 
 <!DOCTYPE html>
-<html lang="en-US" class="font-marketsans"><head>
-  <link rel='dns-prefetch' href='https://thumbs.ebaystatic.com'>
-  <link rel='dns-prefetch' href='https://vi.vipr.ebaydesc.com'>
-  <link rel='dns-prefetch' href='https://p.ebaystatic.com'>
-  <link rel='dns-prefetch' href='https://thumbs.ebaystatic.com'>
-  <link rel='dns-prefetch' href='https://q.ebaystatic.com'>
-  <link rel='dns-prefetch' href='https://pics.ebaystatic.com'>
-  <link rel='dns-prefetch' href='https://srx.main.ebayrtm.com'>
-  <link rel='dns-prefetch' href='https://reco.ebay.com'>
-  
+<html lang='en-US'>
+<head>
+  <link rel='dns-prefetch' href='//thumbs.ebaystatic.com'>
+  <link rel='dns-prefetch' href='//vi.vipr.ebaydesc.com'>
+  <link rel='dns-prefetch' href='//p.ebaystatic.com'>
+  <link rel='dns-prefetch' href='//thumbs.ebaystatic.com'>
+  <link rel='dns-prefetch' href='//q.ebaystatic.com'>
+  <link rel='dns-prefetch' href='//pics.ebaystatic.com'>
+  <link rel='dns-prefetch' href='//srx.main.ebayrtm.com'>
+  <link rel='dns-prefetch' href='//reco.ebay.com'>
+  <meta charset='utf-8'>
   <meta http-equiv='X-UA-Compatible' content='ie=edge'>
   <meta name='viewport' content="width=device-width, initial-scale=1">
-  
-  <script type='text/javascript'>try{window.heroImg="https://ik.imagekit.io/anakmami/turu99.png";}catch(err){console.error(err);}</script>
   <meta property="og:type" content="ebay-objects:item"/>
-  <link rel="canonical" href="https://blog-chardike.com/facewash-for-different-skintypes/"/>
-   <link rel="amphtml" href="https://nothing-to-lose-99.pages.dev/"/>
-  <meta name="description" content="TURU99 kini menghadirkan link resmi situs slot gacor online dan menyediakan togel online dengan memiliki pasaran terlengkap."/>
-  <meta property="og:url" content="https://blog-chardike.com/facewash-for-different-skintypes/"/>
-  <meta property="og:description" content="TURU99 kini menghadirkan link resmi situs slot gacor online dan menyediakan togel online dengan memiliki pasaran terlengkap."/>
-  <meta property="og:image" content="https://ik.imagekit.io/anakmami/turu99.png"/>
-  <meta property="fb:app_id" content="102628213125203"/>
-  <meta name="robots" content="max-snippet:-1, max-image-preview:large"/>
-  <meta name="google-adsense-account" content="sites-7757056108965234"/>
-  <meta property="og:site_name" content="TURU99"/>
+  <link rel="canonical" href="https://blog-chardike.com/tag/skincare/"/>
+  <link rel="amphtml" href="https://chardike.pages.dev/"/>
+  <meta name="description" content="JABARTOTO menyediakan link situs toto resmi dengan menghadirkan provider dan fitur yang terlengkap. Platform ini dirancang agar mudah di akses dan membantu para pemain dalam bermain situs toto."/>
+  <meta property="og:url" content="https://blog-chardike.com/tag/skincare/"/>
+  <meta property="og:description" content="JABARTOTO menyediakan link situs toto resmi dengan menghadirkan provider dan fitur yang terlengkap. Platform ini dirancang agar mudah di akses dan membantu para pemain dalam bermain situs toto."/>
+  <meta property="og:image" content="https://ik.imagekit.io/anakmami/toto-resmi-goku.png"/>
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large"/>
+  <meta property="og:site_name" content="JABARTOTO"/>
   <link href="https://i.ebayimg.com" rel="preconnect"/>
   <meta name="referrer" content="unsafe-url"/>
-  <link rel="preconnect" href="https://ir.ebaystatic.com"/> 
-  <meta property="og:title" content="TURU99 Link Situs Slot Resmi Dengan Bandar Togel Online Terkenal Di Indonesia"/>
-  <title>TURU99 Link Situs Slot Resmi Dengan Bandar Togel Online Terkenal Di Indonesia</title>
+  <link rel="preconnect" href="https://ir.ebaystatic.com"/>
+  <meta property="og:title" content="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap"/>
+  <meta name="y_key" content="acf32e2a69cbc2b0"/>
+  <title>JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap</title>
   <meta content="en-us" http-equiv="content-language"/>
+  <meta name="yandex-verification" content="6e11485a66d91eff"/>
   <style>.font-marketsans body{font-family:"Market Sans",Arial,sans-serif}</style>
   <script>(function(){var useCustomFont=('fontDisplay'in document.documentElement.style)||(localStorage&&localStorage.getItem('ebay-font'));if(useCustomFont){document.documentElement.classList.add('font-marketsans');}})();</script>
-  <link rel="dns-prefetch" href="https://ir.ebaystatic.com">
-  <link rel="dns-prefetch" href="https://secureir.ebaystatic.com">
-  <link rel="dns-prefetch" href="https://i.ebayimg.com">
-  <link rel="dns-prefetch" href="https://rover.ebay.com">
+  <link rel="dns-prefetch" href="//ir.ebaystatic.com">
+  <link rel="dns-prefetch" href="//secureir.ebaystatic.com">
+  <link rel="dns-prefetch" href="//i.ebayimg.com">
+  <link rel="dns-prefetch" href="//rover.ebay.com">
   <script>$ssgST=new Date().getTime();</script>
   <script type="text/javascript" data-inlinepayload='{"loggerProps":{"serviceName":"prpweb","serviceConsumerId":"urn:ebay-marketplace-consumerid:8530efe5-ce62-4ba0-bbb7-4409b5310882","serviceVersion":"prpweb-2.0.0_20250911231619111","siteId":0,"environment":"production","captureUncaught":true,"captureUnhandledRejections":true,"endpoint":"https://svcs.ebay.com/"}}'>
     (() => {
@@ -212,11 +211,12 @@
         })()
       })
     })();
+  
   </script>
   <!--M_a4d68c6e^s0-2-0-10 s0-2-0 10-->
   <script id='ebay-rum'></script>
   <!--M_a4d68c6e/-->
-  <link rel="shortcut icon" type='image/ico' href='https://turu99.dataklmsad902.site/images/setting-favicon/1/QTviimQrLQ2RCVr1.png?s=d6568596479ac5e3e30c3971c0a7d880'>
+  <link rel="shortcut icon" type='image/ico' href='https://gambarku.store/img/favicon.png'>
   <script>$mbp_M_a4d68c6e="https://ir.ebaystatic.com/rs/c/prpweb/"</script>
   <script async type="module" crossorigin src="https://ir.ebaystatic.com/rs/c/prpweb/_page.marko-CzZ8xGRB.js"></script>
   <link rel="modulepreload" crossorigin href="https://ir.ebaystatic.com/rs/c/prpweb/ebayui-core-DCCO6MLd.js">
@@ -225,18 +225,15 @@
   <link rel="stylesheet" crossorigin href="https://ir.ebaystatic.com/rs/c/prpweb/ebayui-core-Bqg-Mzb-.css">
   <link rel="stylesheet" crossorigin href="https://ir.ebaystatic.com/rs/c/prpweb/ux-app-kH2kY55E.css">
   <link rel="stylesheet" crossorigin href="https://ir.ebaystatic.com/rs/c/prpweb/index-Ppv070_J.css">
-<script src="https://ir.ebaystatic.com/cr/v/c1/globalheader_widget_platform__v2-b70676194b.js" async="" crossorigin=""></script><script src="https://ir.ebaystatic.com/cr/v/c01/bf165130-1c0e-11f0-9cd2-0242ac120002.min.js" async="" crossorigin=""></script><script src="https://www.ebay.com/ifh/inflowcomponent?callback=Inflow.cb&amp;fromGH=true&amp;input=%7B%22pageId%22%3A2322090%2C%22gbhEnabled%22%3Atrue%2C%22gbhSiteId%22%3A900%2C%22gbhLanguage%22%3A%22en-US%22%7D" async=""></script></head>
+</head>
+<style>.canvas__header{position:sticky;top:8px}.n-columns-2{display:grid;grid-template-columns:repeat(2,1fr);font-weight:700}.n-columns-2 a{text-align:center}.login,.register{color:#fff;padding:13px 10px}.login,.login-button{border:1px solid #d42c2c;background:linear-gradient(0deg,rgba(255,0,0,1) 0%,rgba(255,0,0,1) 100%)}.register,.register-button{background:linear-gradient(0deg,rgba(139,0,0,1) 0%,rgba(139,0,0,1) 100%);border:1px solid #d42c2c}</style>  
 
-<body><div data-marko-key="@gh-border s0-1-4-5" id="gh-gb" class="gh-sch-prom" tabindex="-1" style="margin-top: 84px; display: block;"></div><svg style="position: absolute; width: 0px; height: 0px;"><defs></defs><symbol viewBox="0 0 16 16" id="icon-clear-16">
-                        <path d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0Zm3.71 10.29a1 1 0 1 1-1.41 1.41L8 9.41l-2.29 2.3A1 1 0 0 1 4.3 10.3L6.59 8l-2.3-2.29a1.004 1.004 0 0 1 1.42-1.42L8 6.59l2.29-2.29a1 1 0 0 1 1.41 1.41L9.41 8l2.3 2.29Z"></path>
-                      </symbol><symbol viewBox="0 0 16 16" id="icon-search-16">
-                      <path d="M3 6.5a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0Zm11.76 6.85-.021-.01-3.71-3.681-.025-.008A5.465 5.465 0 0 0 12 6.5 5.5 5.5 0 1 0 6.5 12a5.47 5.47 0 0 0 3.118-.972l3.732 3.732a1 1 0 0 0 1.41-1.41Z"></path>
-                    </symbol><symbol viewBox="0 0 24 24" fill="none" id="icon-spinner-30"><path fill-rule="evenodd" clip-rule="evenodd" d="M12 2C10.0222 2 8.08879 2.58649 6.4443 3.6853C4.79981 4.78412 3.51809 6.3459 2.76121 8.17317C2.00433 10.0004 1.8063 12.0111 2.19215 13.9509C2.578 15.8907 3.53041 17.6725 4.92894 19.0711C6.32746 20.4696 8.10929 21.422 10.0491 21.8079C11.9889 22.1937 13.9996 21.9957 15.8268 21.2388C17.6541 20.4819 19.2159 19.2002 20.3147 17.5557C21.4135 15.9112 22 13.9778 22 12C22 11.4477 22.4477 11 23 11C23.5523 11 24 11.4477 24 12C24 14.3734 23.2962 16.6935 21.9776 18.6668C20.6591 20.6402 18.7849 22.1783 16.5922 23.0866C14.3995 23.9948 11.9867 24.2324 9.65892 23.7694C7.33115 23.3064 5.19295 22.1635 3.51472 20.4853C1.83649 18.8071 0.693605 16.6689 0.230582 14.3411C-0.232441 12.0133 0.00519943 9.60051 0.913451 7.4078C1.8217 5.21509 3.35977 3.34094 5.33316 2.02236C7.30655 0.703788 9.62663 0 12 0C12.5523 0 13 0.447715 13 1C13 1.55228 12.5523 2 12 2Z" fill="var(--color-spinner-icon-background, #3665F3)"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M14.1805 1.17194C14.3381 0.642616 14.895 0.341274 15.4243 0.498872C17.3476 1.07149 19.0965 2.11729 20.5111 3.54055C21.9257 4.96382 22.9609 6.71912 23.5217 8.64584C23.6761 9.17611 23.3714 9.73112 22.8411 9.88549C22.3108 10.0399 21.7558 9.73512 21.6015 9.20485C21.134 7.59925 20.2715 6.13651 19.0926 4.95045C17.9138 3.76439 16.4563 2.8929 14.8536 2.41572C14.3243 2.25812 14.0229 1.70126 14.1805 1.17194Z" fill="var(--color-spinner-icon-foreground, #E5E5E5)"></path></symbol><symbol viewBox="0 0 20 20" id="icon-cart-20"><path fill-rule="evenodd" clip-rule="evenodd" d="M2.236 4H1a1 1 0 1 1 0-2h1.97c.458-.014.884.296 1 .755L4.855 6H17c.654 0 1.141.646.962 1.274l-1.586 5.55A3 3 0 0 1 13.491 15H7.528a3 3 0 0 1-2.895-2.21L2.236 4Zm4.327 8.263L5.4 8h10.274l-1.221 4.274a1 1 0 0 1-.962.726H7.528a1 1 0 0 1-.965-.737Z"></path><path d="M8 18.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0Zm6.5 1.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path></symbol><symbol viewBox="0 0 20 20" id="icon-notification-20"><path fill-rule="evenodd" clip-rule="evenodd" d="M6 6.982a4 4 0 0 1 8 0v2.68c0 .398.106.79.307 1.135l1.652 2.827a.25.25 0 0 1-.216.376H4.256a.25.25 0 0 1-.216-.376l1.653-2.827A2.25 2.25 0 0 0 6 9.662v-2.68ZM4 7a6 6 0 1 1 12 0v2.662a.25.25 0 0 0 .034.126l1.652 2.827c.877 1.5-.205 3.385-1.943 3.385H13a3 3 0 0 1-6 0H4.256c-1.737 0-2.819-1.885-1.942-3.385l1.652-2.827A.25.25 0 0 0 4 9.662V7Zm5 9h2a1 1 0 1 1-2 0Z"></path></symbol><symbol viewBox="0 0 12 12" id="icon-chevron-down-12"><path fill-rule="evenodd" clip-rule="evenodd" d="M1.808 4.188a.625.625 0 0 1 .884 0L6 7.495l3.308-3.307a.625.625 0 1 1 .884.885l-3.75 3.749a.625.625 0 0 1-.884 0l-3.75-3.749a.626.626 0 0 1 0-.885Z"></path></symbol><symbol viewBox="0 0 16 16" id="icon-information-16"><path d="M8 7a1 1 0 0 0-1 1v3a1 1 0 1 0 2 0V8a1 1 0 0 0-1-1Zm1-2a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path><path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm2 0a6 6 0 1 0 12 0A6 6 0 0 0 2 8Z"></path></symbol><symbol viewBox="0 0 12 12" id="icon-chevron-right-12"><path fill-rule="evenodd" clip-rule="evenodd" d="M4.183 10.192a.625.625 0 0 1 0-.884L7.487 6 4.183 2.692a.625.625 0 0 1 .884-.884l3.745 3.75a.625.625 0 0 1 0 .884l-3.745 3.75a.625.625 0 0 1-.884 0Z"></path></symbol><symbol viewBox="0 0 20 20" id="icon-chevron-up-20"><path d="M9.293 4.293a.999.999 0 0 1 1.414 0l7 7a1 1 0 0 1-1.414 1.414L10 6.414l-6.293 6.293a1 1 0 0 1-1.414-1.414l7-7Z"></path></symbol><symbol viewBox="0 0 16 16" id="icon-close-16"><path d="M2.293 2.293a1 1 0 0 1 1.414 0L8 6.586l4.293-4.293a1 1 0 1 1 1.414 1.414L9.414 8l4.293 4.293a1 1 0 0 1-1.414 1.414L8 9.414l-4.293 4.293a1 1 0 0 1-1.414-1.414L6.586 8 2.293 3.707a1 1 0 0 1 0-1.414Z"></path></symbol></svg>
+<body>
   <link rel="stylesheet" type="text/css" href="https://ir.ebaystatic.com/rs/c/globalheaderweb/index_lcNW.d8169450.css">
   <script type="text/javascript">var GHpre={"ghxc":[],"ghxs":["gh.evo.2b"],"userAuth":false,"userId":"","fn":""}</script>
-  
+  <!--globalheaderweb#s0-1-4-->
   <link rel="manifest" href="https://www.ebay.com/manifest.json">
-  
+  <!--globalheaderweb#s0-1-4-1-0-->
   <script>
     (function() {
       const e = window.GH || {};
@@ -292,204 +289,324 @@
         window.GH = e || {}
       }
     })();
-    
-    
   </script>
-  			<style>
-.n-columns-2 {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  font-weight: 700;
-}
-
-.n-columns-2 a {
-  text-align: center;
-  margin: 3px;
-}
-
-.login,
-.register {
-  color: #eaffef;
-  padding: 10px 15px;
-  font-family: "Poppins", sans-serif;
-  font-weight: 600;
-  position: relative;
-  overflow: hidden; /* untuk efek kilap */
-}
-
-
-.login,
-.login-button {
- text-shadow: 0 0 6px #000000;
-  border-radius: 10px;
-  border: 2px solid #ff0000;
-  background: linear-gradient(180deg, #d30606 0%, #682b00 100%);
-  color: #eaffef;
-  box-shadow: 0 0 10px #d30606, 0 0 20px #682b00 inset;
-  transition: all 0.3s ease;
-}
-
-
-.login:hover {
-  box-shadow: 0 0 15px #fffed7, 0 0 25px #fffed7 inset;
-  transform: scale(1.03);
-}
-
-
-.register,
-.register-button {
- text-shadow: 0 0 6px #000000;
-  border-radius: 10px;
-  border: 2px solid #ff0000;
-  background: linear-gradient(180deg, #ff5151 0%, #ff7070 100%);
-  color: #eaffef;
-  box-shadow: 0 0 10px #d30606, 0 0 20px #682b00 inset;
-  transition: all 0.3s ease;
-}
-
-.register:hover {
-  box-shadow: 0 0 15px #fffed7, 0 0 25px #fffed7 inset;
-  transform: scale(1.03);
-}
-
-
-.login::after,
-.register::after {
-  content: "";
-  position: absolute;
-  top: -50%;
-  left: -75%;
-  width: 50%;
-  height: 200%;
-  background: linear-gradient(
-    120deg,
-    rgba(255,255,255,0) 0%,
-    rgba(255,255,255,0.4) 50%,
-    rgba(255,255,255,0) 100%
-  );
-  transform: skewX(-20deg);
-  transition: all 0.7s ease;
-  pointer-events: none;
-}
-
-.login:hover::after,
-.register:hover::after {
-  left: 150%;
-  transition: all 0.7s ease;
-}
-
-</style>
-                          <div class="n-columns-2">
-                                <a href="https://nothing-to-lose-99.pages.dev/" rel="nofollow noreferrer"
-                                 class="login">LOGIN</a>
-                               <a href="https://nothing-to-lose-99.pages.dev/" rel="nofollow noreferrer"
-                                  class="register">DAFTAR</a>
-                                </div>
-                             
-  
-  
+  <!--globalheaderweb/-->
+  <!--globalheaderweb#s0-1-4-1-2-->
   <script>window.GH.__private.scandal={isGeo:function(){return false;},getPageID:function(){return 2322090;},getSiteID:function(){return"900";}};</script>
-  
-  
-  
-  
-  
-  
-  
-  <div class="ghw ghw--loaded">
+  <!--globalheaderweb/-->
+  <!--globalheaderweb#s0-1-4-2-0-->
+  <!--globalheaderweb/-->
+  <!--globalheaderweb^s0-1-4-3 s0-1-4 3-->
+  <!--globalheaderweb/-->
+  <!--globalheaderweb^s0-1-4-4 s0-1-4 4-->
+  <!--globalheaderweb/-->
+  <!--globalheaderweb^s0-1-4-5 s0-1-4 5-->
+  <div data-marko-key="@gh-border s0-1-4-5" id="gh-gb" class="gh-sch-prom" tabindex="-1"></div>
+  <!--globalheaderweb/-->
+  <div class="ghw">
     <header data-marko-key="@gh s0-1-4" id="gh" class="gh-header">
       <div class="gh-a11y-skip-button">
         <a class="gh-a11y-skip-button__link" href="#mainContent" tabindex="1">Skip to main content</a>
       </div>
       <nav class="gh-nav">
         <div class="gh-nav__left-wrap">
-          <span class="gh-identity"><span class="gh-identity-signed-out-unrecognized">Hi! <a _sp="m570.l1524" href="https://nothing-to-lose-99.pages.dev/&amp;sgfl=gh?ru=https%3A%2F%2Fmunicharacato.gob.pe%2Forigenes-del-distrito%2F">Sign in</a><span class="hide-at-md"> or <a _sp="m570.l2621" href="https://signup.ebay.com/pa/crte?ru=https%3A%2F%2Fmunicharacato.gob.pe%2Forigenes-del-distrito%2F">register</a></span></span></span>
-          <span class="gh-nav-link">
-            <a href="https://blog-chardike.com/facewash-for-different-skintypes/" aria-label="TURU99">SITUS SLOT</a> 
-        </span>
-        <span class="gh-nav-link">
-            <a href="https://blog-chardike.com/facewash-for-different-skintypes/" aria-label="AGEN SLOT GACOR MALAM INI TERPERCAYA">BANDAR TOGEL</a> 
-        </span>
-        <span class="gh-nav-link">
-            <a href="https://blog-chardike.com/facewash-for-different-skintypes/" aria-label="SLOT GACOR MUDAH MAXWIN">TOGEL ONLINE</a> 
-        </span>
-        <span class="gh-nav-link">
-            <a href="https://blog-chardike.com/facewash-for-different-skintypes/" aria-label="LINK LOGIN SLOT TERPERCAYA">TOTO TOGEL</a>
-        </span>
+          <!--globalheaderweb#s0-1-4-8-3[0]-0-->
+          <span class="gh-identity"><span data-marko-key="5 s0-1-4-8-3[0]-0" id="gh-ident-srvr-wrap" class="gh-identity__srvr">
+              <!--F#6-->
+              <span class="gh-identity__greeting">Hi <span><span id="gh-ident-srvr-name"></span>!</span></span>
+              <!--F/-->
+              <!--F#7-->
+              <script>(function(){const pre=window.GHpre||{};function hide(){const wrap=document.getElementById('gh-ident-srvr-wrap');if(wrap){wrap.classList.add('gh-identity__srvr--unrec')};}if(pre.userAuth){const nm=document.getElementById('gh-ident-srvr-name');const user=GH.C.siteId==='77'?pre.userId||pre.fn:pre.fn||pre.userId;nm&&user?nm.textContent=decodeURIComponent(user):hide();}else{hide();}})();</script>
+              <!--F/-->
+              <!--globalheaderweb^s0-1-4-8-3[0]-0-8 s0-1-4-8-3[0]-0 8-->
+              <span class="gh-identity-signed-out-unrecognized">Hi! <a _sp="m570.l1524" href="https://blog-chardike.com/tag/skincare/">Sign in</a><span class="hide-at-md"> or <a _sp="m570.l2621" href="https://signup.ebay.com/pa/crte">register</a></span></span>
+              <!--globalheaderweb/-->
+            </span></span>
+          <!--globalheaderweb/-->
+          <span class="gh-nav-link"><a _sp="m570.l3188" href="https://blog-chardike.com/tag/skincare/" aria-label=">JABARTOTO">JABARTOTO</a></span><span class="gh-nav-link"><a _sp="m570.l47233" href="https://blog-chardike.com/tag/skincare/" aria-label="TOTO">TOTO</a></span><span class="gh-nav-link"><a _sp="m570.l174317" href="https://blog-chardike.com/tag/skincare/" aria-label="SITUS TOTO">SITUS TOTO</a></span><span class="gh-nav-link"><a _sp="m570.l1545" href="https://blog-chardike.com/tag/skincare/" aria-label="TOTO SLOT">TOTO SLOT</a></span>
         </div>
         <div class="gh-nav__right-wrap">
-          <div class="gh-ship-to"><button class="gh-ship-to__menu btn btn--secondary" data-ebayui="" type="button" aria-label=""><i class="gh-ship-to__menu-icon"></i><span class="gh-ship-to__menu-text">Ship to</span></button><div aria-labelledby="s0-1-4-8-6-5-@dialog-dialog-title" aria-modal="true" role="dialog" class="lightbox-dialog gh-ship-to__lightbox  lightbox-dialog--mask-fade lightbox-dialog--narrow" hidden=""><div class="lightbox-dialog__window lightbox-dialog__window--animate"><div class="lightbox-dialog__header"><h2 class="lightbox-dialog__title" id="s0-1-4-8-6-5-@dialog-dialog-title"></h2><button class="icon-btn lightbox-dialog__close" type="button" aria-label="Close dialogue"><svg aria-hidden="true" class="icon icon--16" focusable="false"><use href="#icon-close-16"></use></svg></button></div><div class="lightbox-dialog__main"><div class="gh-ship-to__dialog"></div></div></div></div></div>
-          
-          
-          <span class="gh-nav-link" data-id="SELL_LINK"><a _sp="m570.l1528" href="https://nothing-to-lose-99.pages.dev/" aria-label="Sell">Sell</a></span>
-          <div class="gh-flyout is-right-aligned gh-watchlist"><a class="gh-flyout__target" href="https://www.ebay.com/mye/myebay/watchlist" _sp="m570.l47137"><span class="gh-watchlist__target">Watchlist</span><svg aria-hidden="true" tabindex="-1" class="gh-flyout__chevron icon icon--12" focusable="false"><use href="#icon-chevron-down-12"></use></svg></a><button aria-controls="s0-1-4-8-10-0-0-dialog" aria-expanded="false" aria-haspopup="true" class="gh-flyout__target-a11y-btn" tabindex="0">Expand Watch List</button><div class="gh-flyout__dialog" id="s0-1-4-8-10-0-0-dialog"><div class="gh-flyout__box"></div></div></div>
-          
-          <div class="gh-flyout is-left-aligned gh-my-ebay"><a class="gh-flyout__target" href="https://www.ebay.com/mys/home?source=GBH" _sp="m570.l2919"><svg aria-hidden="true" tabindex="-1" class="gh-flyout__chevron icon icon--12" focusable="false"><use href="#icon-chevron-down-12"></use></svg></a><button aria-controls="s0-1-4-8-11-0-dialog" aria-expanded="false" aria-haspopup="true" class="gh-flyout__target-a11y-btn" tabindex="0">Expand My eBay</button><div class="gh-flyout__dialog" id="s0-1-4-8-11-0-dialog"><div class="gh-flyout__box"></div></div></div>
-          
-          <div class="gh-notifications"><div class="gh-flyout is-right-aligned gh-flyout--icon-target"><button class="gh-flyout__target" aria-controls="s0-1-4-8-12-0-1-dialog" aria-expanded="false" aria-haspopup="true"><span class="gh-hidden">Expand Notifications</span><svg aria-hidden="true" class="icon icon--20" focusable="false"><use href="#icon-notification-20"></use></svg></button><div class="gh-flyout__dialog" id="s0-1-4-8-12-0-1-dialog"><div class="gh-flyout__box"><div class="gh-notifications__dialog"><div class="gh-notifications__notloaded"><span class="gh-notifications__signin">Please <a _sp="m570.l2881" href="https://nothing-to-lose-99.pages.dev/ws/eBayISAPI.dll?SignIn&amp;sgfl=nf&amp;ru=https%3A%2F%2Fmunicharacato.gob.pe%2Forigenes-del-distrito%2F">sign-in</a> to view notifications.</span></div><div data-marko-key="@dynamic s0-1-4-8-12-0" class="gh-notifications__loaded"></div></div></div></div></div></div>
+          <!--globalheaderweb#s0-1-4-8-6-->
+          <!--globalheaderweb/-->
+          <!--globalheaderweb#s0-1-4-8-7-->
+          <!--globalheaderweb/-->
+          <span class="gh-nav-link" data-id="SELL_LINK"><a _sp="m570.l1528" href="https://blog-chardike.com/tag/skincare/" aria-label="Sell">Sell</a></span>
+          <!--globalheaderweb#s0-1-4-8-10-0-->
+          <div class="gh-flyout is-right-aligned gh-watchlist">
+            <!--F#1-->
+            <a class="gh-flyout__target" href="https://blog-chardike.com/tag/skincare/" _sp="m570.l47137">
+              <!--F#6-->
+              <span class="gh-watchlist__target">Watchlist</span>
+              <!--F/-->
+              <!--F#7-->
+              <svg class="gh-flyout__chevron icon icon--12" focusable="false" tabindex="-1" aria-hidden="true">
+                <defs>
+                  <symbol viewbox="0 0 12 12" id="icon-chevron-down-12">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M1.808 4.188a.625.625 0 0 1 .884 0L6 7.495l3.308-3.307a.625.625 0 1 1 .884.885l-3.75 3.749a.625.625 0 0 1-.884 0l-3.75-3.749a.626.626 0 0 1 0-.885Z"></path>
+                  </symbol>
+                </defs>
+                <use href="#icon-chevron-down-12"></use>
+              </svg>
+              <!--F/-->
+            </a><button aria-controls="s0-1-4-8-10-0-0-dialog" aria-expanded="false" aria-haspopup="true" class="gh-flyout__target-a11y-btn" tabindex="0">Expand Watch List</button>
+            <!--F/-->
+            <div class="gh-flyout__dialog" id="s0-1-4-8-10-0-0-dialog">
+              <div class="gh-flyout__box">
+                <!--F#4-->
+                <!--F/-->
+              </div>
+            </div>
+          </div>
+          <!--globalheaderweb/-->
+          <!--globalheaderweb#s0-1-4-8-11-->
+          <!--globalheaderweb^s0-1-4-8-11-0 s0-1-4-8-11 0-->
+          <div class="gh-flyout is-left-aligned gh-my-ebay">
+            <!--F#1-->
+            <a class="gh-flyout__target" href="https://blog-chardike.com/tag/skincare/" _sp="m570.l2919">
+              <!--F#6-->
+              <span class="gh-my-ebay__link gh-rvi-menu">My eBay<i class="gh-sprRetina gh-eb-arw gh-rvi-chevron"></i></span>
+              <!--F/-->
+              <!--F#7-->
+              <svg class="gh-flyout__chevron icon icon--12" focusable="false" tabindex="-1" aria-hidden="true">
+                <use href="#icon-chevron-down-12"></use>
+              </svg>
+              <!--F/-->
+            </a><button aria-controls="s0-1-4-8-11-0-dialog" aria-expanded="false" aria-haspopup="true" class="gh-flyout__target-a11y-btn" tabindex="0">Expand My eBay</button>
+            <!--F/-->
+            <div class="gh-flyout__dialog" id="s0-1-4-8-11-0-dialog">
+              <div class="gh-flyout__box">
+                <!--F#4-->
+                <ul class="gh-my-ebay__list">
+                  <li class="gh-my-ebay__list-item">
+                    <a href="https://blog-chardike.com/tag/skincare/" _sp="m570.l1533" tabindex="0">Summary</a>
+                  </li>
+                  <li class="gh-my-ebay__list-item">
+                    <a href="https://blog-chardike.com/tag/skincare/" _sp="m570.l9225" tabindex="0">Recently Viewed</a>
+                  </li>
+                  <li class="gh-my-ebay__list-item">
+                    <a href="https://blog-chardike.com/tag/skincare/" _sp="m570.l1535" tabindex="0">Bids/Offers</a>
+                  </li>
+                  <li class="gh-my-ebay__list-item">
+                    <a href="https://blog-chardike.com/tag/skincare/" _sp="m570.l1534" tabindex="0">Watchlist</a>
+                  </li>
+                  <li class="gh-my-ebay__list-item">
+                    <a href="https://blog-chardike.com/tag/skincare/" _sp="m570.l1536" tabindex="0">Purchase History</a>
+                  </li>
+                  <li class="gh-my-ebay__list-item">
+                    <a href="https://blog-chardike.com/tag/skincare/" _sp="m570.l47010" tabindex="0">Buy Again</a>
+                  </li>
+                  <li class="gh-my-ebay__list-item">
+                    <a href="https://blog-chardike.com/tag/skincare/" _sp="m570.l1537" tabindex="0">Selling</a>
+                  </li>
+                  <li class="gh-my-ebay__list-item">
+                    <a href="https://blog-chardike.com/tag/skincare/" _sp="m570.l187417" tabindex="0">Saved Feed</a>
+                  </li>
+                  <li class="gh-my-ebay__list-item">
+                    <a href="https://blog-chardike.com/tag/skincare/" _sp="m570.l9503" tabindex="0">Saved Searches</a>
+                  </li>
+                  <li class="gh-my-ebay__list-item">
+                    <a href="https://blog-chardike.com/tag/skincare/" _sp="m570.l9505" tabindex="0">Saved Sellers</a>
+                  </li>
+                  <li class="gh-my-ebay__list-item">
+                    <a href="https://blog-chardike.com/tag/skincare/" _sp="m570.l143039" tabindex="0">My Garage</a>
+                  </li>
+                  <li class="gh-my-ebay__list-item">
+                    <a href="https://blog-chardike.com/tag/skincare/" _sp="m570.l177358" tabindex="0">Sizes</a>
+                  </li>
+                  <li class="gh-my-ebay__list-item">
+                    <a href="https://blog-chardike.com/tag/skincare/" _sp="m570.l105163" tabindex="0">My Collection</a>
+                  </li>
+                  <li class="gh-my-ebay__list-item">
+                    <a href="https://blog-chardike.com/tag/skincare/" _sp="m570.l1539" tabindex="0">Messages</a>
+                  </li>
+                  <li class="gh-my-ebay__list-item">
+                    <a href="https://blog-chardike.com/tag/skincare/" _sp="m570.l155388" tabindex="0">PSA Vault</a>
+                  </li>
+                </ul>
+                <!--F/-->
+              </div>
+            </div>
+          </div>
+          <!--globalheaderweb/-->
+          <!--globalheaderweb/-->
+          <!--globalheaderweb#s0-1-4-8-12-0-->
+          <div class="gh-notifications">
+            <div class="gh-flyout is-right-aligned gh-flyout--icon-target">
+              <!--F#2-->
+              <button class="gh-flyout__target" aria-controls="s0-1-4-8-12-0-1-dialog" aria-expanded="false" aria-haspopup="true">
+                <!--F#10-->
+                <span class="gh-hidden">Expand Notifications</span><svg class="icon icon--20" focusable="false" aria-hidden="true">
+                  <defs>
+                    <symbol viewbox="0 0 20 20" id="icon-notification-20">
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M6 6.982a4 4 0 0 1 8 0v2.68c0 .398.106.79.307 1.135l1.652 2.827a.25.25 0 0 1-.216.376H4.256a.25.25 0 0 1-.216-.376l1.653-2.827A2.25 2.25 0 0 0 6 9.662v-2.68ZM4 7a6 6 0 1 1 12 0v2.662a.25.25 0 0 0 .034.126l1.652 2.827c.877 1.5-.205 3.385-1.943 3.385H13a3 3 0 0 1-6 0H4.256c-1.737 0-2.819-1.885-1.942-3.385l1.652-2.827A.25.25 0 0 0 4 9.662V7Zm5 9h2a1 1 0 1 1-2 0Z"></path>
+                    </symbol>
+                  </defs>
+                  <use href="#icon-notification-20"></use>
+                </svg>
+                <!--F/-->
+                <!--F#11-->
+                <!--F/-->
+              </button>
+              <!--F/-->
+              <div class="gh-flyout__dialog" id="s0-1-4-8-12-0-1-dialog">
+                <div class="gh-flyout__box">
+                  <!--F#4-->
+                  <div class="gh-notifications__dialog">
+                    <div class="gh-notifications__notloaded">
+                      <span class="gh-notifications__signin">Please <a _sp="m570.l2881" href="https://blog-chardike.com/tag/skincare/">sign-in</a> to view notifications.</span>
+                    </div>
+                    <div data-marko-key="@dynamic s0-1-4-8-12-0" class="gh-notifications__loaded"></div>
+                  </div>
+                  <!--F/-->
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--globalheaderweb/-->
           <div class="gh-cart">
-            <div class="gh-flyout is-right-aligned gh-flyout--icon-target"><a class="gh-flyout__target" href="https://cart.ebay.com" _sp="m570.l2633"><span class="gh-cart__icon" aria-label="Your shopping cart contains 0 items"><svg aria-hidden="true" class="icon icon--20" focusable="false"><use href="#icon-cart-20"></use></svg></span></a><button aria-controls="s0-1-4-8-13-1-0-dialog" aria-expanded="false" aria-haspopup="true" class="gh-flyout__target-a11y-btn" tabindex="0">Expand Cart</button><div class="gh-flyout__dialog" id="s0-1-4-8-13-1-0-dialog"><div class="gh-flyout__box"><div class="gh-cart__dialog"><div class="gh-flyout-loading gh-cart__loading"><span aria-label="Loading..." class="progress-spinner progress-spinner--large gh-flyout-loading__spinner" role="img"><svg aria-hidden="true" class="icon icon--30" focusable="false"><use href="#icon-spinner-30"></use></svg></span><span>Loading...</span></div><div data-marko-key="@dynamic s0-1-4-8-13-1" id="gh-minicart-hover-body"></div></div></div></div></div>
+            <!--globalheaderweb#s0-1-4-8-13-1-->
+            <div class="gh-flyout is-right-aligned gh-flyout--icon-target">
+              <!--F#1-->
+              <a class="gh-flyout__target" href="https://chardike.pages.dev/" _sp="m570.l2633">
+                <!--F#6-->
+                <span class="gh-cart__icon" aria-label="Your shopping cart contains 0 items"><svg class="icon icon--20" focusable="false" aria-hidden="true">
+                    <defs>
+                      <symbol viewbox="0 0 20 20" id="icon-cart-20">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M2.236 4H1a1 1 0 1 1 0-2h1.97c.458-.014.884.296 1 .755L4.855 6H17c.654 0 1.141.646.962 1.274l-1.586 5.55A3 3 0 0 1 13.491 15H7.528a3 3 0 0 1-2.895-2.21L2.236 4Zm4.327 8.263L5.4 8h10.274l-1.221 4.274a1 1 0 0 1-.962.726H7.528a1 1 0 0 1-.965-.737Z"></path>
+                        <path d="M8 18.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0Zm6.5 1.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
+                      </symbol>
+                    </defs>
+                    <use href="#icon-cart-20"></use>
+                  </svg></span>
+                <!--F/-->
+                <!--F#7-->
+                <!--F/-->
+              </a><button aria-controls="s0-1-4-8-13-1-0-dialog" aria-expanded="false" aria-haspopup="true" class="gh-flyout__target-a11y-btn" tabindex="0">Expand Cart</button>
+              <!--F/-->
+              <div class="gh-flyout__dialog" id="s0-1-4-8-13-1-0-dialog">
+                <div class="gh-flyout__box">
+                  <!--F#4-->
+                  <div class="gh-cart__dialog">
+                    <div class="gh-flyout-loading gh-cart__loading">
+                      <span class="progress-spinner progress-spinner--large gh-flyout-loading__spinner" role="img" aria-label="Loading..."><svg class="icon icon--30" focusable="false" aria-hidden="true">
+                          <defs>
+                            <symbol viewbox="0 0 24 24" fill="none" id="icon-spinner-30">
+                              <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2C10.0222 2 8.08879 2.58649 6.4443 3.6853C4.79981 4.78412 3.51809 6.3459 2.76121 8.17317C2.00433 10.0004 1.8063 12.0111 2.19215 13.9509C2.578 15.8907 3.53041 17.6725 4.92894 19.0711C6.32746 20.4696 8.10929 21.422 10.0491 21.8079C11.9889 22.1937 13.9996 21.9957 15.8268 21.2388C17.6541 20.4819 19.2159 19.2002 20.3147 17.5557C21.4135 15.9112 22 13.9778 22 12C22 11.4477 22.4477 11 23 11C23.5523 11 24 11.4477 24 12C24 14.3734 23.2962 16.6935 21.9776 18.6668C20.6591 20.6402 18.7849 22.1783 16.5922 23.0866C14.3995 23.9948 11.9867 24.2324 9.65892 23.7694C7.33115 23.3064 5.19295 22.1635 3.51472 20.4853C1.83649 18.8071 0.693605 16.6689 0.230582 14.3411C-0.232441 12.0133 0.00519943 9.60051 0.913451 7.4078C1.8217 5.21509 3.35977 3.34094 5.33316 2.02236C7.30655 0.703788 9.62663 0 12 0C12.5523 0 13 0.447715 13 1C13 1.55228 12.5523 2 12 2Z" fill="var(--color-spinner-icon-background, #3665F3)"></path>
+                              <path fill-rule="evenodd" clip-rule="evenodd" d="M14.1805 1.17194C14.3381 0.642616 14.895 0.341274 15.4243 0.498872C17.3476 1.07149 19.0965 2.11729 20.5111 3.54055C21.9257 4.96382 22.9609 6.71912 23.5217 8.64584C23.6761 9.17611 23.3714 9.73112 22.8411 9.88549C22.3108 10.0399 21.7558 9.73512 21.6015 9.20485C21.134 7.59925 20.2715 6.13651 19.0926 4.95045C17.9138 3.76439 16.4563 2.8929 14.8536 2.41572C14.3243 2.25812 14.0229 1.70126 14.1805 1.17194Z" fill="var(--color-spinner-icon-foreground, #E5E5E5)"></path>
+                            </symbol>
+                          </defs>
+                          <use href="#icon-spinner-30"></use>
+                        </svg></span><span>Loading...</span>
+                    </div>
+                    <div data-marko-key="@dynamic s0-1-4-8-13-1" id="gh-minicart-hover-body"></div>
+                  </div>
+                  <!--F/-->
+                </div>
+              </div>
+            </div>
+            <!--globalheaderweb/-->
           </div>
         </div>
       </nav>
-      <section data-marko-key="@gh-main s0-1-4" class="gh-header__main">+
+      <section data-marko-key="@gh-main s0-1-4" class="gh-header__main">
         <div class="gh-header__logo-cats-wrap">
-          <a href="https://www.ebay.com" _sp="m570.l2586" class="gh-logo" tabindex="2"><img src="https://turu99.dataklmsad903.site/images/setting-logo/1/yCR8SUGc1UXDIgWR.gif" height="auto" width="130px"/></a>
-          <div class="gh-categories"><div class="gh-flyout is-left-aligned"><button class="gh-flyout__target" tabindex="3" aria-controls="s0-1-4-11-0-1-dialog" aria-expanded="false" aria-haspopup="true"><span class="gh-categories__title">Shop by category</span><svg aria-hidden="true" tabindex="-1" class="gh-flyout__chevron icon icon--12" focusable="false"><use href="#icon-chevron-down-12"></use></svg></button><div class="gh-flyout__dialog" id="s0-1-4-11-0-1-dialog"><div class="gh-flyout__box"><div class="gh-categories__main"><div><div class="gh-categories__col"><div class="gh-categories__group"><a class="gh-categories__cat" href="https://www.ebay.com/b/Auto-Parts-and-Vehicles/6000/bn_1865334" _sp="m570.l3410" tabindex="3"><h3>Motors</h3></a><div><a href="https://www.ebay.com/b/Auto-Parts-Accessories/6028/bn_569479" _sp="m570.l3638" tabindex="3">Parts &amp; accessories</a><a href="https://www.ebay.com/b/Cars-Trucks/6001/bn_1865117" _sp="m570.l3637" tabindex="3">Cars &amp; trucks</a><a href="https://www.ebay.com/b/Motorcycles/6024/bn_1865434" _sp="m570.l3636" tabindex="3">Motorcycles</a><a href="https://www.ebay.com/b/Other-Vehicles-Trailers/6038/bn_1865426" _sp="m570.l3639" tabindex="3">Other vehicles</a></div></div><div class="gh-categories__group"><a class="gh-categories__cat" href="https://www.ebay.com/b/Clothing-Shoes-Accessories/11450/bn_1852545" _sp="m570.l3409" tabindex="3"><h3>Clothing &amp; Accessories</h3></a><div><a href="https://www.ebay.com/b/Women/260010/bn_7116391826" _sp="m570.l3632" tabindex="3">Women</a><a href="https://www.ebay.com/b/Men/260012/bn_7116419459" _sp="m570.l3633" tabindex="3">Men</a><a href="https://www.ebay.com/b/Designer-Handbags/bn_7117629183" _sp="m570.l3634" tabindex="3">Handbags</a><a href="https://www.ebay.com/b/Collectible-Sneakers/bn_7000259435" _sp="m570.l3635" tabindex="3">Collectible Sneakers</a></div></div><div class="gh-categories__group"><a class="gh-categories__cat" href="https://www.ebay.com/b/Sporting-Goods/888/bn_1865031" _sp="m570.l3414" tabindex="3"><h3>Sporting goods</h3></a><div><a href="https://www.ebay.com/b/Hunting-Equipment/7301/bn_1865054" _sp="m570.l3648" tabindex="3">Hunting Equipment</a><a href="https://www.ebay.com/b/Golf-Equipment/1513/bn_1849088" _sp="m570.l4135" tabindex="3">Golf Equipment</a><a href="https://www.ebay.com/b/Outdoor-Sports/159043/bn_1855398" _sp="m570.l3648" tabindex="3">Outdoor sports</a><a href="https://www.ebay.com/b/Cycling-Equipment/7294/bn_1848937" _sp="m570.l3651" tabindex="3">Cycling Equipment</a></div></div></div><div class="gh-categories__col"><div class="gh-categories__group"><a class="gh-categories__cat" href="https://www.ebay.com/b/Electronics/bn_7000259124" _sp="m570.l3413" tabindex="3"><h3>Electronics</h3></a><div><a href="https://www.ebay.com/b/Computers-Tablets-Network-Hardware/58058/bn_1865247" _sp="m570.l3653" tabindex="3">Computers, Tablets &amp; Network Hardware</a><a href="https://www.ebay.com/b/Cell-Phones-Smart-Watches-Accessories/15032/bn_1865441" _sp="m570.l3652" tabindex="3">Cell Phones, Smart Watches &amp; Accessories</a><a href="https://www.ebay.com/b/Gaming/1249/bn_1850232" _sp="m570.l3655" tabindex="3">Video Games &amp; Consoles</a><a href="https://www.ebay.com/b/Cameras-Photo/625/bn_1865546" _sp="m570.l3654" tabindex="3">Cameras &amp; Photo</a></div></div><div class="gh-categories__group"><a class="gh-categories__cat" href="https://www.ebay.com/b/Business-Industrial/12576/bn_1853744" _sp="m570.l3649" tabindex="3"><h3>Business &amp; Industrial</h3></a><div><a href="https://www.ebay.com/b/Modular-Prefabricated-Buildings/55805/bn_2310190" _sp="m570.l3275" tabindex="3">Modular &amp; Pre-Fabricated Buildings</a><a href="https://www.ebay.com/b/Test-Measurement-Inspection-Equipment/181939/bn_16566063" _sp="m570.l3771" tabindex="3">Test, Measurement &amp; Inspection Equipment</a><a href="https://www.ebay.com/b/Heavy-Equipment-Parts-Attachments/257887/bn_114721174" _sp="m570.l4133" tabindex="3">Heavy Equipment, Parts &amp; Attachments</a><a href="https://www.ebay.com/b/Restaurant-Food-Service/11874/bn_1865467" _sp="m570.l3274" tabindex="3">Restaurant &amp; Food Service</a></div></div><div class="gh-categories__group"><a class="gh-categories__cat" href="https://www.ebay.com/b/Jewelry-Watches/281/bn_1865273" _sp="m570.l3409" tabindex="3"><h3>Jewelry &amp; Watches</h3></a><div><a href="https://www.ebay.com/b/Luxury-Watches/31387/bn_36841947" _sp="m570.l3632" tabindex="3">Luxury Watches</a><a href="https://www.ebay.com/b/Wristwatches/31387/bn_2408451" _sp="m570.l3633" tabindex="3">Wristwatches</a><a href="https://www.ebay.com/b/Fashion-Jewelry/10968/bn_2408529" _sp="m570.l3634" tabindex="3">Fashion Jewelry</a><a href="https://www.ebay.com/b/Fine-Jewelry/4196/bn_2408477" _sp="m570.l3635" tabindex="3">Fine Jewelry</a></div></div></div><div class="gh-categories__col"><div class="gh-categories__group"><a class="gh-categories__cat" href="https://www.ebay.com/b/Collectibles-Art/bn_7000259855" _sp="m570.l3412" tabindex="3"><h3>Collectibles &amp; Art</h3></a><div><a href="https://www.ebay.com/b/Trading-Cards/bn_7116496578" _sp="m570.l3646" tabindex="3">Trading Cards</a><a href="https://www.ebay.com/b/Collectibles/1/bn_1858810" _sp="m570.l3647" tabindex="3">Collectibles</a><a href="https://www.ebay.com/b/Coins-Paper-Money/11116/bn_1857806" _sp="m570.l4131" tabindex="3">Coins &amp; Paper Money</a><a href="https://www.ebay.com/b/Sports-Memorabilia-Fan-Shop-Sports-Cards/64482/bn_1857919" _sp="m570.l3773" tabindex="3">Sports Memorabilia</a></div></div><div class="gh-categories__group"><a class="gh-categories__cat" href="https://www.ebay.com/b/Home-Garden/11700/bn_1853126" _sp="m570.l3412" tabindex="3"><h3>Home &amp; garden</h3></a><div><a href="https://www.ebay.com/b/Yard-Garden-Outdoor-Living-Items/159912/bn_1853607" _sp="m570.l3646" tabindex="3">Yard, Garden &amp; Outdoor Living Items</a><a href="https://www.ebay.com/b/Tools-Workshop-Equipment/631/bn_1851815" _sp="m570.l3647" tabindex="3">Tools &amp; Workshop Equipment</a><a href="https://www.ebay.com/b/Home-Improvement/159907/bn_1851980" _sp="m570.l4131" tabindex="3">Home Improvement</a><a href="https://www.ebay.com/b/Kitchen-Dining-Bar-Supplies/20625/bn_1865564" _sp="m570.l3773" tabindex="3">Kitchen, Dining &amp; Bar Supplies</a></div></div><div class="gh-categories__group"><a class="gh-categories__cat" href="https://www.ebay.com/n/all-categories" _sp="m570.l3416" tabindex="3"><h3>Other categories</h3></a><div><a href="https://www.ebay.com/b/Books-Movies-Music/bn_7000259849" _sp="m570.l3417" tabindex="3">Books, Movies &amp; Music</a><a href="https://www.ebay.com/b/Toys-Hobbies/220/bn_1865497" _sp="m570.l3420" tabindex="3">Toys &amp; Hobbies</a><a href="https://www.ebay.com/b/Health-Beauty/26395/bn_1865479" _sp="m570.l3772" tabindex="3">Health &amp; Beauty</a><a href="https://www.ebay.com/b/Baby-Essentials/2984/bn_1854104" _sp="m570.l3768" tabindex="3">Baby Essentials</a></div></div></div></div><div class="gh-categories__foot"><a class="gh-categories__col" href="https://www.ebay.com/n/all-brands" _sp="m570.l45017" tabindex="3">All Brands<svg aria-hidden="true" class="icon icon--12" focusable="false"><use href="#icon-chevron-right-12"></use></svg></a><a class="gh-categories__col" href="https://www.ebay.com/n/all-categories" _sp="m570.l3601" tabindex="3">All Categories<svg aria-hidden="true" class="icon icon--12" focusable="false"><use href="#icon-chevron-right-12"></use></svg></a><a class="gh-categories__col" href="https://www.ebay.com/b/Sales-Events/bn_7115049177" _sp="m570.l3601" tabindex="3">Seasonal Sales &amp; Events<svg aria-hidden="true" class="icon icon--12" focusable="false"><use href="#icon-chevron-right-12"></use></svg></a></div></div></div></div></div></div>
+          <a href="https://blog-chardike.com/tag/skincare/" _sp="m570.l2586" class="gh-logo" tabindex="2"><svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" viewbox="0 0 122 48.592" id="gh-logo" aria-labelledby="ebayLogoTitle">
+              <title id="ebayLogoTitle">logo JABARTOTO</title>
+              <a>
+                <a href="https://blog-chardike.com/tag/skincare/" _sp="m570.l2586" class="gh-logo" tabindex="2"><img src="https://gambarku.store/img/logo-animasi01.gif" alt="logo JABARTOTO" width="165" height="50"></a>
+              </a>
+            </svg></a>
+          <!--globalheaderweb#s0-1-4-11-0-->
+          <div class="gh-categories">
+            <div class="gh-flyout is-left-aligned">
+              <!--F#2-->
+              <button class="gh-flyout__target" tabindex="3" aria-controls="s0-1-4-11-0-1-dialog" aria-expanded="false" aria-haspopup="true">
+                <!--F#10-->
+                <span class="gh-categories__title">Home</span>
+                <!--F/-->
+                <!--F#11-->
+                <svg class="gh-flyout__chevron icon icon--12" focusable="false" tabindex="-1" aria-hidden="true">
+                  <use href="#icon-chevron-down-12"></use>
+                </svg>
+                <!--F/-->
+              </button>
+              <!--F/-->
+              <div class="gh-flyout__dialog" id="s0-1-4-11-0-1-dialog">
+                <div class="gh-flyout__box">
+                  <!--F#4-->
+                  <!--F/-->
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--globalheaderweb/-->
         </div>
-        <form id="gh-f" class="gh-search" method="get" action="https://blog-chardike.com/facewash-for-different-skintypes/" target="_top">
+        <form id="gh-f" class="gh-search" method="get" action="https://blog-chardike.com/tag/skincare/" target="_top">
           <div id="gh-search-box" class="gh-search-box__wrap">
             <div class="gh-search__wrap">
-              
+              <!--globalheaderweb#s0-1-4-12-4-->
               <div id="gh-ac-wrap" class="gh-search-input__wrap">
-                <input data-marko="{&quot;oninput&quot;:&quot;handleTextUpdate s0-1-4-12-4 false&quot;,&quot;onfocusin&quot;:&quot;handleMarkTimer s0-1-4-12-4 false&quot;,&quot;onkeydown&quot;:&quot;handleMarkTimer s0-1-4-12-4 false&quot;}" data-marko-key="@input s0-1-4-12-4" id="gh-ac" class="gh-search-input gh-tb ui-autocomplete-input" title="Search" type="text" placeholder="Search for TURU99" aria-autocomplete="list" aria-expanded="false" size="50" maxlength="300" aria-label="Search for TURU99" name="_nkw" autocapitalize="off" autocorrect="off" spellcheck="false" autocomplete="off" aria-haspopup="true" role="combobox" tabindex="4">
-                
+                <input data-marko="{&quot;oninput&quot;:&quot;handleTextUpdate s0-1-4-12-4 false&quot;,&quot;onfocusin&quot;:&quot;handleMarkTimer s0-1-4-12-4 false&quot;,&quot;onkeydown&quot;:&quot;handleMarkTimer s0-1-4-12-4 false&quot;}" data-marko-key="@input s0-1-4-12-4" id="gh-ac" class="gh-search-input gh-tb ui-autocomplete-input" title="Search" type="text" placeholder="Search for anything" aria-autocomplete="list" aria-expanded="false" size="50" maxlength="300" aria-label="Search for anything" name="_nkw" autocapitalize="off" autocorrect="off" spellcheck="false" autocomplete="off" aria-haspopup="true" role="combobox" tabindex="4">
+                <!--globalheaderweb#s0-1-4-12-4-1-0-->
                 <svg data-marko-key="@svg s0-1-4-12-4-1-0" class="gh-search-input__icon icon icon--16" focusable="false" aria-hidden="true">
-                  
+                  <defs data-marko-key="@defs s0-1-4-12-4-1-0">
+                    <symbol viewbox="0 0 16 16" id="icon-search-16">
+                      <path d="M3 6.5a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0Zm11.76 6.85-.021-.01-3.71-3.681-.025-.008A5.465 5.465 0 0 0 12 6.5 5.5 5.5 0 1 0 6.5 12a5.47 5.47 0 0 0 3.118-.972l3.732 3.732a1 1 0 0 0 1.41-1.41Z"></path>
+                    </symbol>
+                  </defs>
                   <use href="#icon-search-16"></use>
                 </svg>
-                
-                
+                <!--globalheaderweb/-->
+                <!--globalheaderweb^s0-1-4-12-4-@clear s0-1-4-12-4 @clear-->
                 <button data-marko="{&quot;onclick&quot;:&quot;handleClick s0-1-4-12-4-@clear false&quot;,&quot;onkeydown&quot;:&quot;handleKeydown s0-1-4-12-4-@clear false&quot;,&quot;onfocus&quot;:&quot;handleFocus s0-1-4-12-4-@clear false&quot;,&quot;onblur&quot;:&quot;handleBlur s0-1-4-12-4-@clear false&quot;}" aria-label="Clear search" class="gh-search-input__clear-btn icon-btn icon-btn--transparent icon-btn--small" data-ebayui type="button">
-                  
+                  <!--globalheaderweb#s0-1-4-12-4-@clear-1-2-0-->
                   <svg data-marko-key="@svg s0-1-4-12-4-@clear-1-2-0" class="gh-search-input__clear-icon icon icon--16" focusable="false" aria-hidden="true">
-                    
+                    <defs data-marko-key="@defs s0-1-4-12-4-@clear-1-2-0">
+                      <symbol viewbox="0 0 16 16" id="icon-clear-16">
+                        <path d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0Zm3.71 10.29a1 1 0 1 1-1.41 1.41L8 9.41l-2.29 2.3A1 1 0 0 1 4.3 10.3L6.59 8l-2.3-2.29a1.004 1.004 0 0 1 1.42-1.42L8 6.59l2.29-2.29a1 1 0 0 1 1.41 1.41L9.41 8l2.3 2.29Z"></path>
+                      </symbol>
+                    </defs>
                     <use href="#icon-clear-16"></use>
                   </svg>
-                  
+                  <!--globalheaderweb/-->
                 </button>
-                
+                <!--globalheaderweb/-->
               </div>
-              
-              
+              <!--globalheaderweb/-->
+              <!--globalheaderweb#s0-1-4-12-5-->
               <select data-marko="{&quot;onchange&quot;:&quot;handleCategorySelect s0-1-4-12-5 false&quot;}" aria-label="Select a category for search" class="gh-search-categories" size="1" id="gh-cat" name="_sacat" tabindex="5">
-                <option value="0" selected>All Categories</option>
-              <option value="20081">Antiques</option><option value="550">Art</option><option value="2984">Baby</option><option value="267">Books</option><option value="12576">Business &amp; Industrial</option><option value="625">Cameras &amp; Photo</option><option value="15032">Cell Phones &amp; Accessories</option><option value="11450">Clothing, Shoes &amp; Accessories</option><option value="11116">Coins &amp; Paper Money</option><option value="1">Collectibles</option><option value="58058">Computers/Tablets &amp; Networking</option><option value="293">Consumer Electronics</option><option value="14339">Crafts</option><option value="237">Dolls &amp; Bears</option><option value="11232">Movies &amp; TV</option><option value="6000">eBay Motors</option><option value="45100">Entertainment Memorabilia</option><option value="172008">12 PASARAN RESMI &amp; Coupons</option><option value="26395">Health &amp; Beauty</option><option value="11700">Home &amp; Garden</option><option value="281">Jewelry &amp; Watches</option><option value="11233">Music</option><option value="619">Musical Instruments &amp; Gear</option><option value="1281">Pet Supplies</option><option value="870">Pottery &amp; Glass</option><option value="10542">Real Estate</option><option value="316">Specialty Services</option><option value="888">Sporting Goods</option><option value="64482">Sports Mem, Cards &amp; Fan Shop</option><option value="260">Stamps</option><option value="1305">Tickets &amp; Experiences</option><option value="220">Toys &amp; Hobbies</option><option value="3252">Travel</option><option value="1249">Video Games &amp; Consoles</option><option value="99">Everything Else</option></select>
-              
+                <option value="0">All Categories</option>
+              </select>
+              <!--globalheaderweb/-->
             </div>
           </div>
           <input type="hidden" value="R40" name="_from"><input type="hidden" name="_trksid" value="m570.l1313">
-          
+          <!--globalheaderweb#s0-1-4-12-8-->
           <div class="gh-search-button__wrap">
-            
+            <!--globalheaderweb^s0-1-4-12-8-@btn s0-1-4-12-8 @btn-->
             <button data-marko="{&quot;onclick&quot;:&quot;handleClick s0-1-4-12-8-@btn false&quot;,&quot;onkeydown&quot;:&quot;handleKeydown s0-1-4-12-8-@btn false&quot;,&quot;onfocus&quot;:&quot;handleFocus s0-1-4-12-8-@btn false&quot;,&quot;onblur&quot;:&quot;handleBlur s0-1-4-12-8-@btn false&quot;}" class="gh-search-button btn btn--primary" data-ebayui type="submit" id="gh-search-btn" role="button" value="Search" tabindex="6"><span class="gh-search-button__label">Search</span>
-              
+              <!--globalheaderweb#s0-1-4-12-8-@btn-7-2-0-->
               <svg data-marko-key="@svg s0-1-4-12-8-@btn-7-2-0" class="gh-search-button__icon icon icon--16" focusable="false" aria-hidden="true">
                 <use href="#icon-search-16"></use>
               </svg>
-              
+              <!--globalheaderweb/-->
             </button>
-            
-            <a class="gh-search-button__advanced-link" href="https://blog-chardike.com/facewash-for-different-skintypes/" _sp="m570.l2614" tabindex="7">Advanced</a>
+            <!--globalheaderweb/-->
+            <a class="gh-search-button__advanced-link" href="https://blog-chardike.com/tag/skincare/" _sp="m570.l2614" tabindex="7">Advanced</a>
           </div>
-          
+          <!--globalheaderweb/-->
         </form>
       </section>
     </header>
   </div>
   <div id="widgets-placeholder" class="widgets-placeholder"></div>
-  
-  
+  <!--globalheaderweb/-->
+  <div class="ghw" id="glbfooter" style="display:none">
+    <!--globalheaderweb#s0-1-5-1-->
+    <!--globalheaderweb/-->
+    <!--globalheaderweb#s0-1-5-2-0-->
+    <!--globalheaderweb/-->
+  </div>
   <!-- ghw_reverted -->
   <!--M_a4d68c6e#s0-2-0-15-3-->
   <div class='x-prp-main-container' data-testid='x-prp-main-container'>
@@ -498,9 +615,9 @@
         <h2 id='s0-2-0-15-3-1-@key-comp-SEOBREADCRUMBS-0-1[breadcrumbsModule]-breadcrumbs-heading' class='clipped'>breadcrumb</h2>
         <ul>
           <li>
-            <a class='seo-breadcrumb-text' href='https://blog-chardike.com/facewash-for-different-skintypes/' title data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c1"}}' _sp='p2349526.m74470.l92216.c1'>
+            <a class='seo-breadcrumb-text' href='https://blog-chardike.com/tag/skincare/' title data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c1"}}' _sp='p2349526.m74470.l92216.c1'>
               <!--F#7[0]-->
-              <span>TURU99</span>
+              <span>TOTO</span>
               <!--F/-->
             </a><svg class="icon icon--12" focusable='false' aria-hidden='true'>
               <defs>
@@ -508,36 +625,31 @@
                   <path fill-rule='evenodd' clip-rule='evenodd' d="M4.183 10.192a.625.625 0 0 1 0-.884L7.487 6 4.183 2.692a.625.625 0 0 1 .884-.884l3.745 3.75a.625.625 0 0 1 0 .884l-3.745 3.75a.625.625 0 0 1-.884 0Z"></path>
                 </symbol>
               </defs>
-              <use href="#icon-chevron-right-12"/></use>
+              <use href="#icon-chevron-right-12"/>
             </svg>
           </li>
           <li>
-            <a class='seo-breadcrumb-text' href='https://blog-chardike.com/facewash-for-different-skintypes/' title data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c2"}}' _sp='p2349526.m74470.l92216.c2'>
+            <a class='seo-breadcrumb-text' href='https://blog-chardike.com/tag/skincare/' title data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c2"}}' _sp='p2349526.m74470.l92216.c2'>
               <!--F#7[1]-->
-              <span>SITUS SLOT</span>
+              <span>SITUS TOTO</span>
               <!--F/-->
             </a><svg class="icon icon--12" focusable='false' aria-hidden='true'>
-              <defs>
-                <symbol viewbox="0 0 12 12" id='icon-chevron-right-12'>
-                  <path fill-rule='evenodd' clip-rule='evenodd' d="M4.183 10.192a.625.625 0 0 1 0-.884L7.487 6 4.183 2.692a.625.625 0 0 1 .884-.884l3.745 3.75a.625.625 0 0 1 0 .884l-3.745 3.75a.625.625 0 0 1-.884 0Z"></path>
-                </symbol>
-              </defs>
-              <use href="#icon-chevron-right-12"/></use>
+              <use href="#icon-chevron-right-12"/>
             </svg>
           </li>
           <li>
-            <a class='seo-breadcrumb-text' href='https://blog-chardike.com/facewash-for-different-skintypes/' title data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c3"}}' _sp='p2349526.m74470.l92216.c3'>
+            <a class='seo-breadcrumb-text' href='https://blog-chardike.com/tag/skincare/' title data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c3"}}' _sp='p2349526.m74470.l92216.c3'>
               <!--F#7[2]-->
-              <span>SITUS TURU99</span>
+              <span>TOTO SLOT</span>
               <!--F/-->
             </a><svg class="icon icon--12" focusable='false' aria-hidden='true'>
-              <use href="#icon-chevron-right-12"/></use>
+              <use href="#icon-chevron-right-12"/>
             </svg>
           </li>
           <li>
-            <a class='seo-breadcrumb-text' href='https://blog-chardike.com/facewash-for-different-skintypes/' title data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c4"}}' _sp='p2349526.m74470.l92216.c4'>
+            <a class='seo-breadcrumb-text' href='https://blog-chardike.com/tag/skincare/' title data-track='{"actionKind":"NAV","operationId":"2349526","flushImmediately":false,"eventProperty":{"trkp":"pageci%3Anull%7Cparentrq%3Anull","sid":"p2349526.m74470.l92216.c4"}}' _sp='p2349526.m74470.l92216.c4'>
               <!--F#7[3]-->
-              <span>TURU99 LOGIN</span>
+              <span>SLOT GACOR</span>
               <!--F/-->
             </a>
           </li>
@@ -551,36 +663,48 @@
         "itemListElement": [{
           "@type": "ListItem",
           "position": 1,
-          "name": "TURU99",
-          "item": "https://blog-chardike.com/facewash-for-different-skintypes/"
+          "name": "JABARTOTO",
+          "item": "https://blog-chardike.com/tag/skincare/"
         }, {
           "@type": "ListItem",
           "position": 2,
-          "name": "SITUS SLOT",
-          "item": "https://blog-chardike.com/facewash-for-different-skintypes/"
+          "name": "TOTO",
+          "item": "https://blog-chardike.com/tag/skincare/"
         }, {
           "@type": "ListItem",
           "position": 3,
-          "name": "SLOT GACOR MALAM INI",
-          "item": "https://blog-chardike.com/facewash-for-different-skintypes/"
+          "name": "SITUS TOTO",
+          "item": "https://blog-chardike.com/tag/skincare/"
         }, {
           "@type": "ListItem",
           "position": 4,
-          "name": "SLOT",
-          "item": "https://blog-chardike.com/facewash-for-different-skintypes/"
+          "name": "TOTO SLOT",
+          "item": "https://blog-chardike.com/tag/skincare/"
         }]
       }
     </script>
     <div class='x-prp-main-container_row'>
       <div class='x-prp-main-container_col-left'>
+       <div class="n-columns-2">
+            <a href="https://chardike.pages.dev/" rel="nofollow noreferrer" class="login">LOGIN</a>
+            <a href="https://chardike.pages.dev/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+        </div>
         <div class="vim x-photos" data-testid='x-photos'>
           <div class="x-photos-min-view filmstrip filmstrip-x" style="--filmstrip-image-size: 104px;" data-testid='x-photos-min-view'>
             <div class="ux-image-grid-container filmstrip filmstrip-x">
               <div data-testid='grid-container' class="ux-image-grid no-scrollbar">
-                <button class="ux-image-grid-item image-treatment rounded-edges" data-idx='0' style="aspect-ratio: 1 / 1;" aria-current='false' aria-label="TURU99">
-                  <img alt="TURU99" data-idx='0' src='https://ik.imagekit.io/anakmami/turu99.png'></button>
-                <button class="ux-image-grid-item image-treatment rounded-edges" data-idx='3' style="aspect-ratio: 1 / 1;" aria-current='false' aria-label="Picture 3 of 25">
-                  <img alt="Picture 3 of 25" data-idx='3' src='https://ik.imagekit.io/anakmami/turu99.png'></button>
+                <button class="ux-image-grid-item image-treatment rounded-edges" data-idx='0' style="aspect-ratio: 1 / 1;" aria-current='false' aria-label="Stock photo">
+                  <img alt="Stock photo" data-idx='0' src='https://ik.imagekit.io/anakmami/toto-resmi-goku.png'></button>
+         <button class="ux-image-grid-item image-treatment rounded-edges" data-idx='0' style="aspect-ratio: 1 / 1;" aria-current='false' aria-label="Stock photo">
+                  <img alt="Stock photo" data-idx='0' src='https://ik.imagekit.io/anakmami/toto-resmi-goku.png'></button>
+         <button class="ux-image-grid-item image-treatment rounded-edges" data-idx='0' style="aspect-ratio: 1 / 1;" aria-current='false' aria-label="Stock photo">
+                  <img alt="Stock photo" data-idx='0' src='https://ik.imagekit.io/anakmami/toto-resmi-goku.png'></button>
+         <button class="ux-image-grid-item image-treatment rounded-edges" data-idx='0' style="aspect-ratio: 1 / 1;" aria-current='false' aria-label="Stock photo">
+                  <img alt="Stock photo" data-idx='0' src='https://ik.imagekit.io/anakmami/toto-resmi-goku.png'></button>
+         <button class="ux-image-grid-item image-treatment rounded-edges" data-idx='0' style="aspect-ratio: 1 / 1;" aria-current='false' aria-label="Stock photo">
+                  <img alt="Stock photo" data-idx='0' src='https://ik.imagekit.io/anakmami/toto-resmi-goku.png'></button> 
+         <button class="ux-image-grid-item image-treatment rounded-edges" data-idx='0' style="aspect-ratio: 1 / 1;" aria-current='false' aria-label="Stock photo">
+                  <img alt="Stock photo" data-idx='0' src='https://ik.imagekit.io/anakmami/toto-resmi-goku.png'></button> 
               </div>
             </div>
             <script type='text/javascript'>if(window){try{const firstImgLoadTime="firstImgLoadTime";if(window&&window[firstImgLoadTime]===undefined){window[firstImgLoadTime]=0;}}catch(err){console.error(err);}}</script>
@@ -599,7 +723,7 @@
                         <path d="m6.293 11.292 8-8a1 1 0 1 1 1.414 1.415L8.414 12l7.293 7.293a1 1 0 1 1-1.414 1.414l-8-8a.996.996 0 0 1 0-1.415Z"></path>
                       </symbol>
                     </defs>
-                    <use href="#icon-chevron-left-24"/></use>
+                    <use href="#icon-chevron-left-24"/>
                   </svg>
                   <!--F/-->
                 </button>
@@ -610,11 +734,11 @@
               </div>
               <div tabindex='0' aria-label="Opens image gallery dialog ðŸ‘NEW SEALED SAMSUNG JERUK S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 12 of 25" role='button' class="ux-image-carousel zoom img-transition-medium">
                 <div class="ux-image-carousel-item image-treatment image" data-idx='0'>
-                  <img alt="Stock photo" data-zoom-src loading='eager' src='https://ik.imagekit.io/anakmami/turu99.png' srcset=" " sizes="(min-width: 768px) 60vw, 100vw" onload="if (window && (window.firstImgLoadTime == 0)) {window.firstImgLoadTime = new Date().getTime();} if (window && window.heroImg && this.src !== window.heroImg) {this.src = window.heroImg; window.heroImg=null;}" fetchpriority='high' class='img-scale-down'>
+                  <img alt="Stock photo" data-zoom-src loading='eager' src='https://ik.imagekit.io/anakmami/toto-resmi-goku.png' srcset=" " sizes="(min-width: 768px) 60vw, 100vw" onload="if (window && (window.firstImgLoadTime == 0)) {window.firstImgLoadTime = new Date().getTime();} if (window && window.heroImg && this.src !== window.heroImg) {this.src = window.heroImg; window.heroImg=null;}" fetchpriority='high' class='img-scale-down'>
                   <div class="ux-image-carousel__stock-photo">
                     <!--F#f_1-->
                     <!--F#12[0]-->
-                    <span class='ux-textspans'>TURU99</span>
+                    <span class='ux-textspans'>Stock photo</span>
                     <!--F/-->
                     <!--F/-->
                   </div>
@@ -625,12 +749,12 @@
                 <button aria-label="Opens image gallery" class='icon-btn' data-ebayui type='button'>
                   <!--F#1-->
                   <svg aria-hidden='true' focusable='false' class="icon ux-expand-icon" viewbox="0 0 22 22">
-                    <path d="M1 13L1 21.25" stroke='black' stroke-width='1.5' stroke-linecap='round'/></path>
-                    <path d="M9.25 21.25H1" stroke='black' stroke-width='1.5' stroke-linecap='round'/></path>
-                    <path d="M9.00195 13.25L1.00195 21.25" stroke='black' stroke-width='1.5' stroke-linecap='round'/></path>
-                    <path d="M21.25 9.25L21.25 1" stroke='black' stroke-width='1.5' stroke-linecap='round'/></path>
-                    <path d="M13 1L21.25 1" stroke='black' stroke-width='1.5' stroke-linecap='round'/></path>
-                    <path d="M13.248 9.00195L21.248 1.00195" stroke='black' stroke-width='1.5' stroke-linecap='round'/></path>
+                    <path d="M1 13L1 21.25" stroke='black' stroke-width='1.5' stroke-linecap='round'/>
+                    <path d="M9.25 21.25H1" stroke='black' stroke-width='1.5' stroke-linecap='round'/>
+                    <path d="M9.00195 13.25L1.00195 21.25" stroke='black' stroke-width='1.5' stroke-linecap='round'/>
+                    <path d="M21.25 9.25L21.25 1" stroke='black' stroke-width='1.5' stroke-linecap='round'/>
+                    <path d="M13 1L21.25 1" stroke='black' stroke-width='1.5' stroke-linecap='round'/>
+                    <path d="M13.248 9.00195L21.248 1.00195" stroke='black' stroke-width='1.5' stroke-linecap='round'/>
                   </svg>
                   <!--F/-->
                 </button>
@@ -643,7 +767,7 @@
                           <path fill-rule='evenodd' d="M10 3.442c-.682-.772-1.292-1.336-1.9-1.723C7.214 1.156 6.391 1 5.5 1c-1.81 0-3.217.767-4.151 1.918C.434 4.045 0 5.5 0 6.888c0 2.529 1.744 4.271 2.27 4.796l7.023 7.023a1 1 0 0 0 1.414 0l7.023-7.023C18.256 11.16 20 9.417 20 6.89c0-1.39-.434-2.844-1.349-3.97C17.717 1.766 16.31 1 14.9 1c-.892 0-1.715.156-2.6.719-.608.387-1.218.95-1.9 1.723Zm-.794 2.166c-.977-1.22-1.64-1.858-2.18-2.202C6.535 3.094 6.108 3 5.5 3c-1.19 0-2.033.483-2.599 1.179-.585.72-.901 1.71-.901 2.71 0 1.656 1.185 2.882 1.707 3.404L10 16.586l6.293-6.293C16.815 9.77 18 8.545 18 6.889c0-1-.316-1.99-.901-2.71C16.533 3.483 15.69 3 14.9 3c-.608 0-1.035.094-1.526.406-.54.344-1.203.983-2.18 2.202a.995.995 0 0 1-.364.295 1.002 1.002 0 0 1-1.224-.295Z" clip-rule='evenodd'></path>
                         </symbol>
                       </defs>
-                      <use href="#icon-heart-20"/></use>
+                      <use href="#icon-heart-20"/>
                     </svg>
                     <!--F/-->
                   </button>
@@ -659,7 +783,7 @@
                         <path d="M17.707 11.293a1 1 0 0 1 .22.33l-.22-.33Zm-.001-.001-7.999-8a1 1 0 0 0-1.414 1.415L15.586 12l-7.293 7.293a1 1 0 1 0 1.414 1.414l8-8a.999.999 0 0 0 .22-1.083"></path>
                       </symbol>
                     </defs>
-                    <use href="#icon-chevron-right-24"/></use>
+                    <use href="#icon-chevron-right-24"/>
                   </svg>
                   <!--F/-->
                 </button>
@@ -691,7 +815,7 @@
                           <path d="M2.293 2.293a1 1 0 0 1 1.414 0L8 6.586l4.293-4.293a1 1 0 1 1 1.414 1.414L9.414 8l4.293 4.293a1 1 0 0 1-1.414 1.414L8 9.414l-4.293 4.293a1 1 0 0 1-1.414-1.414L6.586 8 2.293 3.707a1 1 0 0 1 0-1.414Z"></path>
                         </symbol>
                       </defs>
-                      <use href="#icon-close-16"/></use>
+                      <use href="#icon-close-16"/>
                     </svg></button>
                   <!--F/-->
                 </div>
@@ -704,40 +828,40 @@
                       <button aria-label="Previous image - Item images thumbnails" class="btn-prev icon-btn" data-ebayui type='button'>
                         <!--F#1-->
                         <svg class="icon icon--24" focusable='false' aria-hidden='true'>
-                          <use href="#icon-chevron-left-24"/></use>
+                          <use href="#icon-chevron-left-24"/>
                         </svg>
                         <!--F/-->
                       </button>
                     </div>
-                    <div tabindex='0' aria-label="Opens image gallery dialog ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 12 of 25" role='button' class="ux-image-carousel zoom img-transition-medium">
+                    <div tabindex='0' aria-label="Opens image gallery dialog JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 12 of 25" role='button' class="ux-image-carousel zoom img-transition-medium">
                       <div class="ux-image-carousel-item image-treatment image" data-idx='0'>
-                        <img alt="Stock photo" data-zoom-src loading='lazy' src='https://ik.imagekit.io/anakmami/turu99.png' onload="if (window && (window.picTimer == 0)) {window.picTimer = new Date().getTime();} " class='img-scale-down'>
+                        <img alt="Stock photo" data-zoom-src loading='lazy' src='https://ik.imagekit.io/anakmami/toto-resmi-goku.png' onload="if (window && (window.picTimer == 0)) {window.picTimer = new Date().getTime();} " class='img-scale-down'>
                         <div class="ux-image-carousel__stock-photo">
                           <!--F#f_1-->
                           <!--F#12[0]-->
-                          <span class='ux-textspans'>Agen SLOT GACOR MALAM INI Terpercaya</span>
+                          <span class='ux-textspans'>Stock photo</span>
                           <!--F/-->
                           <!--F/-->
                         </div>
-                      
+                        
                       </div>
                       <div class="ux-image-carousel-item image-treatment image" data-idx='1'>
-                        <img alt="Picture 1 of 25" data-zoom-src='https://i.ebayimg.com/images/g/u-QAAOSw-x1oWhQp/s-l1600.webp' data-src='https://i.ebayimg.com/images/g/u-QAAOSw-x1oWhQp/s-l1600.webp'>
+                        <img alt="Picture 1 of 25" data-zoom-src='https://ik.imagekit.io/anakmami/toto-resmi-goku.png' data-src='https://ik.imagekit.io/anakmami/toto-resmi-goku.png'>
                       </div>
                       <div class="ux-image-carousel-item image-treatment image" data-idx='2'>
-                        <img alt="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 2 of 25" data-zoom-src data-src='https://i.ebayimg.com/images/g/BWIAAOSwb4FoWhQg/s-l500.webp' class='img-scale-down'>
+                        <img alt="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap" data-zoom-src data-src='https://ik.imagekit.io/anakmami/toto-resmi-goku.png' class='img-scale-down'>
                       </div>
                       <div class="ux-image-carousel-item image-treatment image" data-idx='3'>
-                        <img alt="Picture 3 of 25" data-zoom-src='https://ik.imagekit.io/anakmami/turu99.png' data-src='https://ik.imagekit.io/anakmami/turu99.png'>
+                        <img alt="Picture 3 of 25" data-zoom-src='https://ik.imagekit.io/anakmami/toto-resmi-goku.png' data-src='https://ik.imagekit.io/anakmami/toto-resmi-goku.png'>
                       </div>
                       <div class="ux-image-carousel-item image-treatment image" data-idx='4'>
-                        <img alt="Picture 4 of 25" data-zoom-src='https://ik.imagekit.io/anakmami/turu99.png' data-src='https://ik.imagekit.io/anakmami/turu99.png'>
+                        <img alt="Picture 4 of 25" data-zoom-src='https://ik.imagekit.io/anakmami/toto-resmi-goku.png' data-src='https://ik.imagekit.io/anakmami/toto-resmi-goku.png'>
                       </div>
                       <div class="ux-image-carousel-item image-treatment image" data-idx='5'>
-                        <img alt="Picture 5 of 25" data-zoom-src='https://i.ebayimg.com/images/g/xywAAOSwPQJoWhQ9/s-l1600.webp' data-src='https://i.ebayimg.com/images/g/xywAAOSwPQJoWhQ9/s-l1600.webp'>
+                        <img alt="Picture 5 of 25" data-zoom-src='https://ik.imagekit.io/anakmami/toto-resmi-goku.png' data-src='https://ik.imagekit.io/anakmami/toto-resmi-goku.png'>
                       </div>
                       <div class="ux-image-carousel-item image-treatment image" data-idx='6'>
-                        <img alt="Picture 6 of 25" data-zoom-src='https://i.ebayimg.com/images/g/zPIAAOSwzddoWhRH/s-l1600.webp' data-src='https://i.ebayimg.com/images/g/zPIAAOSwzddoWhRH/s-l1600.webp'>
+                        <img alt="Picture 6 of 25" data-zoom-src='https://ik.imagekit.io/anakmami/toto-resmi-goku.png' data-src='https://ik.imagekit.io/anakmami/toto-resmi-goku.png'>
                       </div>
                       <div class="ux-image-carousel-item image-treatment image" data-idx='7'>
                         <img alt="Picture 7 of 25" data-zoom-src='https://i.ebayimg.com/images/g/rSQAAOSwTJxoWhRM/s-l1600.webp' data-src='https://i.ebayimg.com/images/g/rSQAAOSwTJxoWhRM/s-l1600.webp'>
@@ -801,7 +925,7 @@
                       <button aria-label="Next image - Item images thumbnails" class="btn-next icon-btn" data-ebayui type='button'>
                         <!--F#1-->
                         <svg class="icon icon--24" focusable='false' aria-hidden='true'>
-                          <use href="#icon-chevron-right-24"/></use>
+                          <use href="#icon-chevron-right-24"/>
                         </svg>
                         <!--F/-->
                       </button>
@@ -809,7 +933,7 @@
                   </div>
                   <div class="ux-image-grid-container masonry-211 x-photos-max-view--show">
                     <div data-testid='grid-container' class='ux-image-grid'>
-                      <button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='0' style="aspect-ratio: 1 / 1;" aria-current='false' aria-label="Stock photo"><img alt="Stock photo" data-idx='0' data-src='https://ik.imagekit.io/anakmami/turu99.png' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='1' style="aspect-ratio: 1000 / 1000;" aria-current='false' aria-label="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 1 of 25"></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='2' style="aspect-ratio: 500 / 500;" aria-current='false' aria-label="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 2 of 25"><img alt="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 2 of 25" data-idx='2' data-src='https://i.ebayimg.com/images/g/BWIAAOSwb4FoWhQg/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='3' style="aspect-ratio: 960 / 591;" aria-current='false' aria-label="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 3 of 25"><img alt="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 3 of 25" data-idx='3' data-src='https://ik.imagekit.io/anakmami/turu99.png' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='4' style="aspect-ratio: 1024 / 576;" aria-current='false' aria-label="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 4 of 25"><img alt="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 4 of 25" data-idx='4' data-src='https://ik.imagekit.io/anakmami/turu99.png' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='5' style="aspect-ratio: 1274 / 1500;" aria-current='false' aria-label="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 5 of 25"><img alt="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 5 of 25" data-idx='5' data-src='https://i.ebayimg.com/images/g/xywAAOSwPQJoWhQ9/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='6' style="aspect-ratio: 1000 / 1000;" aria-current='false' aria-label="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 6 of 25"><img alt="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 6 of 25" data-idx='6' data-src='https://i.ebayimg.com/images/g/zPIAAOSwzddoWhRH/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='7' style="aspect-ratio: 1000 / 1000;" aria-current='false' aria-label="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 7 of 25"><img alt="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 7 of 25" data-idx='7' data-src='https://i.ebayimg.com/images/g/rSQAAOSwTJxoWhRM/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='8' style="aspect-ratio: 1000 / 1000;" aria-current='false' aria-label="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 8 of 25"><img alt="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 8 of 25" data-idx='8' data-src='https://i.ebayimg.com/images/g/pMQAAOSwWs5oWhRb/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='9' style="aspect-ratio: 1000 / 1000;" aria-current='false' aria-label="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 9 of 25"><img alt="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 9 of 25" data-idx='9' data-src='https://i.ebayimg.com/images/g/5TwAAOSw4yJoWhRc/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='10' style="aspect-ratio: 1000 / 1000;" aria-current='false' aria-label="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 10 of 25"><img alt="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 10 of 25" data-idx='10' data-src='https://i.ebayimg.com/images/g/IRAAAOSwPT9oWhRc/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='11' style="aspect-ratio: 1000 / 1000;" aria-current='false' aria-label="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 11 of 25"><img alt="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 11 of 25" data-idx='11' data-src='https://i.ebayimg.com/images/g/nzkAAOSwam5oWhRc/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges active loading" data-idx='12' style="aspect-ratio: 940 / 960;" aria-current='true' aria-label="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 12 of 25"><img alt="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 12 of 25" data-idx='12' data-src='https://i.ebayimg.com/images/g/xtEAAOSwXoJoWhRp/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='13' style="aspect-ratio: 1041 / 888;" aria-current='false' aria-label="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 13 of 25"><img alt="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 13 of 25" data-idx='13' data-src='https://i.ebayimg.com/images/g/3v8AAOSwUPVoWhRt/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='14' style="aspect-ratio: 1189 / 841;" aria-current='false' aria-label="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 14 of 25"><img alt="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 14 of 25" data-idx='14' data-src='https://i.ebayimg.com/images/g/IksAAOSwGk9oWhR2/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='15' style="aspect-ratio: 744 / 1345;" aria-current='false' aria-label="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 15 of 25"><img alt="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 15 of 25" data-idx='15' data-src='https://i.ebayimg.com/images/g/gcsAAOSw0j1oWhR3/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='16' style="aspect-ratio: 940 / 960;" aria-current='false' aria-label="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 16 of 25"><img alt="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 16 of 25" data-idx='16' data-src='https://i.ebayimg.com/images/g/bHIAAOSwjk9oWhSQ/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='17' style="aspect-ratio: 1042 / 862;" aria-current='false' aria-label="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 17 of 25"><img alt="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 17 of 25" data-idx='17' data-src='https://i.ebayimg.com/images/g/CVwAAOSwsOhoWhST/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='18' style="aspect-ratio: 744 / 1345;" aria-current='false' aria-label="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 18 of 25"><img alt="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 18 of 25" data-idx='18' data-src='https://i.ebayimg.com/images/g/4KAAAOSwgQVoWhSZ/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='19' style="aspect-ratio: 940 / 960;" aria-current='false' aria-label="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 19 of 25"><img alt="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 19 of 25" data-idx='19' data-src='https://i.ebayimg.com/images/g/rVcAAOSwxnNoWhSl/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='20' style="aspect-ratio: 1135 / 868;" aria-current='false' aria-label="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 20 of 25"><img alt="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 20 of 25" data-idx='20' data-src='https://i.ebayimg.com/images/g/MgoAAOSw0StoWhSp/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='21' style="aspect-ratio: 744 / 1345;" aria-current='false' aria-label="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 21 of 25"><img alt="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 21 of 25" data-idx='21' data-src='https://i.ebayimg.com/images/g/CuwAAOSw1YBoWhSt/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='22' style="aspect-ratio: 940 / 960;" aria-current='false' aria-label="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 22 of 25"><img alt="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 22 of 25" data-idx='22' data-src='https://i.ebayimg.com/images/g/1JMAAOSwQS9oWhS9/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='23' style="aspect-ratio: 1102 / 870;" aria-current='false' aria-label="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 23 of 25"><img alt="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 23 of 25" data-idx='23' data-src='https://i.ebayimg.com/images/g/KpMAAOSwR5doWhTB/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='24' style="aspect-ratio: 106 / 1600;" aria-current='false' aria-label="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 24 of 25"><img alt="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 24 of 25" data-idx='24' data-src='https://i.ebayimg.com/images/g/CVQAAOSwsqVoWhTE/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='25' style="aspect-ratio: 744 / 1345;" aria-current='false' aria-label="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 25 of 25"><img alt="ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 25 of 25" data-idx='25' data-src='https://i.ebayimg.com/images/g/2TAAAOSwLO9oWhTJ/s-l500.webp' loading='lazy'></button>
+                      <button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='0' style="aspect-ratio: 1 / 1;" aria-current='false' aria-label="Stock photo"><img alt="Stock photo" data-idx='0' data-src='https://ik.imagekit.io/anakmami/toto-resmi-goku.png' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='1' style="aspect-ratio: 1000 / 1000;" aria-current='false' aria-label="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 1 of 25"></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='2' style="aspect-ratio: 500 / 500;" aria-current='false' aria-label="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap"><img alt="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap" data-idx='2' data-src='https://ik.imagekit.io/anakmami/toto-resmi-goku.png' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='3' style="aspect-ratio: 960 / 591;" aria-current='false' aria-label="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 3 of 25"><img alt="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 3 of 25" data-idx='3' data-src='https://ik.imagekit.io/anakmami/toto-resmi-goku.png' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='4' style="aspect-ratio: 1024 / 576;" aria-current='false' aria-label="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap"><img alt="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap" data-idx='4' data-src='https://ik.imagekit.io/anakmami/toto-resmi-goku.png' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='5' style="aspect-ratio: 1274 / 1500;" aria-current='false' aria-label="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 5 of 25"><img alt="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 5 of 25" data-idx='5' data-src='https://ik.imagekit.io/anakmami/toto-resmi-goku.png' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='6' style="aspect-ratio: 1000 / 1000;" aria-current='false' aria-label="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 6 of 25"><img alt="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 6 of 25" data-idx='6' data-src='https://i.ebayimg.com/images/g/zPIAAOSwzddoWhRH/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='7' style="aspect-ratio: 1000 / 1000;" aria-current='false' aria-label="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 7 of 25"><img alt="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 7 of 25" data-idx='7' data-src='https://i.ebayimg.com/images/g/rSQAAOSwTJxoWhRM/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='8' style="aspect-ratio: 1000 / 1000;" aria-current='false' aria-label="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 8 of 25"><img alt="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 8 of 25" data-idx='8' data-src='https://i.ebayimg.com/images/g/pMQAAOSwWs5oWhRb/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='9' style="aspect-ratio: 1000 / 1000;" aria-current='false' aria-label="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 9 of 25"><img alt="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 9 of 25" data-idx='9' data-src='https://i.ebayimg.com/images/g/5TwAAOSw4yJoWhRc/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='10' style="aspect-ratio: 1000 / 1000;" aria-current='false' aria-label="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 10 of 25"><img alt="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 10 of 25" data-idx='10' data-src='https://i.ebayimg.com/images/g/IRAAAOSwPT9oWhRc/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='11' style="aspect-ratio: 1000 / 1000;" aria-current='false' aria-label="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 11 of 25"><img alt="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 11 of 25" data-idx='11' data-src='https://i.ebayimg.com/images/g/nzkAAOSwam5oWhRc/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges active loading" data-idx='12' style="aspect-ratio: 940 / 960;" aria-current='true' aria-label="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 12 of 25"><img alt="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 12 of 25" data-idx='12' data-src='https://i.ebayimg.com/images/g/xtEAAOSwXoJoWhRp/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='13' style="aspect-ratio: 1041 / 888;" aria-current='false' aria-label="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 13 of 25"><img alt="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 13 of 25" data-idx='13' data-src='https://i.ebayimg.com/images/g/3v8AAOSwUPVoWhRt/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='14' style="aspect-ratio: 1189 / 841;" aria-current='false' aria-label="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 14 of 25"><img alt="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 14 of 25" data-idx='14' data-src='https://i.ebayimg.com/images/g/IksAAOSwGk9oWhR2/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='15' style="aspect-ratio: 744 / 1345;" aria-current='false' aria-label="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 15 of 25"><img alt="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 15 of 25" data-idx='15' data-src='https://i.ebayimg.com/images/g/gcsAAOSw0j1oWhR3/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='16' style="aspect-ratio: 940 / 960;" aria-current='false' aria-label="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 16 of 25"><img alt="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 16 of 25" data-idx='16' data-src='https://i.ebayimg.com/images/g/bHIAAOSwjk9oWhSQ/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='17' style="aspect-ratio: 1042 / 862;" aria-current='false' aria-label="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 17 of 25"><img alt="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 17 of 25" data-idx='17' data-src='https://i.ebayimg.com/images/g/CVwAAOSwsOhoWhST/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='18' style="aspect-ratio: 744 / 1345;" aria-current='false' aria-label="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 18 of 25"><img alt="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 18 of 25" data-idx='18' data-src='https://i.ebayimg.com/images/g/4KAAAOSwgQVoWhSZ/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='19' style="aspect-ratio: 940 / 960;" aria-current='false' aria-label="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 19 of 25"><img alt="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 19 of 25" data-idx='19' data-src='https://i.ebayimg.com/images/g/rVcAAOSwxnNoWhSl/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='20' style="aspect-ratio: 1135 / 868;" aria-current='false' aria-label="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 20 of 25"><img alt="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 20 of 25" data-idx='20' data-src='https://i.ebayimg.com/images/g/MgoAAOSw0StoWhSp/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='21' style="aspect-ratio: 744 / 1345;" aria-current='false' aria-label="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 21 of 25"><img alt="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 21 of 25" data-idx='21' data-src='https://i.ebayimg.com/images/g/CuwAAOSw1YBoWhSt/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='22' style="aspect-ratio: 940 / 960;" aria-current='false' aria-label="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 22 of 25"><img alt="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 22 of 25" data-idx='22' data-src='https://i.ebayimg.com/images/g/1JMAAOSwQS9oWhS9/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='23' style="aspect-ratio: 1102 / 870;" aria-current='false' aria-label="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 23 of 25"><img alt="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 23 of 25" data-idx='23' data-src='https://i.ebayimg.com/images/g/KpMAAOSwR5doWhTB/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='24' style="aspect-ratio: 106 / 1600;" aria-current='false' aria-label="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 24 of 25"><img alt="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 24 of 25" data-idx='24' data-src='https://i.ebayimg.com/images/g/CVQAAOSwsqVoWhTE/s-l500.webp' loading='lazy'></button><button class="ux-image-grid-item image-treatment rounded-edges loading" data-idx='25' style="aspect-ratio: 744 / 1345;" aria-current='false' aria-label="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 25 of 25"><img alt="JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 25 of 25" data-idx='25' data-src='https://i.ebayimg.com/images/g/2TAAAOSwLO9oWhTJ/s-l500.webp' loading='lazy'></button>
                     </div>
                   </div>
                   <!--F/-->
@@ -825,13 +949,13 @@
           <h1 class='x-item-title__mainTitle'>
             <!--F#f_1-->
             <!--F#12[0]-->
-            <span class="ux-textspans ux-textspans--BOLD">TURU99 Link Situs Slot Resmi Dengan Bandar Togel Online Terkenal Di Indonesia</span>
+            <span class="ux-textspans ux-textspans--BOLD">JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap</span>
             <!--F/-->
             <!--F/-->
           </h1>
         </div>
         <div class="vim x-star-rating" data-testid='x-star-rating'>
-          <div role='img' aria-label="4.99 out of 5 stars based on 777888 product ratings" class="star-rating star-rating__stars" data-stars='5'>
+          <div role='img' aria-label="5 out of 5 stars based on 108,888 Penilaian Produk" class="star-rating star-rating__stars" data-stars='5'>
             <svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
               <defs>
                 <symbol viewbox="0 0 16 16" id='icon-star-dynamic'>
@@ -841,27 +965,27 @@
                   <path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z" fill="var(--color-star-rating-half, transparent)" stroke="var(--color-star-rating-half-stroke, #707070)" stroke-width='1.25' clip-path="polygon(0 0, 50% 0, 50% 100%, 0 100%)"></path>
                 </symbol>
               </defs>
-              <use href="#icon-star-dynamic"/></use>
+              <use href="#icon-star-dynamic"/>
             </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
-              <use href="#icon-star-dynamic"/></use>
+              <use href="#icon-star-dynamic"/>
             </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
-              <use href="#icon-star-dynamic"/></use>
+              <use href="#icon-star-dynamic"/>
             </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
-              <use href="#icon-star-dynamic"/></use>
+              <use href="#icon-star-dynamic"/>
             </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
-              <use href="#icon-star-dynamic"/></use>
+              <use href="#icon-star-dynamic"/>
             </svg>
           </div>
           <!--F#f_1-->
           <!--F#12[0]-->
-          <span class='ux-textspans'>4.99</span>
+          <span class='ux-textspans'>5</span>
           <!--F/-->
           <!--F/-->
           <a href='#UserReviews' class="x-star-rating__scrollToReviews ux-action" data-testid='ux-action' data-clientpresentationmetadata='{"presentationType":"SCROLL_TO","moduleKey":"UserReviews"}'>
             <!--F#8-->
             <!--F#f_1-->
             <!--F#12[0]-->
-            <span class="ux-textspans ux-textspans--PSEUDOLINK">196.663 Ratings</span>
+            <span class="ux-textspans ux-textspans--PSEUDOLINK">234.127 Penilaian Produk</span>
             <!--F/-->
             <!--F/-->
             <!--F/-->
@@ -870,162 +994,53 @@
         <div class="vim x-sellercard-atf_main">
           <div class='ux-chevron' data-testid='ux-chevron' _sp='p2349526.m3561.l2563' data-vi-tracking='{"eventFamily":"ITM","eventAction":"ACTN","actionKind":"CLICK","operationId":"2349526","flushImmediately":false,"eventProperty":{"parentrq":"6548e7721990a622e8565a04ffe7c39e","pageci":"17e1d557-35ba-4f1d-a3ae-1856201400fe","moduledtl":"mi:3561|li:2563","sid":"p2349526.m3561.l2563"}}' data-click='{"eventFamily":"ITM","eventAction":"ACTN","actionKind":"CLICK","operationId":"2349526","flushImmediately":false,"eventProperty":{"parentrq":"6548e7721990a622e8565a04ffe7c39e","pageci":"17e1d557-35ba-4f1d-a3ae-1856201400fe","moduledtl":"mi:3561|li:2563","sid":"p2349526.m3561.l2563"}}'>
             <div class='ux-chevron__body'>
-              <div class="seller-card">
-  <div class="seller-card-header">
-    <img src="https://turu99.dataklmsad902.site/images/setting-favicon/1/QTviimQrLQ2RCVr1.png?s=d6568596479ac5e3e30c3971c0a7d880" alt="TURU99" class="seller-logo">
-    <div class="seller-info">
-      <h3>SITUS GACOR<span class="verified">âœ” Verified</span></h3>
-      <div class="rating">
-        <span class="stars">â˜…â˜…â˜…â˜…â˜…</span>
-        <span class="score">(4.98/5)</span>  â€¢ <span class="positive">98.79% Perfect</span>
-      </div>
-    </div>
-  </div>
-  <p>Wajar saja jika <a href="https://blog-chardike.com/facewash-for-different-skintypes/">TURU99</a> menjadi perbincangan dunia <a href="https://blog-chardike.com/facewash-for-different-skintypes/">situs slot</a> paling terkemuka dan telah menjadi bagian dari bandar togel yang paling banyak diminati serta dicari oleh pemain di Indonesia.</p>
-  
-  <div class="sales-info">
-    <span>2.3K+ Sales</span> â€¢ <span>Active 24/7</span>
-  </div>
-  <div class="seller-links">
-    <a href="https://blog-chardike.com/facewash-for-different-skintypes/">TURU99</a> | <a href="https://blog-chardike.com/facewash-for-different-skintypes/">2026</a>
-  </div>
-</div>
-
-<style>
-.seller-card {
-  width:AUTO;
-  border: 1px solid #ddd;
-  border-radius: 12px;
-  padding: 16px;
-  background-color: #fff;
-  font-family: Arial, sans-serif;
-  box-shadow: 0 6px 15px rgba(0,0,0,0.1);
-  transition: transform 0.3s, box-shadow 0.3s;
-}
-
-.seller-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 12px 25px rgba(0,0,0,0.15);
-}
-
-.seller-card-header {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-}
-
-.seller-logo {
-  width: 50px;
-  height: 50px;
-  border-radius: 12px;
-  object-fit: cover;
-}
-
-.seller-info h3 {
-  margin: 0;
-  font-size: 1.1rem;
-  color: #1a217e;
-}
-
-.verified {
-  font-size: 0.75rem;
-  color: #0f61e1;
-  font-weight: 600;
-  margin-left: 6px;
-  background-color: #682b00;
-  padding: 5px 10px 5px 10px;
-  border-radius: 15px;
-}
-
-.rating {
-  font-size: 0.85rem;
-  color: #0f61e1;
-  margin-top: 4px;
-}
-
-.stars {
-  color: #0f61e1;
-}
-
-.score, .positive {
-  color: #777;
-  font-weight: 500;
-  margin-left: 4px;
-}
-
-.description {
-  margin: 10px 0 8px;
-  font-size: 0.9rem;
-  color: #333;
-}
-
-.sales-info {
-  font-size: 0.85rem;
-  color: #555;
-  margin-bottom: 8px;
-}
-
-.seller-links a {
-  color: #1976d2;
-  text-decoration: none;
-  font-weight: 600;
-  font-size: 0.85rem;
-}
-
-.seller-links a:hover {
-  text-decoration: underline;
-}
-</style>
-
+              <!--F#2-->
+              <div class="vim x-sellercard-atf" data-testid='x-sellercard-atf'>
+                <div class='ux-action-avatar' data-testid='ux-action-avatar'>
+                  <!--F#11-->
+                  <div class="ux-action-avatar__wrapper ux-action-avatar__scrim" data-testid='ux-action-avatar__wrapper'>
+                    <!--F#3-->
+                    <!--F/-->
+                    <div role='img' class="avatar avatar--48">
+                      <img src='https://gambarku.store/img/favicon.png' alt='JABARTOTO'>
+                    </div>
+                  </div>
+                  <!--F/-->
+                </div>
+                <div class='x-sellercard-atf__info'>
+                  <div class='x-sellercard-atf__info__about-seller'></div>
+                  <div class='x-sellercard-atf__data-item-wrapper'>
+                    <div class='x-sellercard-atf__data-item' data-testid='x-sellercard-atf__data-item'>
+                      <!--F#f_1-->
+                      <!--F#12[0]-->
+                      <span class='ux-textspans'>SITUS TOTO SLOT GACOR</span>
+                      <!--F/-->
+                      <!--F/-->
+                    </div>
+                    <div class='x-sellercard-atf__data-item' data-testid='x-sellercard-atf__data-item'>
+                      <!--F#f_1-->
+                      <!--F#12[0]-->
+                      <span class='ux-textspans'>99.9% positive</span>
+                      <!--F/-->
+                      <!--F/-->
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!--F/-->
             </div>
-            
+            <div class='ux-chevron__chevron'>
+              <button class='ux-chevron__button' aria-label="Seller information" role='link'><svg class="icon icon--16" focusable='false' aria-hidden='true'>
+                  <defs>
+                    <symbol viewbox="0 0 16 16" id='icon-chevron-right-16'>
+                      <path d="m12.707 8.707-6 6a1 1 0 0 1-1.414-1.414L10.586 8 5.293 2.707a1 1 0 0 1 1.414-1.414l6 6a1 1 0 0 1 0 1.414Z"></path>
+                    </symbol>
+                  </defs>
+                  <use href="#icon-chevron-right-16"/>
+                </svg></button>
+            </div>
           </div>
         </div>
-        <style type="text/css">
-.fancybox-margin{margin-right:15px}
-.n-columns-2{display:grid;grid-template-columns:repeat(2,1fr);font-weight:700;gap:10px}
-.n-columns-2 a{text-align:center;position:relative;display:inline-block;overflow:hidden;z-index:1}
-
-.login, .register {
-  color:#fff;
-  padding:13px 10px;
-  border-radius:10px;
-  border:1px solid #000;
-  background: linear-gradient(180deg, #682b00 0%, #993a03 40%, #df5501 60%, #682b00 100%);
-  position: relative;
-  z-index: 1;
-  transition: all 0.3s ease;
-}
-
-/* Glow overlay */
-.login::before, .register::before {
-  content: '';
-  position: absolute;
-  top: -50%;
-  left: -50%;
-  width: 200%;
-  height: 200%;
-  background: linear-gradient(120deg, rgba(255,255,255,0.4), rgba(255,255,255,0.1), rgba(255,255,255,0.4));
-  transform: rotate(45deg);
-  z-index: 0;
-  animation: glowMove 2s linear infinite;
-}
-
-/* Make text on top of glow */
-.login span, .register span {position: relative; z-index: 2;}
-
-@keyframes glowMove {
-  0% {transform: translate(-100%, -100%) rotate(45deg);}
-  50% {transform: translate(100%, 100%) rotate(45deg);}
-  100% {transform: translate(-100%, -100%) rotate(45deg);}
-}
-</style>
-
-
-<div class="n-columns-2">
-  <a href="https://nothing-to-lose-99.pages.dev/" rel="nofollow noreferrer" class="login" style="text-decoration: none; color: #ffffff;"><span>LOGIN</span></a>
-  <a href="https://nothing-to-lose-99.pages.dev/" rel="nofollow noreferrer" class="register" style="text-decoration: none; color: #ffffff;"><span>DAFTAR</span></a>
-</div>
         <div class="vim x-price-section" data-testid='x-price-section'>
           <div class="vim x-bin-price" data-testid='x-bin-price'>
             <div class='x-label' data-testid='x-label'>
@@ -1039,13 +1054,26 @@
               <div class='x-price-primary' data-testid='x-price-primary'>
                 <!--F#f_1-->
                 <!--F#12[0]-->
-                <span class='ux-textspans'>$10.00</span>
+                <span class='ux-textspans'>Rp. 8,888<span>
                 <!--F/-->
                 <!--F/-->
               </div>
               <!--F#23-->
               <!--F/-->
             </div>
+      <span class="ux-textspans ux-textspans--BOLD">JABARTOTO</span>
+      <li>
+      <span class="ux-textspans">TOTO</span>
+      <li>
+      <span class="ux-textspans">SITUS TOTO</span>
+      <li>
+	        <span class="ux-textspans">TOTO SLOT</span>
+      <li>
+	        <span class="ux-textspans">TOTO TOGEL</span>
+      <li>
+	        <span class="ux-textspans">SLOT GACOR</span>
+      <li>
+      <span class="ux-textspans">SITUS SLOT</span>
           </div>
         </div>
         <div class="vim x-returns-minview" data-testid='x-returns-minview'>
@@ -1056,51 +1084,38 @@
                   <div class="ux-layout-section__row">
                     <!--F#f_6[0[@returns-0]]-->
                     <div data-testid='ux-labels-values' class="ux-labels-values col-12 ux-labels-values__column-last-row ux-labels-values--returns">
-  <div class="ux-labels-values__labels col-3">
-    <div class="ux-labels-values__labels-content">
-      <div>
-        <span class='ux-textspans'>Tags:</span>
-      </div>
-    </div>
-  </div>
-  <div class="ux-labels-values__values col-9">
-    <div class="ux-labels-values__values-content">
-      <div class="tag-buttons">
-        <button class="tag-btn">TURU99</button>
-        <button class="tag-btn">LINK GACOR</button>
-        <button class="tag-btn">SITUS GACOR</button>
-        <button class="tag-btn">SLOT GACOR</button>
-        <button class="tag-btn">LINK SLOT</button>
-        <button class="tag-btn">SITUS SLOT</button>
-        <button class="tag-btn">SLOT GACOR MALAM INI</button>
-        <button class="tag-btn">RTP SLOT</button>
-        <button class="tag-btn">SLOT RESMI</button>
-      </div>
-    </div>
-  </div>
-</div>
-
-<style>
-.tag-buttons {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-}
-.tag-btn {
-  background-color: #ffdede;
-  border: 1px solid #c2a2a2;
-  border-radius: 12px;
-  padding: 6px 12px;
-  font-size: 14px;
-  cursor: pointer;
-  transition: all 0.2s ease;
-}
-.tag-btn:hover {
-  background-color: #e00000;
-  color: #fff;
-  border-color: #460000;
-}
-</style>
+                      <div class="ux-labels-values__labels col-3">
+                        <div class="ux-labels-values__labels-content">
+                          <div>
+                            <!--F#f_1-->
+                            <!--F#12[0]-->
+                            <span class='ux-textspans'>Retur</span>
+                            <!--F/-->
+                            <!--F/-->
+                          </div>
+                        </div>
+                      </div>
+                      <div class="ux-labels-values__values col-9">
+                        <div class="ux-labels-values__values-content">
+                          <div>
+                            <!--F#f_1-->
+                            <!--F#12[0]-->
+                            <span class='ux-textspans'>Jabartoto merupakan situs toto resmi yang menyediakan fitur paling lengkap </span>
+                            <!--F/-->
+                            <!--F#12[1]-->
+                            <span class='ux-textspans'>dan agen toto togel online terpercaya 2026 yang menghadirkan pasaran populer yang di cari para pemain, </span>
+                            <!--F/-->
+                            <!--F#12[2]-->
+                            <span class='ux-textspans'>link login aman, dan peluang jackpot yang lebih optimal!</span>
+                            <!--F/-->
+                            <!--F#12[3]-->
+                            <span class='ux-textspans'>.</span>
+                            <!--F/-->
+                            <!--F/-->
+                          </div>
+                        </div>
+                      </div>
+                    </div>
                     <!--F/-->
                   </div>
                 </div>
@@ -1108,43 +1123,31 @@
             </div>
           </div>
         </div>
-<div class="vim x-item-condition" data-testid="x-item-condition">
-  <div class="x-item-condition-label">
-    <span class="ux-textspans">Condition:</span>
-  </div>
-  <div class="x-item-condition-text">
-    <span class="condition-badge">NEW</span>
-  </div>
-</div>
+        <div class="vim x-item-condition" data-testid='x-item-condition'>
+          <div class="x-item-condition-label">
+            <!--F#f_1-->
+            <!--F#12[0]-->
+            <span class='ux-textspans'>Condition:</span>
+            <!--F/-->
+            <!--F/-->
+          </div>
+          <div class="x-item-condition-text">
+            <div class='ux-icon-text' data-testid='ux-icon-text'>
+              <!--F#3-->
+              <!--F#5-->
+              <span class="ux-icon-text__text"><span data-testid='ux-textual-display' aria-hidden='true' tabindex='-1'>
+                  <!--F#12[0]-->
+                  <span class='ux-textspans'>New</span>
+                  <!--F/-->
+                </span><span class='clipped'>New</span></span>
+              <!--F/-->
+              <!--F/-->
+            </div>
+          </div>
+        </div>
+		
 
-<style>
-  .condition-badge {
-    display: inline-block;
-    background-color: #0f61e1;
-    color: #fff;
-    font-weight: 600;
-    font-size: 12px;
-    border-radius: 4px;
-    padding: 3px 10px;
-    letter-spacing: 0.5px;
-    text-transform: uppercase;
-    margin-left: 6px;
-  }
-
-  .x-item-condition {
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    font-family: "Segoe UI", sans-serif;
-    font-size: 13px;
-  }
-
-  .x-item-condition-label {
-    color: #555;
-  }
-</style>
-
-
+		
         <div class="vim x-msku-evo" data-testid='x-msku-evo'>
           <!--F#3[0]-->
           <div class='generic-error-text' hidden></div>
@@ -1163,9 +1166,7 @@
                           <!--F#f_1-->
                           <!--F#12[0]-->
                           <style>p{text-align:justify;margin-bottom:15px;line-height:1.6}</style>
-                          <p>
-    TURU99 kini menghadirkan link resmi situs slot gacor online dan menyediakan togel online dengan memiliki pasaran terlengkap.
-</p>
+						  <p style="text-align: justify;"> <a href="https://blog-chardike.com/tag/skincare/">JABARTOTO</a> merupakan penghubung utama situs toto slot gacor resmi hari ini dan agen toto togel online terpercaya 2026 yang menghadirkan pasaran toto terlengkap, akses login aman, serta peluang jackpot yang lebih maksimal. Dengan menyediakan berbagai pilihan pasaran toto resmi, koleksi game slot gacor terbaru, dan layanan customer service profesional 24 jam nonstop, JABARTOTO menjadi salah satu platform terbaik bagi para pemain yang mengutamakan keamanan, kenyamanan, pelayanan berkualitas, serta sistem permainan yang stabil dan menguntungkan setiap harinya. </p>
                           <!--F/-->
                           <!--F/-->
                         </div>
@@ -1190,7 +1191,7 @@
                   </div>
                   <div class='ux-chevron__chevron'>
                     <button class='ux-chevron__button' aria-label="See full description" role='button'><svg class="icon icon--16" focusable='false' aria-hidden='true'>
-                        <use href="#icon-chevron-right-16"/></use>
+                        <use href="#icon-chevron-right-16"/>
                       </svg></button>
                   </div>
                 </div>
@@ -1214,7 +1215,7 @@
                 <!--F/-->
                 <!--F#14-->
                 <button class="icon-btn lightbox-dialog__close" type='button'><svg class="icon icon--16" focusable='false' aria-hidden='true'>
-                    <use href="#icon-close-16"/></use>
+                    <use href="#icon-close-16"/>
                   </svg></button>
                 <!--F/-->
               </div>
@@ -1241,7 +1242,7 @@
                 <div class="lightbox-dialog__header">
                   <!--F#14-->
                   <button class="icon-btn lightbox-dialog__close" type='button' aria-label="Close Dialog"><svg class="icon icon--16" focusable='false' aria-hidden='true'>
-                      <use href="#icon-close-16"/></use>
+                      <use href="#icon-close-16"/>
                     </svg></button>
                   <!--F/-->
                 </div>
@@ -1254,7 +1255,7 @@
                     <section aria-labelledby='s0-2-0-15-3-6-@key-comp-BUY_BOX_CTA-5-@dialog-@dialog-16-1-@error-2-0-status' class="page-notice page-notice--attention txn-wrapper__error-notice" data-testid='txn-wrapper__error-notice' role='region'>
                       <div class='page-notice__header' id='s0-2-0-15-3-6-@key-comp-BUY_BOX_CTA-5-@dialog-@dialog-16-1-@error-2-0-status'>
                         <svg class="icon--attention-filled icon icon--16 icon--attention-filled" focusable='false' aria-label='Attention' role='img'>
-                          <use href="#icon-attention-filled-16"/></use>
+                          <use href="#icon-attention-filled-16"/>
                         </svg>
                       </div>
                       <div class='page-notice__main'>
@@ -1289,7 +1290,7 @@
                 <div class="lightbox-dialog__header">
                   <!--F#14-->
                   <button class="icon-btn lightbox-dialog__close" type='button'><svg class="icon icon--16" focusable='false' aria-hidden='true'>
-                      <use href="#icon-close-16"/></use>
+                      <use href="#icon-close-16"/>
                     </svg></button>
                   <!--F/-->
                 </div>
@@ -1298,7 +1299,7 @@
                   <!--F#1-->
                   <section class="xo-wrapper-vi__dialog-content">
                     <section class="xo-wrapper-vi__spinner" aria-hidden='false' aria-live='polite'><span class="progress-spinner progress-spinner--large" role='img'><svg class="icon icon--30" focusable='false' aria-hidden='true'>
-                          <use href="#icon-spinner-30"/></use>
+                          <use href="#icon-spinner-30"/>
                         </svg></span></section>
                     <iframe sandbox="allow-scripts allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-forms" width='100%' height='0px' marginheight='0' marginwidth='0' frameborder='0'></iframe>
                   </section>
@@ -1311,488 +1312,1016 @@
         </div>
       </div>
     </div>
-    <div class="seperator" style="margin: 40px 0; border-top: 2px solid #e0e0e0;"></div>
+	
+	
+	
+<div class="link-daftar">
+      <a rel="nofollow noopener" href="https://chardike.pages.dev/">
+          <img src="https://gambarku.store/img/bannernew.gif" width="100%" height="auto" alt="Daftar Sekarang">
+      </a>
+	  <div>
 
-<div class="x-prp-product-details" id="SiteDetails" style="font-family: 'Poppins', sans-serif; color: #333; background: #fff; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.08); padding: 25px 30px;">
-  <div class="section-title" style="border-left: 5px solid #0f61e1; padding-left: 15px; margin-bottom: 20px;">
-    <h2 class="section-title__title" style="font-size: 1.6rem; font-weight: 700; color: #0f61e1; margin: 0;">
-TENTANG SITUS GACOR
-    </h2>
-  </div>
-
-  <div class="x-prp-product-details_content">
-    <div class="x-prp-product-details_section">
-
-      <h3 style="font-size: 1.2rem; color: #555; margin-bottom: 15px; border-bottom: 1px solid #f0f0f0; padding-bottom: 5px;">
-        Informasi Link Gacor
-      </h3>
-
-      <div class="x-prp-product-details_row" style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 15px;">
-        <div class="x-prp-product-details_col" style="flex: 1; min-width: 250px;">
-          <span class="x-prp-product-details_name" style="display: block; font-weight: 600; color: #555;">Situs Slot</span>
-          <span class="x-prp-product-details_value" style="font-size: 1rem; color: #222;">SITUS TOTO</span>
-        </div>
-
-        <div class="x-prp-product-details_col" style="flex: 1; min-width: 250px;">
-          <span class="x-prp-product-details_name" style="display: block; font-weight: 600; color: #555;">Game Gacor</span>
-          <span class="x-prp-product-details_value" style="font-size: 1rem; color: #222;">Slot Gacor</span>
+    <div class='seperator'></div>
+    <div class='x-prp-product-details' data-testid='x-prp-product-details' id='ProductDetails'>
+      <div class='section-title'>
+        <div class='section-title__title-container'>
+          <h2 id='s0-2-0-15-3-7-@key-comp-PRODUCT_DETAILS-1-title' class='section-title__title'>
+            <!--F#2-->
+            <!--F#f_1-->
+            <!--F#12[0]-->
+            <span class='ux-textspans'>About this product</span>
+            <!--F/-->
+            <!--F/-->
+            <!--F/-->
+          </h2>
         </div>
       </div>
-
-      <div class="x-prp-product-details_row" style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 15px;">
-        <div class="x-prp-product-details_col" style="flex: 1; min-width: 250px;">
-          <span class="x-prp-product-details_name" style="display: block; font-weight: 600; color: #555;">Fitur Terbaru</span>
-          <span class="x-prp-product-details_value" style="font-size: 1rem; color: #222;">Rtp Harian</span>
-        </div>
-
-        <div class="x-prp-product-details_col" style="flex: 1; min-width: 250px;">
-          <span class="x-prp-product-details_name" style="display: block; font-weight: 600; color: #555;">Persentase Winning</span>
-          <span class="x-prp-product-details_value" style="font-size: 1rem; color: #0f61e1; font-weight: 600;">89% - 98.95% (Mengikuti Hoki)</span>
+      <div class='x-prp-product-details_content'>
+        <div class='x-prp-product-details_section'>
+          <h3>
+            <!--F#f_1-->
+            <!--F#12[0]-->
+            <span class='ux-textspans'>Product Identifiers</span>
+            <!--F/-->
+            <!--F/-->
+          </h3>
+          <div class='x-prp-product-details_row'>
+            <div class='x-prp-product-details_col'>
+              <span class='x-prp-product-details_name'>
+                <!--F#f_1-->
+                <!--F#12[0]-->
+                <span class='ux-textspans'>Brand</span>
+                <!--F/-->
+                <!--F/-->
+              </span><span class='x-prp-product-details_value'>
+                <!--F#f_1-->
+                <!--F#12[0]-->
+                <span class='ux-textspans'>JABARTOTO</span>
+                <!--F/-->
+                <!--F/-->
+              </span>
+            </div>
+            <div class='x-prp-product-details_col'>
+              <span class='x-prp-product-details_name'>
+                <!--F#f_1-->
+                <!--F#12[0]-->
+                <span class='ux-textspans'>Model</span>
+                <!--F/-->
+                <!--F/-->
+              </span><span class='x-prp-product-details_value'>
+                <!--F#f_1-->
+                <!--F#12[0]-->
+                <span class='ux-textspans'>Situs Toto Gacor Hari Ini</span>
+                <!--F/-->
+                <!--F/-->
+              </span>
+            </div>
+          </div>
+          <div class='x-prp-product-details_row'>
+            <div class='x-prp-product-details_col'>
+              <span class='x-prp-product-details_name'>
+                <!--F#f_1-->
+                <!--F#12[0]-->
+                <span class='ux-textspans'>eBay Product ID (ePID)</span>
+                <!--F/-->
+                <!--F/-->
+              </span><span class='x-prp-product-details_value'>
+                <!--F#f_1-->
+                <!--F#12[0]-->
+                <span class='ux-textspans'>888777</span>
+                <!--F/-->
+                <!--F/-->
+              </span>
+            </div>
+            <div class='x-prp-product-details_col'></div>
+          </div>
         </div>
       </div>
-      <div class="x-prp-product-details_row" style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 15px;">
-        <div class="x-prp-product-details_col" style="flex: 1; min-width: 250px;">
-          <span class="x-prp-product-details_name" style="display: block; font-weight: 600; color: #555;">Minimal Deposit</span>
-          <span class="x-prp-product-details_value" style="font-size: 1rem; color: #222;">5.000</span>
-        </div>
-
-        <div class="x-prp-product-details_col" style="flex: 1; min-width: 250px;">
-          <span class="x-prp-product-details_name" style="display: block; font-weight: 600; color: #555;">Provider Terbaik</span>
-          <span class="x-prp-product-details_value">Pragmatic Play & PG Soft</span>
-        </div>
+      <div class="ux-collapse-toggle ux-collapse-toggle--collapsed">
+        <button class="ux-collapse-toggle__button btn btn--secondary" data-ebayui type='button'>
+          <!--F#7-->
+          <div class="ux-collapse-toggle__label">
+            <div class="ux-collapse-toggle__expand-label">
+              <!--F#12[0]-->
+              <span class='ux-textspans'>Show More</span>
+              <!--F/-->
+            </div>
+            <div class="ux-collapse-toggle__collapse-label">
+              <!--F#12[0]-->
+              <span class='ux-textspans'>Show Less</span>
+              <!--F/-->
+            </div>
+          </div>
+          <!--F/-->
+        </button>
       </div>
-      <div class="x-prp-product-details_row" style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 15px;">
-        <div class="x-prp-product-details_col" style="flex: 1; min-width: 250px;">
-          <span class="x-prp-product-details_name" style="display: block; font-weight: 600; color: #555;">Minimal Withdraw</span>
-          <span class="x-prp-product-details_value" style="font-size: 1rem; color: #222;">50.000</span>
-        </div>
-
-        <div class="x-prp-product-details_col" style="flex: 1; min-width: 250px;">
-          <span class="x-prp-product-details_name" style="display: block; font-weight: 600; color: #555;">Menerima Transaksi</span>
-          <span class="x-prp-product-details_value" >Bank, Ewallet, Pulsa, & QRIS</span>
-        </div>
-      </div>
-      <div class="x-prp-product-details_row" style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 15px;">
-        <div class="x-prp-product-details_col" style="flex: 1; min-width: 250px;">
-          <span class="x-prp-product-details_name" style="display: block; font-weight: 600; color: #555;">Proses Transaksi</span>
-          <span class="x-prp-product-details_value" style="font-size: 1rem; color: #222;">30 Detik - 3 Menit</span>
-        </div>
-
-        <div class="x-prp-product-details_col" style="flex: 1; min-width: 250px;">
-          <span class="x-prp-product-details_name" style="display: block; font-weight: 600; color: #555;">Jenis Slot Resmi</span>
-          <span class="x-prp-product-details_value" >Gates of Olympus, Mahjong Ways & Starlight Princess</span>
-        </div>
-      </div>
-
-      <div class="x-prp-product-details_row" style="display: flex; flex-wrap: wrap; gap: 20px;">
-        <div class="x-prp-product-details_col" style="flex: 1; min-width: 250px;">
-          <span class="x-prp-product-details_name" style="display: block; font-weight: 600; color: #555;">Livechat</span>
-          <span class="x-prp-product-details_value" style="font-size: 1rem; color: #222;">Pelayanan 24 Jam Nonstop</span>
-        </div>
-
-        <div class="x-prp-product-details_col" style="flex: 1; min-width: 250px;">
-          <span class="x-prp-product-details_name" style="display: block; font-weight: 600; color: #555;">Jam Maxwin</span>
-          <span class="x-prp-product-details_value" style="font-size: 1rem; color: #222;">15.00 WIB - 21.00 WIB</span>
-        </div>
-      </div>
-
     </div>
-  </div>
-
-  <div class="ux-collapse-toggle" style="text-align: center; margin-top: 25px;">
-    <button class="ux-collapse-toggle__button btn btn--secondary" type="button" style="background: #0f61e1; color: #fff; border: none; padding: 10px 25px; border-radius: 8px; cursor: pointer; font-weight: 600; transition: 0.3s;">
-      <span class="ux-textspans">Tampilkan Lebih Banyak</span>
-    </button>
-  </div>
-</div>
-
-<div class="seperator" style="margin: 40px 0; border-top: 2px solid #e0e0e0;"></div>
-
-<div class="x-reviews" id="UserReviews" style="font-family: 'Poppins', sans-serif; color: #333;">
-  <!-- Header -->
-  <div class="x-review-header" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 25px;">
-    <div class="x-review-header__htitle">
-      <h2 style="font-size: 1.6rem; font-weight: 700; color: #0f61e1; margin: 0;">Rating & Ulasan Pemain TURU99</h2>
-    </div>
-    <div class="x-review-header__learn-more">
-      <a href="https://blog-chardike.com/facewash-for-different-skintypes/" style="color: #0f61e1; text-decoration: underline; font-weight: 500;">Pelajari Lebih Lanjut</a>
-    </div>
-  </div>
-
-  <!-- Summary Rating -->
-<div class="x-rating-details" style="display: flex; align-items: center; gap: 20px; margin-bottom: 25px;">
-  <div class="ux-summary" style="display: flex; align-items: center; gap: 15px;">
-    <!-- Nilai Rating -->
-    <div class="ux-summary__start--rating" style="font-size: 2.5rem; font-weight: 700; color: #0f61e1;">4.99</div>
-
-    <!-- Bintang -->
-    <div class="ux-summary__star--rating" style="display: flex; gap: 2px;">
-      <!-- Bintang 1 -->
-      <svg width="24" height="24" viewBox="0 0 16 16" fill="#0f61e1" xmlns="http://www.w3.org/2000/svg">
-        <path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path>
-      </svg>
-      <!-- Bintang 2 -->
-      <svg width="24" height="24" viewBox="0 0 16 16" fill="#0f61e1" xmlns="http://www.w3.org/2000/svg">
-        <path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path>
-      </svg>
-      <!-- Bintang 3 -->
-      <svg width="24" height="24" viewBox="0 0 16 16" fill="#0f61e1" xmlns="http://www.w3.org/2000/svg">
-        <path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path>
-      </svg>
-      <!-- Bintang 4 -->
-      <svg width="24" height="24" viewBox="0 0 16 16" fill="#0f61e1" xmlns="http://www.w3.org/2000/svg">
-        <path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path>
-      </svg>
-      <!-- Bintang 5 -->
-      <svg width="24" height="24" viewBox="0 0 16 16" fill="#0f61e1" xmlns="http://www.w3.org/2000/svg">
-        <path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path>
-      </svg>
-    </div>
-
-    <!-- Jumlah ulasan -->
-    <div class="ux-summary__count" style="color: #777; font-size: 0.9rem;">777,888 ulasan pemain</div>
-  </div>
-</div>
-
-
-  <!-- Histogram Rating -->
-  <div class="ux-histogram" style="margin-bottom: 30px;">
-    <ul style="list-style: none; padding: 0; margin: 0;">
-      <li style="display: flex; align-items: center; margin-bottom: 8px;">
-        <span style="width: 25px; font-weight: 600;">5</span>
-        <div style="flex: 1; background: #f0f0f0; border-radius: 8px; overflow: hidden; margin: 0 10px;">
-          <div style="width: 85%; height: 12px; background: #0f61e1;"></div>
-        </div>
-        <span style="width: 50px; text-align: right;">7,770</span>
-      </li>
-      <li style="display: flex; align-items: center; margin-bottom: 8px;">
-        <span style="width: 25px; font-weight: 600;">4</span>
-        <div style="flex: 1; background: #f0f0f0; border-radius: 8px; overflow: hidden; margin: 0 10px;">
-          <div style="width: 52.9%; height: 12px; background: #ff6f61;"></div>
-        </div>
-        <span style="width: 50px; text-align: right;">278</span>
-      </li>
-      <li style="display: flex; align-items: center; margin-bottom: 8px;">
-        <span style="width: 25px; font-weight: 600;">3</span>
-        <div style="flex: 1; background: #f0f0f0; border-radius: 8px; overflow: hidden; margin: 0 10px;">
-          <div style="width: 0.5%; height: 12px; background: #ffc107;"></div>
-        </div>
-        <span style="width: 50px; text-align: right;">2</span>
-      </li>
-      <li style="display: flex; align-items: center; margin-bottom: 8px;">
-        <span style="width: 25px; font-weight: 600;">2</span>
-        <div style="flex: 1; background: #f0f0f0; border-radius: 8px; overflow: hidden; margin: 0 10px;">
-          <div style="width: 0%; height: 12px; background: #ffc107;"></div>
-        </div>
-        <span style="width: 50px; text-align: right;">0</span>
-      </li>
-      <li style="display: flex; align-items: center;">
-        <span style="width: 25px; font-weight: 600;">1</span>
-        <div style="flex: 1; background: #f0f0f0; border-radius: 8px; overflow: hidden; margin: 0 10px;">
-          <div style="width: 0%; height: 12px; background: #ffc107;"></div>
-        </div>
-        <span style="width: 50px; text-align: right;">0</span>
-      </li>
-    </ul>
-  </div>
-
-  <!-- Aspects / Fitur -->
-  <div class="x-rating-details__aspects" style="display: flex; gap: 30px; flex-wrap: wrap;">
-    <div style="text-align: center;">
-      <div style="width: 60px; height: 60px; border-radius: 50%; border: 6px solid #0f61e1; display: flex; align-items: center; justify-content: center; margin: 0 auto 8px;">
-        <span style="font-weight: 700; color: #0f61e1;">95.98%</span>
-      </div>
-      <p style="font-size: 0.85rem; font-weight: 500;">Slot Resmi</p>
-    </div>
-    <div style="text-align: center;">
-      <div style="width: 60px; height: 60px; border-radius: 50%; border: 6px solid #0f61e1; display: flex; align-items: center; justify-content: center; margin: 0 auto 8px;">
-        <span style="font-weight: 700; color: #0f61e1;">97.15%</span>
-      </div>
-      <p style="font-size: 0.85rem; font-weight: 500;">Link Slot</p> 
-    </div>
-    <div style="text-align: center;">
-      <div style="width: 60px; height: 60px; border-radius: 50%; border: 6px solid #e0e0e0; display: flex; align-items: center; justify-content: center; margin: 0 auto 8px;">
-        <span style="font-weight: 700; color: #999;">0%</span>
-      </div>
-      <p style="font-size: 0.85rem; font-weight: 500;">Rungkad</p>
-    </div>
-  </div>
-</div>
-      <div class="vim x-review-details" style="margin-top: 40px;">
-  <div class='x-review-details__head' style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
-    <h3 class='x-review-details__title' style="font-size: 1.5rem; font-weight: 700; color:#333;">Most Relevant Reviews</h3>
-    <div class='x-review-details__allreviews'>
-      <a href='#' class='ux-action' style="color:#0f61e1; font-weight:500; text-decoration:none;">See all 1996.124 reviews</a>
-    </div>
-  </div>
-
-  <ul class='x-review-details__body' style="list-style:none; padding:0; margin:0; display:flex; flex-direction:column; gap:20px;">
-    
-    <!-- Review 1 -->
-    <li class="vim x-review-section" style="display:flex; gap:15px; padding:15px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.05); background:#fff;">
-      <div class='x-review-section__l' style="flex-shrink:0; display:flex; flex-direction:column; align-items:center; gap:10px;">
-        <!-- Foto Profil -->
-        <img src="https://png.pngtree.com/png-vector/20241225/ourlarge/pngtree-red-user-icon-with-a-white-silhouette-representing-profile-identification-png-image_14899101.png" alt="Profile Alfian" style="border-radius:50%; width:50px; height:50px;">
-        <!-- Nama & Tanggal -->
-        <span style="font-weight:600; color:#333;">Alfian</span>
-        <span style="font-size:0.8rem; color:#777;">Nov 11, 2025</span>
-        <!-- Bintang -->
-        <div class="ux-star-rating" style="display:flex; gap:2px;">
-          <!-- Inline 5 bintang -->
-          <svg width="20" height="20" viewBox="0 0 16 16" fill="#0f61e1"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-          <svg width="20" height="20" viewBox="0 0 16 16" fill="#0f61e1"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-          <svg width="20" height="20" viewBox="0 0 16 16" fill="#0f61e1"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-          <svg width="20" height="20" viewBox="0 0 16 16" fill="#0f61e1"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-          <svg width="20" height="20" viewBox="0 0 16 16" fill="#0f61e1"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
+    <div class='seperator'></div>
+    <div class="vim x-reviews" id='UserReviews' data-testid='x-reviews'>
+      <div class="vim x-review-header" data-testid='x-review-header'>
+        <div class='x-review-header__htitle'>
+          <div class='section-title'>
+            <div class='section-title__title-container'>
+              <h2 id='s0-2-0-15-3-7-@key-comp-REVIEWS_BTF_SHARED-1-2-title' class='section-title__title'>
+                <!--F#2-->
+                <!--F#f_1-->
+                <!--F#12[0]-->
+                <span class='ux-textspans'>Ratings and Reviews</span>
+                <!--F/-->
+                <!--F/-->
+                <!--F/-->
+              </h2>
+            </div>
+          </div>
+          <div class='x-review-header__learn-more'>
+            <a href='https://blog-chardike.com/tag/skincare/' class='ux-action' data-testid='ux-action' _sp='p2349526.m3637.l149867'>
+              <!--F#10-->
+              <!--F#f_1-->
+              <!--F#12[0]-->
+              <span class="ux-textspans ux-textspans--PSEUDOLINK">Learn more</span>
+              <!--F/-->
+              <!--F/-->
+              <!--F/-->
+            </a>
+          </div>
         </div>
       </div>
-      <div class='x-review-section__r' style="flex:1; display:flex; flex-direction:column; gap:8px;">
-        <h4 class='x-review-section__title' style="font-weight:600; color:#333;">Slot Gacor Hari Ini</h4>
-        <div class='x-review-section__content' style="color:#555; font-size:0.95rem;">
-            Turu99 selalu menjadi pilihan situs online slot gacor yang paling banyak di minati masyarakyat Indoenesia
+      <div class="vim x-rating-details">
+        <div class="vim ux-summary" data-testid='ux-summary'>
+          <span class='ux-summary__start--rating' data-testid='review--start--rating'>
+            <!--F#12[0]-->
+            <span class='ux-textspans'>5</span>
+            <!--F/-->
+          </span>
+          <div class='ux-summary__star--rating'>
+            <div class="vim ux-star-rating" data-testid='ux-star-rating'>
+              <div role='img' aria-label="4.9 out of 5 stars based on 888888 product ratings" class='star-rating' data-stars='4-5'>
+                <svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                  <use href="#icon-star-dynamic"/>
+                </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                  <use href="#icon-star-dynamic"/>
+                </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                  <use href="#icon-star-dynamic"/>
+                </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                  <use href="#icon-star-dynamic"/>
+                </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                  <use href="#icon-star-dynamic"/>
+                </svg>
+              </div>
+            </div>
+          </div>
+          <span class='ux-summary__count'>
+            <!--F#12[0]-->
+            <span class='ux-textspans'>32,415 Penilaian Produk</span>
+            <!--F/-->
+          </span>
+        </div>
+        <div class="vim ux-histogram" data-testid='ux-histogram'>
+          <ul>
+            <li class='ux-histogram__item'>
+              <div class='ux-histogram__item--bar'>
+                <div class='ux-histogram__item--bar--l' aria-hidden='true'>
+                  <svg class="icon icon--16" focusable='false' aria-hidden='true'>
+                    <defs>
+                      <symbol viewbox="0 0 16 16" id='icon-star-filled-16'>
+                        <path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"></path>
+                      </symbol>
+                    </defs>
+                    <use href="#icon-star-filled-16"/>
+                  </svg>
+                  <p class='ux-histogram__item--bar--stars'>5</p>
+                </div>
+                <div class='ux-histogram__item--bar--r'>
+                  <i class='ux-histogram__r--list--bg'><u class='ux-histogram__r--list--fc' data-testid='r--list--fc' style="width: 85%"></u></i><i class='clipped'>8898 users rated this 5 out of 5 stars</i>
+                </div>
+                <div class='ux-histogram__item--bar--c' data-testid='reviews--item--bar--c'>
+                  <span aria-hidden='true'>1000+++</span>
+                </div>
+              </div>
+            </li>
+            <li class='ux-histogram__item'>
+              <div class='ux-histogram__item--bar'>
+                <div class='ux-histogram__item--bar--l' aria-hidden='true'>
+                  <svg class="icon icon--16" focusable='false' aria-hidden='true'>
+                    <use href="#icon-star-filled-16"/>
+                  </svg>
+                  <p class='ux-histogram__item--bar--stars'>4</p>
+                </div>
+                <div class='ux-histogram__item--bar--r'>
+                  <i class='ux-histogram__r--list--bg'><u class='ux-histogram__r--list--fc' data-testid='r--list--fc' style="width: 52.9%"></u></i><i class='clipped'>288 users rated this 4 out of 5 stars</i>
+                </div>
+                <div class='ux-histogram__item--bar--c' data-testid='reviews--item--bar--c'>
+                  <span aria-hidden='true'>577</span>
+                </div>
+              </div>
+            </li>
+            <li class='ux-histogram__item'>
+              <div class='ux-histogram__item--bar'>
+                <div class='ux-histogram__item--bar--l' aria-hidden='true'>
+                  <svg class="icon icon--16" focusable='false' aria-hidden='true'>
+                    <use href="#icon-star-filled-16"/>
+                  </svg>
+                  <p class='ux-histogram__item--bar--stars'>3</p>
+                </div>
+                <div class='ux-histogram__item--bar--r'>
+                  <i class='ux-histogram__r--list--bg'><u class='ux-histogram__r--list--fc' data-testid='r--list--fc' style="width: 5.555555555555555%"></u></i><i class='clipped'>2 users rated this 3 out of 5 stars</i>
+                </div>
+                <div class='ux-histogram__item--bar--c' data-testid='reviews--item--bar--c'>
+                  <span aria-hidden='true'>0</span>
+                </div>
+              </div>
+            </li>
+            <li class='ux-histogram__item'>
+              <div class='ux-histogram__item--bar'>
+                <div class='ux-histogram__item--bar--l' aria-hidden='true'>
+                  <svg class="icon icon--16" focusable='false' aria-hidden='true'>
+                    <use href="#icon-star-filled-16"/>
+                  </svg>
+                  <p class='ux-histogram__item--bar--stars'>2</p>
+                </div>
+                <div class='ux-histogram__item--bar--r'>
+                  <i class='ux-histogram__r--list--bg'><u class='ux-histogram__r--list--fc' data-testid='r--list--fc' style="width: 0%"></u></i><i class='clipped'>0 users rated this 2 out of 5 stars</i>
+                </div>
+                <div class='ux-histogram__item--bar--c' data-testid='reviews--item--bar--c'>
+                  <span aria-hidden='true'>0</span>
+                </div>
+              </div>
+            </li>
+            <li class='ux-histogram__item'>
+              <div class='ux-histogram__item--bar'>
+                <div class='ux-histogram__item--bar--l' aria-hidden='true'>
+                  <svg class="icon icon--16" focusable='false' aria-hidden='true'>
+                    <use href="#icon-star-filled-16"/>
+                  </svg>
+                  <p class='ux-histogram__item--bar--stars'>1</p>
+                </div>
+                <div class='ux-histogram__item--bar--r'>
+                  <i class='ux-histogram__r--list--bg'><u class='ux-histogram__r--list--fc' data-testid='r--list--fc' style="width: 0%"></u></i><i class='clipped'>0 users rated this 1 out of 5 stars</i>
+                </div>
+                <div class='ux-histogram__item--bar--c' data-testid='reviews--item--bar--c'>
+                  <span aria-hidden='true'>0</span>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <div class='x-rating-details__aspects'>
+          <div class="vim ux-aspect" data-testid='ux-aspect' aria-label="100 percent of reviewers think of this product as TOTO">
+            <div class='ux-aspect__aspect' data-testid='reviews--aspect' data-percent="100%">
+              <div class='ux-aspect__left'>
+                <span data-testid='reviews--left' style="transform: rotateZ(-0deg);"></span>
+              </div>
+              <div class='ux-aspect__right'>
+                <span data-testid='reviews--right'></span>
+              </div>
+            </div>
+            <p class='ux-aspect__text'>
+              <!--F#12[0]-->
+              <span class='ux-textspans'>TOTO</span>
+              <!--F/-->
+            </p>
+          </div>
+          <div class="vim ux-aspect" data-testid='ux-aspect' aria-label="98 percent of reviewers think of this product as TOTO SLOT">
+            <div class='ux-aspect__aspect' data-testid='reviews--aspect' data-percent="98%">
+              <div class='ux-aspect__left'>
+                <span data-testid='reviews--left' style="transform: rotateZ(-43.19999999999999deg);"></span>
+              </div>
+              <div class='ux-aspect__right'>
+                <span data-testid='reviews--right'></span>
+              </div>
+            </div>
+            <p class='ux-aspect__text'>
+              <!--F#12[0]-->
+              <span class='ux-textspans'>TOTO SLOT</span>
+              <!--F/-->
+            </p>
+          </div>
+          <div class="vim ux-aspect" data-testid="ux-aspect" aria-label="99 percent of reviewers think of this product as SLOT GACOR">
+            <div class="ux-aspect__aspect" data-testid="reviews--aspect" data-percent="99%">
+              <div class="ux-aspect__left">
+                <span data-testid="reviews--left" style="transform: rotateZ(-45deg);"></span>
+              </div>
+              <div class="ux-aspect__right">
+                <span data-testid="reviews--right"></span>
+              </div>
+            </div>
+            <p class="ux-aspect__text">
+              <span class="ux-textspans">SITUS TOTO</span>
+            </p>
+          </div>
         </div>
       </div>
-    </li>
-
-    <!-- Review 2 -->
-    <li class="vim x-review-section" style="display:flex; gap:15px; padding:15px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.05); background:#fff;">
-      <div class='x-review-section__l' style="flex-shrink:0; display:flex; flex-direction:column; align-items:center; gap:10px;">
-        <img src="https://png.pngtree.com/png-vector/20241225/ourlarge/pngtree-red-user-icon-with-a-white-silhouette-representing-profile-identification-png-image_14899101.png" alt="Profile Reza" style="border-radius:50%; width:50px; height:50px;">
-        <span style="font-weight:600; color:#333;">Reza</span>
-        <span style="font-size:0.8rem; color:#777;">Nov 27, 2025</span>
-        <div class="ux-star-rating" style="display:flex; gap:2px;">
-          <svg width="20" height="20" viewBox="0 0 16 16" fill="#0f61e1"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-          <svg width="20" height="20" viewBox="0 0 16 16" fill="#0f61e1"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-          <svg width="20" height="20" viewBox="0 0 16 16" fill="#0f61e1"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-          <svg width="20" height="20" viewBox="0 0 16 16" fill="#0f61e1"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-          <svg width="20" height="20" viewBox="0 0 16 16" fill="#0f61e1"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
+      <div class="vim x-review-details">
+        <div class='x-review-details__head'>
+          <h3 class='x-review-details__title'>
+            <!--F#12[0]-->
+            <span class='ux-textspans'>Most relevant reviews</span>
+            <!--F/-->
+          </h3>
+          <div class='x-review-details__allreviews'>
+            <a href='https://blog-chardike.com/tag/skincare/' class='ux-action' data-testid='ux-action' _sp='p2349526.m3637.l6846'>
+              <!--F#10-->
+              <!--F#f_1-->
+              <!--F#12[0]-->
+              <span class='ux-textspans'>See all 32415 Review</span>
+              <!--F/-->
+              <!--F/-->
+              <!--F/-->
+            </a>
+          </div>
         </div>
+        <ul class='x-review-details__body'>
+          <li class="vim x-review-section" id="review_10000000311312907" data-testid='x-review-section'>
+            <div class='x-review-section__l'>
+              <div class='x-review-section__star--rating'>
+                <div class="vim ux-star-rating" data-testid='ux-star-rating'>
+                  <div role='img' aria-label="5 out of 5 stars" class='star-rating' data-stars='5-0'>
+                    <svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                      <use href="#icon-star-dynamic"/>
+                    </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                      <use href="#icon-star-dynamic"/>
+                    </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                      <use href="#icon-star-dynamic"/>
+                    </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                      <use href="#icon-star-dynamic"/>
+                    </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                      <use href="#icon-star-dynamic"/>
+                    </svg>
+                  </div>
+                </div>
+              </div>
+              <div class='x-review-section__author'>
+                <!--F#f_1-->
+                <!--F#12[0]-->
+                <span class='ux-textspans'>by</span>
+                <!--F/-->
+                <a href='https://blog-chardike.com/tag/skincare/' class='ux-action' data-testid='ux-action'>
+                  <!--F#10-->
+                  <!--F#11[1]-->
+                  <span class='ux-textspans'>Rahmat</span>
+                  <!--F/-->
+                  <!--F/-->
+                </a>
+                <!--F/-->
+              </div>
+              <span class='x-review-section__date'>
+                <!--F#f_1-->
+                <!--F#12[0]-->
+                <span class='ux-textspans'>Jan 15, 2026</span>
+                <!--F/-->
+                <!--F/-->
+              </span>
+            </div>
+            <div class='x-review-section__r'>
+              <h4 class='x-review-section__title'>Rahmat</h4>
+              <div class='x-review-section__content'>
+                <!--F#f_1-->
+                <!--F#12[0]-->
+                <span class='ux-textspans'>JABARTOTO benar-benar beda dari yang lain. Buat yang cari situs toto slot online dengan sistem stabil dan transaksi cepat, platform ini cukup memuaskan. Proses deposit dan withdraw berjalan lancar, tampilannya juga ringan saat diakses lewat HP maupun desktop.</span>
+                <!--F/-->
+                <!--F/-->
+              </div>
+              <p class='x-review-section__attr'>
+                <span>
+                  <!--F#12[0]-->
+                  <span class="ux-textspans ux-textspans--DEFAULT">Verified purchase:</span>
+                  <!--F/-->
+                  <!--F#12[1]-->
+                  <span class="ux-textspans ux-textspans--BOLD">Yes</span>
+                  <!--F/-->
+                </span><span>
+                  <!--F#12[0]-->
+                  <span class="ux-textspans ux-textspans--DEFAULT">Condition:</span>
+                  <!--F/-->
+                  <!--F#12[1]-->
+                  <span class="ux-textspans ux-textspans--BOLD">Pre-owned</span>
+                  <!--F/-->
+                </span>
+              </p>
+            </div>
+          </li>
+          <li class="vim x-review-section" id="review_10000000312538562" data-testid='x-review-section'>
+            <div class='x-review-section__l'>
+              <div class='x-review-section__star--rating'>
+                <div class="vim ux-star-rating" data-testid='ux-star-rating'>
+                  <div role='img' aria-label="5 out of 5 stars" class='star-rating' data-stars='5-0'>
+                    <svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                      <use href="#icon-star-dynamic"/>
+                    </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                      <use href="#icon-star-dynamic"/>
+                    </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                      <use href="#icon-star-dynamic"/>
+                    </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                      <use href="#icon-star-dynamic"/>
+                    </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                      <use href="#icon-star-dynamic"/>
+                    </svg>
+                  </div>
+                </div>
+              </div>
+              <div class='x-review-section__author'>
+                <!--F#f_1-->
+                <!--F#12[0]-->
+                <span class='ux-textspans'>by</span>
+                <!--F/-->
+                <a href='https://blog-chardike.com/tag/skincare/' class='ux-action' data-testid='ux-action'>
+                  <!--F#10-->
+                  <!--F#11[1]-->
+                  <span class='ux-textspans'>Budi</span>
+                  <!--F/-->
+                  <!--F/-->
+                </a>
+                <!--F/-->
+              </div>
+              <span class='x-review-section__date'>
+                <!--F#f_1-->
+                <!--F#12[0]-->
+                <span class='ux-textspans'>Feb 21, 2026</span>
+                <!--F/-->
+                <!--F/-->
+              </span>
+            </div>
+            <div class='x-review-section__r'>
+              <h4 class='x-review-section__title'>Budi</h4>
+              <div class='x-review-section__content'>
+                <!--F#f_1-->
+                <!--F#12[0]-->
+                <span class='ux-textspans'>Saya sudah mencoba beberapa situs sebelumnya, tapi JABARTOTO terasa lebih nyaman digunakan. Koleksi permainannya lengkap dan update pasaran rutin. Customer Service responsif 24 jam dan membantu dengan jelas saat ada kendala.</span>
+                <!--F/-->
+                <!--F/-->
+              </div>
+              <p class='x-review-section__attr'>
+                <span>
+                  <!--F#12[0]-->
+                  <span class="ux-textspans ux-textspans--DEFAULT">Verified purchase:</span>
+                  <!--F/-->
+                  <!--F#12[1]-->
+                  <span class="ux-textspans ux-textspans--BOLD">Yes</span>
+                  <!--F/-->
+                </span><span>
+                  <!--F#12[0]-->
+                  <span class="ux-textspans ux-textspans--DEFAULT">Condition:</span>
+                  <!--F/-->
+                  <!--F#12[1]-->
+                  <span class="ux-textspans ux-textspans--BOLD">New</span>
+                  <!--F/-->
+                </span>
+              </p>
+            </div>
+          </li>
+          <li class="vim x-review-section" id="review_10000000323756343" data-testid='x-review-section'>
+            <div class='x-review-section__l'>
+              <div class='x-review-section__star--rating'>
+                <div class="vim ux-star-rating" data-testid='ux-star-rating'>
+                  <div role='img' aria-label="5 out of 5 stars" class='star-rating' data-stars='5-0'>
+                    <svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                      <use href="#icon-star-dynamic"/>
+                    </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                      <use href="#icon-star-dynamic"/>
+                    </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                      <use href="#icon-star-dynamic"/>
+                    </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                      <use href="#icon-star-dynamic"/>
+                    </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                      <use href="#icon-star-dynamic"/>
+                    </svg>
+                  </div>
+                </div>
+              </div>
+              <div class='x-review-section__author'>
+                <!--F#f_1-->
+                <!--F#12[0]-->
+                <span class='ux-textspans'>by</span>
+                <!--F/-->
+                <a href='https://blog-chardike.com/tag/skincare/' class='ux-action' data-testid='ux-action'>
+                  <!--F#10-->
+                  <!--F#11[1]-->
+                  <span class='ux-textspans'>Brian</span>
+                  <!--F/-->
+                  <!--F/-->
+                </a>
+                <!--F/-->
+              </div>
+              <span class='x-review-section__date'>
+                <!--F#f_1-->
+                <!--F#12[0]-->
+                <span class='ux-textspans'>Feb 22, 2026</span>
+                <!--F/-->
+                <!--F/-->
+              </span>
+            </div>
+            <div class='x-review-section__r'>
+              <h4 class='x-review-section__title'>Brian</h4>
+              <div class='x-review-section__content'>
+                <!--F#f_1-->
+                <!--F#12[0]-->
+                <span class='ux-textspans'>Menurut saya sistem di JABARTOTO cukup konsisten dan jarang mengalami gangguan. Transaksi aman dan prosesnya cepat. Bonus harian juga tersedia sehingga pengalaman bermain terasa lebih menarik.</span>
+                <!--F/-->
+                <!--F/-->
+              </div>
+              <p class='x-review-section__attr'>
+                <span>
+                  <!--F#12[0]-->
+                  <span class="ux-textspans ux-textspans--DEFAULT">Verified purchase:</span>
+                  <!--F/-->
+                  <!--F#12[1]-->
+                  <span class="ux-textspans ux-textspans--BOLD">Yes</span>
+                  <!--F/-->
+                </span>
+              </p>
+            </div>
+          </li>
+          <li class="vim x-review-section" id="review_10000000317835730" data-testid='x-review-section'>
+            <div class='x-review-section__l'>
+              <div class='x-review-section__star--rating'>
+                <div class="vim ux-star-rating" data-testid='ux-star-rating'>
+                  <div role='img' aria-label="5 out of 5 stars" class='star-rating' data-stars='5-0'>
+                    <svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                      <use href="#icon-star-dynamic"/>
+                    </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                      <use href="#icon-star-dynamic"/>
+                    </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                      <use href="#icon-star-dynamic"/>
+                    </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                      <use href="#icon-star-dynamic"/>
+                    </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                      <use href="#icon-star-dynamic"/>
+                    </svg>
+                  </div>
+                </div>
+              </div>
+              <div class='x-review-section__author'>
+                <!--F#f_1-->
+                <!--F#12[0]-->
+                <span class='ux-textspans'>by</span>
+                <!--F/-->
+                <a href='https://blog-chardike.com/tag/skincare/' class='ux-action' data-testid='ux-action'>
+                  <!--F#10-->
+                  <!--F#11[1]-->
+                  <span class='ux-textspans'>Slot Gacor</span>
+                  <!--F/-->
+                  <!--F/-->
+                </a>
+                <!--F/-->
+              </div>
+              <span class='x-review-section__date'>
+                <!--F#f_1-->
+                <!--F#12[0]-->
+                <span class='ux-textspans'>Jan 24, 2026</span>
+                <!--F/-->
+                <!--F/-->
+              </span>
+            </div>
+            <div class='x-review-section__r'>
+              <h4 class='x-review-section__title'>Slot Gacor</h4>
+              <div class='x-review-section__content'>
+                <!--F#f_1-->
+                <!--F#12[0]-->
+                <span class='ux-textspans'>Kalau bicara soal situs toto online, JABARTOTO termasuk yang paling stabil. Layanan profesional, variasi permainan lengkap, dan proses transaksi tanpa ribet. Cocok untuk pemain yang ingin bermain dengan nyaman setiap hari.</span>
+                <!--F/-->
+                <!--F/-->
+              </div>
+          </li>
+        </ul>
       </div>
-      <div class='x-review-section__r' style="flex:1; display:flex; flex-direction:column; gap:8px;">
-        <h4 class='x-review-section__title' style="font-weight:600; color:#333;">Link Gacor Terpercaya</h4>
-        <div class='x-review-section__content' style="color:#555; font-size:0.95rem;">
-          Bermain di Turu99 sangat mudah di pahami dengan link yang resmi dan tampilan yang sederhana membuat jadi nyaman saat bermain.
-        </div>
-      </div>
-    </li>
-    <!-- Review 3 -->
-<li class="vim x-review-section" style="display:flex; gap:15px; padding:15px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.05); background:#fff;">
-  <div class='x-review-section__l' style="flex-shrink:0; display:flex; flex-direction:column; align-items:center; gap:10px;">
-    <img src="https://png.pngtree.com/png-vector/20241225/ourlarge/pngtree-red-user-icon-with-a-white-silhouette-representing-profile-identification-png-image_14899101.png" alt="Profile Akbar" style="border-radius:50%; width:50px; height:50px;">
-    <span style="font-weight:600; color:#333;">Akbar</span>
-    <span style="font-size:0.8rem; color:#777;">Des 08, 2025</span>
-    <div class="ux-star-rating" style="display:flex; gap:2px;">
-      <svg width="20" height="20" viewBox="0 0 16 16" fill="#0f61e1"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-      <svg width="20" height="20" viewBox="0 0 16 16" fill="#0f61e1"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-      <svg width="20" height="20" viewBox="0 0 16 16" fill="#0f61e1"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-      <svg width="20" height="20" viewBox="0 0 16 16" fill="#0f61e1"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-      <svg width="20" height="20" viewBox="0 0 16 16" fill="#0f61e1"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
     </div>
-  </div>
-  <div class='x-review-section__r' style="flex:1; display:flex; flex-direction:column; gap:8px;">
-    <h4 class='x-review-section__title' style="font-weight:600; color:#333;">Situs Gacor Maxwin</h4>
-    <div class='x-review-section__content' style="color:#555; font-size:0.95rem;">
-      Saya suka karena bermain di Turu99 mudah mendapatkan scatter nya dan fitur terlengkap dengan bonus promo yang menarik.
-    </div>
-  </div>
-</li>
-
-  </ul>
-</div>
-
+    <div class='seperator'></div>
     <div class='x-prp-carousel' data-testid='x-prp-carousel'>
-  <div class='section-title' style="display:flex; justify-content:space-between; align-items:center; margin-bottom:15px;">
-    <h2 class='section-title__title' style="font-size:1.5rem; font-weight:700; color:#333;">Photos from TURU99 Reviews</h2>
-    <a href='https://blog-chardike.com/facewash-for-different-skintypes/' class='section-title__cta' style="font-size:0.95rem; color:#0f61e1; text-decoration:none;">See all</a>
-  </div>
-  
-  <div class='carousel' aria-roledescription='Carousel' role='group' style="position:relative; display:flex; align-items:center;">
-    <button class="carousel__control carousel__control--prev" type='button' aria-label="Previous slide" style="background:none; border:none; cursor:pointer; position:absolute; left:0; z-index:10;">
-      <svg width="24" height="24" fill="#0f61e1" viewBox="0 0 16 16">
-        <path d="M3.293 8.708a1 1 0 0 1 0-1.415l6-6a1 1 0 0 1 1.414 1.414L5.414 8l5.293 5.293a1 1 0 0 1-1.414 1.414l-6-6Z"></path>
-      </svg>
-    </button>
-
-    <div class='carousel__viewport' style="overflow-x:auto; scroll-snap-type:x mandatory; display:flex; gap:16px; padding:10px 40px;">
-      <!-- Carousel Item 1 -->
-      <div class='x-card' style="flex:0 0 auto; width:200px; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.1); background:#fff; scroll-snap-align:start;">
-        <img src='https://ik.imagekit.io/anakmami/turu99.png' alt='TURU99 Review' style="width:100%; border-top-left-radius:12px; border-top-right-radius:12px;">
-        <div style="padding:10px;">
-          <h3 style="font-size:1rem; font-weight:600; margin-bottom:5px;">SITUS GACOR</h3>
-          <div class="star-rating" style="display:flex; gap:2px; margin-bottom:5px;">
-            <svg width="16" height="16" fill="#0f61e1" viewBox="0 0 16 16"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-            <svg width="16" height="16" fill="#0f61e1" viewBox="0 0 16 16"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-            <svg width="16" height="16" fill="#0f61e1" viewBox="0 0 16 16"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-            <svg width="16" height="16" fill="#0f61e1" viewBox="0 0 16 16"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-            <svg width="16" height="16" fill="#0f61e1" viewBox="0 0 16 16"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-          </div>
-          <span style="font-size:0.85rem; color:#777;">(136.111 Reviews)</span>
+      <div class='section-title'>
+        <div class='section-title__title-container'>
+          <h2 id='s0-2-0-15-3-7-@key-comp-BESTSELLING-1[0]-title' class='section-title__title'>
+            <!--F#2-->
+            <!--F#f_1-->
+            <!--F#12[0]-->
+            <span class='ux-textspans'>Photos from reviews</span>
+            <!--F/-->
+            <!--F/-->
+            <!--F/-->
+          </h2>
+        </div>
+        <div class='section-title__cta'>
+          <a href="https://blog-chardike.com/tag/skincare/"/><span class='section-title__cta-text'>See all</span></a>
         </div>
       </div>
-
-      <!-- Carousel Item 2 -->
-      <div class='x-card' style="flex:0 0 auto; width:200px; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.1); background:#fff; scroll-snap-align:start;">
-        <img src='https://ik.imagekit.io/anakmami/turu99.png' alt='TURU99 Live Result' style="width:100%; border-top-left-radius:12px; border-top-right-radius:12px;">
-        <div style="padding:10px;">
-          <h3 style="font-size:1rem; font-weight:600; margin-bottom:5px;">LINK GACOR</h3>
-          <div class="star-rating" style="display:flex; gap:2px; margin-bottom:5px;">
-            <svg width="16" height="16" fill="#0f61e1" viewBox="0 0 16 16"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-            <svg width="16" height="16" fill="#0f61e1" viewBox="0 0 16 16"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-            <svg width="16" height="16" fill="#0f61e1" viewBox="0 0 16 16"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-            <svg width="16" height="16" fill="#0f61e1" viewBox="0 0 16 16"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-            <svg width="16" height="16" fill="#0f61e1" viewBox="0 0 16 16"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
+      <div class='carousel' aria-roledescription='Carousel' role='group'>
+        <div class='carousel__container' id='s0-2-0-15-3-7-@key-comp-BESTSELLING-4[0]-container'>
+          <button class="carousel__control carousel__control--prev" type='button' aria-label="Previous slide - Photos from reviews" aria-disabled='true'><svg class="icon icon--16" focusable='false' aria-hidden='true'>
+              <defs>
+                <symbol viewbox="0 0 16 16" id='icon-chevron-left-16'>
+                  <path d="M3.293 8.708a1 1 0 0 1 0-1.415l6-6a1 1 0 0 1 1.414 1.414L5.414 8l5.293 5.293a1 1 0 0 1-1.414 1.414l-6-6Z"></path>
+                </symbol>
+              </defs>
+              <use href="#icon-chevron-left-16"/>
+            </svg></button>
+          <div class='carousel__viewport'>
+            <ul class='carousel__list' id='s0-2-0-15-3-7-@key-comp-BESTSELLING-4[0]-list'>
+              <li class='carousel__snap-point' style='margin-right:16px'>
+                <!--F#4[@2]-->
+                <!--F/-->
+              </li>
+              <li class='carousel__snap-point' style='margin-right:16px'>
+                <!--F#4[@3]-->
+                <div class='x-card' data-testid='x-card'>
+                  <a href='https://blog-chardike.com/tag/skincare/' class='ux-action' data-testid='ux-action' _sp='p2349526.m4475.l8293'>
+                    <!--F#10-->
+                    <div class="card-image-container image-treatment">
+                      <img loading='lazy' alt="TOTO" src='https://gambarku.store/img/anakmami.png'>
+                    </div>
+                    <div class='x-card_details-wrapper'>
+                      <div class='x-card_details'>
+                        <div class='x-card_details-title'>
+                          <!--F#f_1-->
+                          <!--F#12[0]-->
+                          <span class='ux-textspans'>TOTO</span>
+                          <!--F/-->
+                          <!--F/-->
+                        </div>
+                        <div class='x-card_star-ratings'>
+                          <div role='img' aria-label="4.7 out of 5 stars based on 6 product ratings" class='star-rating' data-stars='4.7'>
+                            <svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                              <use href="#icon-star-dynamic"/>
+                            </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                              <use href="#icon-star-dynamic"/>
+                            </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                              <use href="#icon-star-dynamic"/>
+                            </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                              <use href="#icon-star-dynamic"/>
+                            </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                              <use href="#icon-star-dynamic"/>
+                            </svg>
+                          </div>
+                          <!--F#f_1-->
+                          <!--F#12[0]-->
+                          <span class='ux-textspans'>(5124)</span>
+                          <!--F/-->
+                          <!--F/-->
+                        </div>
+                        <div class='x-card_details-price'>
+                          <span data-testid='ux-textual-display' aria-hidden='true' tabindex='-1'>
+                            <!--F#12[0]-->
+                            <span class="ux-textspans ux-textspans--BOLD">$10 New</span>
+                            <!--F/-->
+                          </span><span class='clipped'>$10 New</span>
+                        </div>
+                        <div class='x-card_details-additionalPrice'>
+                          <span data-testid='ux-textual-display' aria-hidden='true' tabindex='-1'>
+                            <!--F#12[0]-->
+                            <span class='ux-textspans'>46154 Terjual</span>
+                            <!--F/-->
+                          </span><span class='clipped'>46154 Terjual</span>
+                        </div>
+                      </div>
+                    </div>
+                    <!--F/-->
+                  </a>
+                </div>
+                <!--F/-->
+              </li>
+              <li class='carousel__snap-point' style='margin-right:16px'>
+                <!--F#4[@4]-->
+                <div class='x-card' data-testid='x-card'>
+                  <a href='https://blog-chardike.com/tag/skincare/' class='ux-action' data-testid='ux-action' _sp='p2349526.m4475.l8293'>
+                    <!--F#10-->
+                    <div class="card-image-container image-treatment">
+                      <img loading='lazy' alt="SITUS TOTO" src='https://gambarku.store/img/anakmami.png'>
+                    </div>
+                    <div class='x-card_details-wrapper'>
+                      <div class='x-card_details'>
+                        <div class='x-card_details-title'>
+                          <!--F#f_1-->
+                          <!--F#12[0]-->
+                          <span class='ux-textspans'>SITUS TOTO</span>
+                          <!--F/-->
+                          <!--F/-->
+                        </div>
+                        <div class='x-card_star-ratings'>
+                          <div role='img' aria-label="4.6 out of 5 stars based on 211 product ratings" class='star-rating' data-stars='4.6'>
+                            <svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                              <use href="#icon-star-dynamic"/>
+                            </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                              <use href="#icon-star-dynamic"/>
+                            </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                              <use href="#icon-star-dynamic"/>
+                            </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                              <use href="#icon-star-dynamic"/>
+                            </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                              <use href="#icon-star-dynamic"/>
+                            </svg>
+                          </div>
+                          <!--F#f_1-->
+                          <!--F#12[0]-->
+                          <span class='ux-textspans'>(9888)</span>
+                          <!--F/-->
+                          <!--F/-->
+                        </div>
+                        <div class='x-card_details-price'>
+                          <span data-testid='ux-textual-display' aria-hidden='true' tabindex='-1'>
+                            <!--F#12[0]-->
+                            <span class="ux-textspans ux-textspans--BOLD">$10 New</span>
+                            <!--F/-->
+                          </span><span class='clipped'>$10 New</span>
+                        </div>
+                        <div class='x-card_details-additionalPrice'>
+                          <span data-testid='ux-textual-display' aria-hidden='true' tabindex='-1'>
+                            <!--F#12[0]-->
+                            <span class='ux-textspans'>881988 Terjual</span>
+                            <!--F/-->
+                          </span><span class='clipped'>881988 Terjual</span>
+                        </div>
+                      </div>
+                    </div>
+                    <!--F/-->
+                  </a>
+                </div>
+                <!--F/-->
+              </li>
+              <li class='carousel__snap-point' style='margin-right:16px'>
+                <!--F#4[@5]-->
+                <div class='x-card' data-testid='x-card'>
+                  <a href='https://blog-chardike.com/tag/skincare/' class='ux-action' data-testid='ux-action' _sp='p2349526.m4475.l8293'>
+                    <!--F#10-->
+                    <div class="card-image-container image-treatment">
+                      <img loading='lazy' alt="TOTO SLOT" src='https://gambarku.store/img/anakmami.png'>
+                    </div>
+                    <div class='x-card_details-wrapper'>
+                      <div class='x-card_details'>
+                        <div class='x-card_details-title'>
+                          <!--F#f_1-->
+                          <!--F#12[0]-->
+                          <span class='ux-textspans'>TOTO SLOT</span>
+                          <!--F/-->
+                          <!--F/-->
+                        </div>
+                        <div class='x-card_star-ratings'>
+                          <div role='img' aria-label="4.3 out of 5 stars based on 11 product ratings" class='star-rating' data-stars='4.3'>
+                            <svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                              <use href="#icon-star-dynamic"/>
+                            </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                              <use href="#icon-star-dynamic"/>
+                            </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                              <use href="#icon-star-dynamic"/>
+                            </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                              <use href="#icon-star-dynamic"/>
+                            </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                              <use href="#icon-star-dynamic"/>
+                            </svg>
+                          </div>
+                          <!--F#f_1-->
+                          <!--F#12[0]-->
+                          <span class='ux-textspans'>(108)</span>
+                          <!--F/-->
+                          <!--F/-->
+                        </div>
+                        <div class='x-card_details-price'>
+                          <span data-testid='ux-textual-display' aria-hidden='true' tabindex='-1'>
+                            <!--F#12[0]-->
+                            <span class="ux-textspans ux-textspans--BOLD">$15 New</span>
+                            <!--F/-->
+                          </span><span class='clipped'>$15 New</span>
+                        </div>
+                        <div class='x-card_details-additionalPrice'>
+                          <span data-testid='ux-textual-display' aria-hidden='true' tabindex='-1'>
+                            <!--F#12[0]-->
+                            <span class='ux-textspans'>108108 Terjual</span>
+                            <!--F/-->
+                          </span><span class='clipped'>108108 Terjual</span>
+                        </div>
+                      </div>
+                    </div>
+                    <!--F/-->
+                  </a>
+                </div>
+                <!--F/-->
+              </li>
+              <li class='carousel__snap-point'>
+                <!--F#4[@6]-->
+                <div class='x-card' data-testid='x-card'>
+                  <a href='https://blog-chardike.com/tag/skincare/' class='ux-action' data-testid='ux-action' _sp='p2349526.m4475.l8293'>
+                    <!--F#10-->
+                    <div class="card-image-container image-treatment">
+                      <img loading='lazy' alt="TOTO TOGEL" src='https://gambarku.store/img/anakmami.png'>
+                    </div>
+                    <div class='x-card_details-wrapper'>
+                      <div class='x-card_details'>
+                        <div class='x-card_details-title'>
+                          <!--F#f_1-->
+                          <!--F#12[0]-->
+                          <span class='ux-textspans'>SLOT GACOR</span>
+                          <!--F/-->
+                          <!--F/-->
+                        </div>
+                        <div class='x-card_star-ratings'>
+                          <div role='img' aria-label="5.0 out of 5 stars based on 3 product ratings" class='star-rating' data-stars='5'>
+                            <svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                              <use href="#icon-star-dynamic"/>
+                            </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                              <use href="#icon-star-dynamic"/>
+                            </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                              <use href="#icon-star-dynamic"/>
+                            </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                              <use href="#icon-star-dynamic"/>
+                            </svg><svg class="star-rating__icon icon icon--star-dynamic" focusable='false' aria-hidden='true'>
+                              <use href="#icon-star-dynamic"/>
+                            </svg>
+                          </div>
+                          <!--F#f_1-->
+                          <!--F#12[0]-->
+                          <span class='ux-textspans'>(8699)</span>
+                          <!--F/-->
+                          <!--F/-->
+                        </div>
+                        <div class='x-card_details-price'>
+                          <span data-testid='ux-textual-display' aria-hidden='true' tabindex='-1'>
+                            <!--F#12[0]-->
+                            <span class="ux-textspans ux-textspans--BOLD">$10 New</span>
+                            <!--F/-->
+                          </span><span class='clipped'>$10 New</span>
+                        </div>
+                        <div class='x-card_details-additionalPrice'>
+                          <span data-testid='ux-textual-display' aria-hidden='true' tabindex='-1'>
+                            <!--F#12[0]-->
+                            <span class='ux-textspans'>65233 Terjual</span>
+                            <!--F/-->
+                          </span><span class='clipped'>65233 Terjual</span>
+                        </div>
+                      </div>
+                    </div>
+                    <!--F/-->
+                  </a>
+                </div>
+                <!--F/-->
+              </li>
+            </ul>
           </div>
-          <span style="font-size:0.85rem; color:#777;">(910.001 Reviews)</span>
+          <button class="carousel__control carousel__control--next" type='button' aria-label="Next slide - Photos from reviews" aria-disabled='true' id='s0-2-0-15-3-7-@key-comp-BESTSELLING-4[0]-next'><svg class="icon icon--16" focusable='false' aria-hidden='true'>
+              <use href="#icon-chevron-right-16"/>
+            </svg></button>
         </div>
       </div>
-
-      <!-- Carousel Item 3 -->
-      <div class='x-card' style="flex:0 0 auto; width:200px; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.1); background:#fff; scroll-snap-align:start;">
-        <img src='https://ik.imagekit.io/anakmami/turu99.png' alt='TURU99 Jackpot Review' style="width:100%; border-top-left-radius:12px; border-top-right-radius:12px;">
-        <div style="padding:10px;">
-          <h3 style="font-size:1rem; font-weight:600; margin-bottom:5px;">SLOT RESMI</h3>
-          <div class="star-rating" style="display:flex; gap:2px; margin-bottom:5px;">
-            <svg width="16" height="16" fill="#0f61e1" viewBox="0 0 16 16"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-            <svg width="16" height="16" fill="#0f61e1" viewBox="0 0 16 16"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-            <svg width="16" height="16" fill="#0f61e1" viewBox="0 0 16 16"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-            <svg width="16" height="16" fill="#0f61e1" viewBox="0 0 16 16"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-            <svg width="16" height="16" fill="#0f61e1" viewBox="0 0 16 16"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-          </div>
-          <span style="font-size:0.85rem; color:#777;">(19.631 Reviews)</span>
-        </div>
-      </div>
-
-      <!-- Carousel Item 4 -->
-      <div class='x-card' style="flex:0 0 auto; width:200px; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.1); background:#fff; scroll-snap-align:start;">
-        <img src='https://ik.imagekit.io/anakmami/turu99.png' alt='TURU99 Trusted Review' style="width:100%; border-top-left-radius:12px; border-top-right-radius:12px;">
-        <div style="padding:10px;">
-          <h3 style="font-size:1rem; font-weight:600; margin-bottom:5px;">RTP SLOT</h3>
-          <div class="star-rating" style="display:flex; gap:2px; margin-bottom:5px;">
-            <svg width="16" height="16" fill="#0f61e1" viewBox="0 0 16 16"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-            <svg width="16" height="16" fill="#0f61e1" viewBox="0 0 16 16"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-            <svg width="16" height="16" fill="#0f61e1" viewBox="0 0 16 16"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-            <svg width="16" height="16" fill="#0f61e1" viewBox="0 0 16 16"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-            <svg width="16" height="16" fill="#0f61e1" viewBox="0 0 16 16"><path d="M8.596 1.928a.625.625 0 0 0-1.19 0L6.055 6.136H1.62a.625.625 0 0 0-.346 1.146l3.56 2.364-1.366 4.035a.625.625 0 0 0 .953.71L8 11.862l3.578 2.528a.625.625 0 0 0 .953-.71l-1.366-4.036 3.55-2.364a.625.625 0 0 0-.346-1.145H9.955l-1.36-4.207Z"/></path></svg>
-          </div>
-          <span style="font-size:0.85rem; color:#777;">(45.963 Reviews)</span>
-        </div>
-      </div>
-
     </div>
-
-    <button class="carousel__control carousel__control--next" type='button' aria-label="Next slide" style="background:none; border:none; cursor:pointer; position:absolute; right:0; z-index:10;">
-      <svg width="24" height="24" fill="#0f61e1" viewBox="0 0 16 16">
-        <path d="M12.707 7.292a1 1 0 0 1 0 1.415l-6 6a1 1 0 0 1-1.414-1.414L10.586 8 5.293 2.707a1 1 0 0 1 1.414-1.414l6 6Z"></path>
-      </svg>
-    </button>
-    <script>
-  // Ambil elemen carousel
-  const carouselLists = document.querySelectorAll('.carousel__viewport');
-
-  carouselLists.forEach(carousel => {
-    const nextBtn = carousel.parentElement.querySelector('.carousel__control--next');
-    const prevBtn = carousel.parentElement.querySelector('.carousel__control--prev');
-    
-    const scrollAmount = 250; // Sesuaikan dengan lebar item + margin
-
-    nextBtn.addEventListener('click', () => {
-      carousel.scrollBy({ left: scrollAmount, behavior: 'smooth' });
-    });
-
-    prevBtn.addEventListener('click', () => {
-      carousel.scrollBy({ left: -scrollAmount, behavior: 'smooth' });
-    });
-  });
-</script>
-
-  </div>
-</div>
-
+    <div class='x-prp-carousel' data-testid='x-prp-carousel'>
+      <div class='section-title'></div>
+    </div>
     <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "WebPage",
-  "name": "TURU99 Link Situs Slot Resmi Dengan Bandar Togel Online Terkenal Di Indonesia",
-  "url": "https://blog-chardike.com/facewash-for-different-skintypes/",
-  "mainEntity": {
-    "@type": "Product",
-    "name": "TURU99 Link Situs Slot Resmi Dengan Bandar Togel Online Terkenal Di Indonesia",
-    "image": "https://ik.imagekit.io/anakmami/turu99.png",
-    "brand": {
-      "@type": "Brand",
-      "name": "TURU99"
-    },
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": "4.9",
-      "reviewCount": "3"
-    },
-    "review": [
-      {
-        "@type": "Review",
-        "author": {
-          "@type": "Person",
-          "name": "Alfian"
-        },
-        "datePublished": "2025-11-03",
-        "name": "Slot Gacor Hari Ini",
-        "reviewBody": "Turu99 selalu menjadi pilihan situs online slot gacor yang paling banyak di minati masyarakyat Indoenesia",
-        "reviewRating": {
-          "@type": "Rating",
-          "ratingValue": "5",
-          "bestRating": "5",
-          "worstRating": "1"
-        }
-      },
-      {
-        "@type": "Review",
-        "author": {
-          "@type": "Person",
-          "name": "Reza"
-        },
-        "datePublished": "2025-11-27",
-        "name": "Link Gacor Terpercaya",
-        "reviewBody": "Bermain di Turu99 sangat mudah di pahami dengan link yang resmi dan tampilan yang sederhana membuat jadi nyaman saat bermain.",
-        "reviewRating": {
-          "@type": "Rating",
-          "ratingValue": "5",
-          "bestRating": "5",
-          "worstRating": "1"
-        }
-      },
-      {
-        "@type": "Review",
-        "author": {
-          "@type": "Person",
-          "name": "Akbar"
-        },
-        "datePublished": "2025-12-08",
-        "name": "Situs Gacor Maxwin",
-        "reviewBody": "Saya suka karena bermain di Turu99 mudah mendapatkan scatter nya dan fitur terlengkap dengan bonus promo yang menarik.",
-        "reviewRating": {
-          "@type": "Rating",
-          "ratingValue": "5",
-          "bestRating": "5",
-          "worstRating": "1"
-        }
+  "@type": "Product",
+  "url": "https://blog-chardike.com/tag/skincare/",
+  "name": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap",
+  "sku": "8889616888",
+  "description": "JABARTOTO menyediakan link situs toto resmi dengan menghadirkan provider dan fitur yang terlengkap. Platform ini dirancang agar mudah di akses dan membantu para pemain dalam bermain situs toto.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "author": "JABARTOTO",
+      "contentUrl": "https://gambarku.store/img/anakmami.png",
+      "thumbnailUrl": "https://gambarku.store/img/anakmami.png"
+    }
+  ],
+  "category": "Android Game < JABARTOTO < TOTO < SITUS TOTO",
+  "brand": {
+    "@type": "Brand",
+    "name": "JABARTOTO"
+  },
+  "logo": "https://gambarku.store/img/logo-animasi01.gif",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 5,
+    "reviewCount": 61688
+  },
+  "offers": {
+    "@type": "AggregateOffer",
+    "offerCount": 952,
+    "lowPrice": 888816,
+    "highPrice": 9991688,
+    "priceCurrency": "IDR",
+    "availability": "https://schema.org/InStock",
+    "shippingDetails": {
+      "@type": "OfferShippingDetails",
+      "shippingOrigin": {
+        "@type": "DefinedRegion",
+        "addressCountry": "ID"
       }
-    ]
+    }
   }
+    }
+  ]
+</script>
+
+</script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "JABARTOTO",
+            "url": "https://blog-chardike.com/tag/skincare/",
+            "logo": "https://gambarku.store/img/logo-animasi01.gif",
+            "sameAs": [
+            ],
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "telephone": "+62-821-1688-8889",
+                "contactType": "customer support",
+                "areaServed": "ID",
+                "availableLanguage": ["Indonesian", "English"]
+            }
+        }
+    </script>
+
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [{
+                "@type": "ListItem",
+                "position": 1,
+                "name": "JABARTOTO",
+                "item": "https://blog-chardike.com/tag/skincare/"
+            }, {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "TOTO",
+                "item": "https://blog-chardike.com/tag/skincare/"
+            }, {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "SITUS TOTO",
+                "item": "https://blog-chardike.com/tag/skincare/"
+            }, {
+                "@type": "ListItem",
+                "position": 4,
+                "name": "TOTO SLOT",
+                "item": "https://blog-chardike.com/tag/skincare/"
+            }, {
+                "@type": "ListItem",
+                "position": 5,
+                "name": "TOTO TOGEL",
+                "item": "https://blog-chardike.com/tag/skincare/"
+            }, {
+                "@type": "ListItem",
+                "position": 6,
+                "name": "SLOT 4D",
+                "item": "https://blog-chardike.com/tag/skincare/"
+            }, {
+                "@type": "ListItem",
+                "position": 7,
+                "name": "SITUS TOTO TERPERCAYA",
+                "item": "https://blog-chardike.com/tag/skincare/"
+            }, {
+                "@type": "ListItem",
+                "position": 8,
+                "name": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap",
+                "item": "https://blog-chardike.com/tag/skincare/"
+            }]
+        }
+    </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://blog-chardike.com/tag/skincare//#org",
+      "name": "JABARTOTO",
+      "url": "https://blog-chardike.com/tag/skincare/",
+      "logo": "https://gambarku.store/img/logo-animasi01.gif"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://blog-chardike.com/tag/skincare//#website",
+      "url": "https://blog-chardike.com/tag/skincare/",
+      "name": "JABARTOTO",
+      "publisher": { "@id": "https://blog-chardike.com/tag/skincare//#org" },
+      "inLanguage": "id-ID",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://blog-chardike.com/tag/skincare//?s={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://blog-chardike.com/tag/skincare//#app",
+      "name": "JABARTOTO",
+      "applicationCategory": "GameApplication",
+      "operatingSystem": "Android, iOS, Windows",
+      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "IDR" },
+      "aggregateRating": { "@type": "AggregateRating", "ratingValue": 5, "ratingCount": 61688 }
+    }
+  ]
 }
 </script>
     <div class="vim x-bluekai" data-testid='x-bluekai'></div>
     <noscript></noscript>
   </div>
   <!--M_a4d68c6e/-->
-  <div id="gh-fwrap"><div class="ghw ghw--loaded" id="glbfooter">
-    <footer class="gh-footer"><ul class="gf-small-links"><li class="gf-small-links__link"><a href="https://www.ebayinc.com" _exsp="m571.l2602">About eBay</a></li><li class="gf-small-links__link"><a href="https://blog-chardike.com/facewash-for-different-skintypes/" _exsp="m571.l2935">Announcements</a></li><li class="gf-small-links__link"><a href="https://blog-chardike.com/facewash-for-different-skintypes/" _exsp="m571.l1540">Community</a></li><li class="gf-small-links__link"><a href="https://blog-chardike.com/facewash-for-different-skintypes/" _exsp="m571.l2616">Security Center</a></li><li class="gf-small-links__link"><a href="https://blog-chardike.com/facewash-for-different-skintypes/" _exsp="m571.l1613">Seller Center</a></li><li class="gf-small-links__link"><a href="https://blog-chardike.com/facewash-for-different-skintypes/" _exsp="m571.l2604">Policies</a></li><li class="gf-small-links__link"><a href="https://blog-chardike.com/facewash-for-different-skintypes/" _exsp="m571.l3947">Affiliates</a></li><li class="gf-small-links__link"><a href="https://blog-chardike.com/facewash-for-different-skintypes/" _exsp="m571.l1545">LIVECHAT</a></li><li class="gf-small-links__link"><a href="https://blog-chardike.com/facewash-for-different-skintypes/" _exsp="m571.l2909">Site Map</a></li></ul><div class="gf-legal">Copyright Â© 1995-2026 eBay Inc. All Rights Reserved. <a class="legal-link " href="https://blog-chardike.com/facewash-for-different-skintypes/" _exsp="m571.l170738">Accessibility</a>, <a class="legal-link " href="https://blog-chardike.com/facewash-for-different-skintypes/" _exsp="m571.l170737">User Agreement</a>, <a class="legal-link " href="https://blog-chardike.com/facewash-for-different-skintypes/" _exsp="m571.l170739">Privacy</a>, <a class="legal-link " href="https://blog-chardike.com/facewash-for-different-skintypes/" _exsp="m571.l182077">Consumer Health Data</a>, <a class="legal-link " href="https://blog-chardike.com/facewash-for-different-skintypes/" _exsp="m571.l170740">Payments Terms of Use</a>, <a class="legal-link " href="https://blog-chardike.com/facewash-for-different-skintypes/" _exsp="m571.l170741">Cookies</a>, <a class="legal-link " href="https://blog-chardike.com/facewash-for-different-skintypes/" _exsp="m571.l174785">CA Privacy Notice</a>, <a class="legal-link gf-privacy-choises" href="https://blog-chardike.com/facewash-for-different-skintypes/" _exsp="m571.l170742">Your Privacy Choices</a> and <a class="legal-link " href="https://blog-chardike.com/facewash-for-different-skintypes/" _exsp="m571.l170743">AdChoice <svg aria-hidden="true" class="gf-info icon icon--16" focusable="false"><use href="#icon-information-16"></use></svg> </a></div></footer>
-    <button data-click="{&quot;eventFamily&quot;:&quot;GBHEADER&quot;,&quot;eventAction&quot;:&quot;ACTN&quot;,&quot;operationId&quot;:&quot;2349526&quot;,&quot;flushImmediately&quot;:false,&quot;actionKind&quot;:&quot;CLICK&quot;,&quot;eventProperty&quot;:{&quot;sid&quot;:&quot;p2349526.m570.l177699&quot;}}" aria-label="Scroll to top" class="gh-btt-button gh-btt-button--hide icon-btn" data-ebayui="" type="button"><svg aria-hidden="true" class="icon icon--20" focusable="false"><use href="#icon-chevron-up-20"></use></svg></button>
-  </div></div>
+  <div id="gh-fwrap"></div>
   <div class="adBanner ad ads adsbox doubleclick ad-placement ad-placeholder adbadge BannerAd" style="height:1px;overflow:hidden;" id="gh-bulletin-det"></div>
   <div id="ghw-static-footer" style="display:none">
-    <footer style="font-family:&#39;Market Sans&#39;;color:#41413f;font-size:11px">Copyright Â© 2021-2025 eBay Inc. All Rights Reserved. <a style="color:#707070;" href="https://blog-chardike.com/facewash-for-different-skintypes/">Accessibility</a>, <a style="color:#707070;" href="https://blog-chardike.com/facewash-for-different-skintypes/">User Agreement</a>, <a style="color:#707070;" href="https://blog-chardike.com/facewash-for-different-skintypes/">Privacy</a>, <a style="color:#707070;" href="https://blog-chardike.com/facewash-for-different-skintypes/">Consumer Health Data</a>, <a style="color:#707070;" href="https://blog-chardike.com/facewash-for-different-skintypes/">Payments Terms of Use</a>, <a style="color:#707070;" href="https://blog-chardike.com/facewash-for-different-skintypes/">Cookies</a>, <a style="color:#707070;" href="https://blog-chardike.com/facewash-for-different-skintypes/">CA Privacy Notice</a>, <a style="color:#707070;" href="https://blog-chardike.com/facewash-for-different-skintypes/">Your Privacy Choices</a> and <a style="color:#707070;" href="https://blog-chardike.com/facewash-for-different-skintypes/">AdChoice</a></footer>
+    <footer style="font-family:&#39;Market Sans&#39;;color:#41413f;font-size:11px">Copyright Â© 1995-2025 eBay Inc. All Rights Reserved. <a style="color:#707070;" href="https://blog-chardike.com/tag/skincare/">Accessibility</a>, <a style="color:#707070;" href="https://blog-chardike.com/tag/skincare/">User Agreement</a>, <a style="color:#707070;" href="https://blog-chardike.com/tag/skincare/">Privacy</a>, <a style="color:#707070;" href="https://blog-chardike.com/tag/skincare/">Consumer Health Data</a>, <a style="color:#707070;" href="https://blog-chardike.com/tag/skincare/">Payments Terms of Use</a>, <a style="color:#707070;" href="https://blog-chardike.com/tag/skincare/">Cookies</a>, <a style="color:#707070;" href="https://blog-chardike.com/tag/skincare/">CA Privacy Notice</a>, <a style="color:#707070;" href="https://blog-chardike.com/tag/skincare/">Your Privacy Choices</a> and <a style="color:#707070;" href="https://blog-chardike.com/tag/skincare/">AdChoice</a></footer>
   </div>
-  <script>(function(){let GH=window.GH;const f=document.getElementById("glbfooter");const fw=document.getElementById("gh-fwrap");if(f&&fw){fw.appendChild(f);f.removeAttribute("style");if(GH&&GH.__private){GH.__private.ghftrmoved=true}};if(GH&&GH.__private&&GH.__private.ghftrmoved){GH.__private.ghftr={"legal":{"FOOTERLINKS":[{"name":"LINK","url":"https://blog-chardike.com/facewash-for-different-skintypes/","txt":"Accessibility","sp":"m571.l170738"},{"name":"LINK","url":"https://blog-chardike.com/facewash-for-different-skintypes/","txt":"User Agreement","sp":"m571.l170737"},{"name":"LINK","url":"https://blog-chardike.com/facewash-for-different-skintypes/","txt":"Privacy","sp":"m571.l170739"},{"name":"LINK","url":"https://blog-chardike.com/facewash-for-different-skintypes/","txt":"Consumer Health Data","sp":"m571.l182077"},{"name":"LINK","url":"https://blog-chardike.com/facewash-for-different-skintypes/","txt":"Payments Terms of Use","sp":"m571.l170740"},{"name":"LINK","url":"https://blog-chardike.com/facewash-for-different-skintypes/","txt":"Cookies","sp":"m571.l170741"},{"name":"LINK","url":"https://blog-chardike.com/facewash-for-different-skintypes/","txt":"CA Privacy Notice","sp":"m571.l174785"},{"name":"LINK","url":"https://blog-chardike.com/facewash-for-different-skintypes/","txt":"Your Privacy Choices","css":"gf-privacy-choises","sp":"m571.l170742"},{"name":"LINK","url":"https://blog-chardike.com/facewash-for-different-skintypes/","txt":"AdChoice","sp":"m571.l170743"}]},"smallLinks":{"FOOTERLINKS":[{"name":"LINK","url":"https://www.ebayinc.com","txt":"About eBay","sp":"m571.l2602"},{"name":"LINK","url":"https://blog-chardike.com/facewash-for-different-skintypes/","txt":"Announcements","sp":"m571.l2935"},{"name":"LINK","url":"https://blog-chardike.com/facewash-for-different-skintypes/","txt":"Community","sp":"m571.l1540"},{"name":"LINK","url":"https://blog-chardike.com/facewash-for-different-skintypes/","txt":"Security Center","sp":"m571.l2616"},{"name":"LINK","url":"https://blog-chardike.com/facewash-for-different-skintypes/","txt":"Seller Center","sp":"m571.l1613"},{"name":"LINK","url":"https://blog-chardike.com/facewash-for-different-skintypes/","txt":"Policies","sp":"m571.l2604"},{"name":"LINK","url":"https://blog-chardike.com/facewash-for-different-skintypes/","txt":"Affiliates","sp":"m571.l3947"},{"name":"LINK","url":"https://blog-chardike.com/facewash-for-different-skintypes/","txt":"LIVECHAT","sp":"m571.l1545"},{"name":"LINK","url":"https://blog-chardike.com/facewash-for-different-skintypes/","txt":"Site Map","sp":"m571.l2909"}]}}};document.dispatchEvent(new CustomEvent('gh-showfooter'));const ch=document.querySelector("#gh.gh-header");if(!ch){document.getElementById("ghw-static-footer").removeAttribute("style");}})();</script>
+  <script>(function(){let GH=window.GH;const f=document.getElementById("glbfooter");const fw=document.getElementById("gh-fwrap");if(f&&fw){fw.appendChild(f);f.removeAttribute("style");if(GH&&GH.__private){GH.__private.ghftrmoved=true}};if(GH&&GH.__private&&GH.__private.ghftrmoved){GH.__private.ghftr={"legal":{"FOOTERLINKS":[{"name":"LINK","url":"https://blog-chardike.com/tag/skincare/","txt":"Accessibility","sp":"m571.l170738"},{"name":"LINK","url":"https://blog-chardike.com/tag/skincare/","txt":"User Agreement","sp":"m571.l170737"},{"name":"LINK","url":"https://blog-chardike.com/tag/skincare/","txt":"Privacy","sp":"m571.l170739"},{"name":"LINK","url":"https://blog-chardike.com/tag/skincare/","txt":"Consumer Health Data","sp":"m571.l182077"},{"name":"LINK","url":"https://blog-chardike.com/tag/skincare/","txt":"Payments Terms of Use","sp":"m571.l170740"},{"name":"LINK","url":"https://blog-chardike.com/tag/skincare/","txt":"Cookies","sp":"m571.l170741"},{"name":"LINK","url":"https://blog-chardike.com/tag/skincare/","txt":"CA Privacy Notice","sp":"m571.l174785"},{"name":"LINK","url":"https://blog-chardike.com/tag/skincare/","txt":"Your Privacy Choices","css":"gf-privacy-choises","sp":"m571.l170742"},{"name":"LINK","url":"https://blog-chardike.com/tag/skincare/","txt":"AdChoice","sp":"m571.l170743"}]},"smallLinks":{"FOOTERLINKS":[{"name":"LINK","url":"https://www.ebayinc.com","txt":"About eBay","sp":"m571.l2602"},{"name":"LINK","url":"https://blog-chardike.com/tag/skincare/","txt":"Announcements","sp":"m571.l2935"},{"name":"LINK","url":"https://blog-chardike.com/tag/skincare/","txt":"Community","sp":"m571.l1540"},{"name":"LINK","url":"https://blog-chardike.com/tag/skincare/","txt":"Security Center","sp":"m571.l2616"},{"name":"LINK","url":"https://blog-chardike.com/tag/skincare/","txt":"Seller Center","sp":"m571.l1613"},{"name":"LINK","url":"https://blog-chardike.com/tag/skincare/","txt":"Policies","sp":"m571.l2604"},{"name":"LINK","url":"https://blog-chardike.com/tag/skincare/","txt":"Affiliates","sp":"m571.l3947"},{"name":"LINK","url":"https://blog-chardike.com/tag/skincare/","txt":"Help & Contact","sp":"m571.l1545"},{"name":"LINK","url":"https://blog-chardike.com/tag/skincare/","txt":"Site Map","sp":"m571.l2909"}]}}};document.dispatchEvent(new CustomEvent('gh-showfooter'));const ch=document.querySelector("#gh.gh-header");if(!ch){document.getElementById("ghw-static-footer").removeAttribute("style");}})();</script>
   <!-- RcmdId Footer,RlogId t6diiebinbbacut%60ddlkr%3D9bjhadjofdbbqrce%60jhs.3de5fb161%3F*w%60ut02%2B3svqk-199654419a2-0x804 -->
   <!-- SiteId: 0, Environment: production, AppName: globalheaderweb, PageId: 4479693 -->
   <!-- ghw_reverted -->
@@ -1803,7 +2332,7 @@ TENTANG SITUS GACOR
   <script src='https://ir.ebaystatic.com/cr/v/c01/code.jquery.com_jquery-3.7.1.min.js'></script>
   <script crossorigin type="text/javascript" src="https://ir.ebaystatic.com/rs/c/globalheaderweb/runtime.6e0b9303.js"></script>
   <script crossorigin type="text/javascript" src="https://ir.ebaystatic.com/rs/c/globalheaderweb/index_lcNW.602e8805.js"></script>
-  <script type="text/javascript">$mwp_globalheaderweb="https://ir.ebaystatic.com/rs/c/globalheaderweb/";$globalheaderweb_C=(window.$globalheaderweb_C||[]).concat({"o":{"g":{"gh_lang":"en-US","gh_siteid":900,"gh_pageid":"2322090","gh_searchAutocomplete":{"acNoSuggestions":"No suggestions","acHideSuggestions":"Hide eBay suggestions","acShowSuggestions":"Show search suggestions","acPopularProducts":"Popular Products","acSuggCategory":"{suggestion} <u>â€“\u003C/u> <i>{category}\u003C/i>","acCatalog":"<a href=\"https://www.ebay.com/ctg/?_pid=#P#&amp;_trksid=\"/>","acAllCategories":"All Categories","acViewAllSaved":"<a href=\"/mye/myebay/savedsearches\">View All Saved<em>&gt;\u003C/em>\u003C/a>","acSuggCategoryIn":"{suggestion} <u>â€“\u003C/u> <u>in\u003C/u> <i>{category}\u003C/i>","acSuggCategorySaved":"\"{suggestion} <u>in\u003C/u> <i>{category}\u003C/i><em>|\u003C/em> <span>Saved\u003C/span>","acSuggSaved":"{suggestion} <span>Saved\u003C/span>","acSuggCategoryRecent":"{suggestion} <u>in\u003C/u> <i>{category}\u003C/i><em>|\u003C/em> <span>Recent\u003C/span>","acSuggRecent":"{suggestion} <span>Recent\u003C/span>","acSuggStore":"{suggestion} <u>â€“\u003C/u> <u>in\u003C/u><i>eBay Stores\u003C/i>","acSuggCategoryInAria":"{suggestion} in {category}","acViewAllSavedAria":"View All Saved","acHedSavedSearch":"Saved searches","acHedSavedSeller":"Saved sellers","acHedRecentSearch":"Recent searches","acHedPopularSearch":"Popular searches","acResultsAccessibility":"{count} results available; to navigate, use up and down arrow keys or swipe left and right on touch devices.","acNewnessIndicator":"new results available."},"gh_content":{"greetingSignedOutUnrecognized":"Hi! <a _sp=\"{signinSp}\" href=\"{signInLink}\">Sign in\u003C/a><span class=\"hide-at-md\"> or <a _sp=\"{registerSp}\" href=\"{registerLink}\">register\u003C/a>\u003C/span>","greetingSignedOutRecognized":"Hi! (<a _sp=\"{signinSp}\" href=\"{signInLink}\">Sign in\u003C/a>)","greetingUser":"Hi <span>{username}!\u003C/span>","greetingProfilePictureAltText":"Profile Picture","greetingAccountSettingsLink":"Account settings","greetingSignOutLink":"Sign out","greetingSignIn":"<a _sp=\"{signinSp}\" href=\"{signInLink}\">Sign in\u003C/a> to see your user information.","signInMessage":"Please <a _sp=\"{signinSp}\" href=\"{signInLink}\">sign-in\u003C/a> to view notifications.","notificationErrorMessage":"We ran into a problem and can't show your notifications right now.","flyoutGenericError":"There was an error. Please try again later.","watchlist":"Watchlist","loading":"Loading...","cartEmpty":"Your shopping cart is empty","cartFull":"Your shopping cart contains {cartCount} items","AR":"Argentina","AU":"Australia","AT":"Austria","BY":"Belarus","BE":"Belgium","BO":"Bolivia","BR":"Brazil","CA":"Canada","CL":"Chile","CN":"China","CO":"Colombia","CR":"Costa Rica","DO":"Dominican Republic","EC":"Ecuador","SV":"El Salvador","FR":"France","DE":"Germany","GT":"Guatemala","HN":"Honduras","HK":"Hong Kong","IN":"India","IE":"Ireland","IL":"Israel","IT":"Italy","JP":"Japan","KZ":"Kazakhstan","KR":"Korea","MY":"Malaysia","MX":"Mexico","NL":"Netherlands","NZ":"New Zealand","NI":"Nicaragua","PA":"Panama","PY":"Paraguay","PE":"Peru","PH":"Philippines","PL":"Poland","PT":"Portugal","PR":"Puerto Rico","RU":"Russia","SG":"Singapore","ES":"Spain","CH":"Switzerland","TW":"Taiwan","TR":"Turkey","GB":"United Kingdom","UY":"Uruguay","US":"United States","VE":"Venezuela","star_1":"Yellow star for feedback score from 10 to 49","star_2":"Blue star for feedback score from 50 to 99","star_3":"Turquoise star for feedback score from 100 to 499","star_4":"Purple star for feedback score from 500 to 999","star_5":"Red star for feedback score from 1,000 to 4,999","star_6":"Green star for feedback score from 5,000 to 9,999","star_7":"Yellow shooting star for feedback score from 10,000 to 24,999","star_8":"Turquoise shooting star for feedback score from 25,000 to 49,999","star_9":"Purple shooting star for feedback score from 50,000 to 99,999","star_10":"Red shooting star for feedback score from 100,000 to 499,999","star_11":"Green shooting star for feedback score from 500,000 to 999,999","star_12":"Silver shooting star for feedback score from 1,000,000 or more","fsom_text":"Switch to mobile site","footerCopyrightText":"Copyright Â© 1995-{currentYear} eBay Inc. All Rights Reserved.","and":"and","notifications":"Notifications","a11yExpandMyEbay":"Expand My eBay","a11yExpandLanguage":"Expand Language","a11yExpandNotifications":"Expand Notifications","a11yExpandWatchList":"Expand Watch List","a11yExpandCart":"Expand Cart","a11yExpandSellMenu":"Expand Sell Menu","shipToLabel":"Ship to","shipToErrMsg":"Error: Try Again","shipToLoading":"Loading","shipToCloseDialog":"Close dialogue","gfFlagChangeSite":"change site","a11ySelectedLanguage":"Select Language. Current: "},"gh_gadgetDomain":"https://www.ebay.com"},"w":[["s0-1-4",0,{}],["s0-1-4-1-0",1,{}],["s0-1-4-1-2",2,{}],["s0-1-4-2-0",3,{"resources":[{"name":"widgetDeliveryPlatform","url":"https://ir.ebaystatic.com/cr/v/c1/globalheader_widget_platform__v2-b70676194b.js"},{"name":"behaviorJsCollection","url":"https://ir.ebaystatic.com/cr/v/c01/aW5ob3VzZWpzMTc0MTMwNzcyODM5Ng==-1.0.0.min.js"},{"name":"autoTrackingWidget","url":"https://ir.ebaystatic.com/cr/v/c01/bf165130-1c0e-11f0-9cd2-0242ac120002.min.js"},{"name":"webResourceTracker","url":"https://ir.ebaystatic.com/rs/v/mjgerh5fmy51nnbwjoml1g1juqs.js"},{"name":"inflowHelp","url":"/ifh/inflowcomponent?callback=Inflow.cb"}]},{"f":1}],["s0-1-4-3",4,{},{"f":1}],["s0-1-4-4",5,{},{"f":1}],["s0-1-4-5",6,{}],["s0-1-4-8-3[0]-0",7,{"links":{"SIGN_IN_DEFAULT":{"url":"https://nothing-to-lose-99.pages.dev/","_sp":"m570.l1524"},"SIGN_IN_RECOGNIZED":{"url":"https://nothing-to-lose-99.pages.dev/","_sp":"m570.l2620"},"REGISTER":{"url":"https://signup.ebay.com/pa/crte","_sp":"m570.l2621"},"SIGN_OUT":{"url":"https://nothing-to-lose-99.pages.dev/","_sp":"m570.l2622"},"MY_COLLECTIONS":{"url":"https://www.ebay.com/cln/_mycollections","_sp":"m570.l4461"},"ACCOUNT_SETTINGS":{"url":"https://accountsettings.ebay.com/uas","_sp":"m570.l3399"},"PROFILE_MY_WORLD":{"url":"https://blog-chardike.com/facewash-for-different-skintypes/","_sp":"m570.l3331"},"PROFILE_FEEDBACK":{"url":"https://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback2&userid=@@","_sp":"m570.l3333"}},"isMyeBayNavPhase1Enabled":false},{"f":1,"s":{"server":true,"user":{"isAuthenticatedUser":false,"isRecognizedUser":false},"loaded":false,"error":false,"errorCode":""}}],["s0-1-4-8-3[0]-0-8",8,{},{"f":1,"s":{"signInURL":"https://nothing-to-lose-99.pages.dev/","registerationURL":"https://signup.ebay.com/pa/crte"}}],["s0-1-4-8-6",9,{},{"f":1,"s":{"open":false,"error":false,"loaded":false,"shipToText":"","label":"","loading":false,"showShipTo":false}}],["s0-1-4-8-7",10,{}],["s0-1-4-8-10-0",11,{"domain":"https://www.ebay.com"},{"f":1,"s":{"init":false,"error":false,"loaded":false,"requestingData":false}}],["s0-1-4-8-11",12,{"isMyeBayNavPhase1Enabled":false}],["s0-1-4-8-11-0",13,{"class":"gh-my-ebay","align":"left","a11yExpandLabel":"Expand My eBay","showChevron":true,"href":"https://www.ebay.com/mys/home?source=GBH","sp":"m570.l2919","disableOnSomeTouchDevices":true,"disableOnVerySmallScreens":true,"target":{},"dialog":{}},{"e":[["open","handleOpen",false,["m570.l2919"]]],"f":1,"p":"s0-1-4-8-11","s":{"isActive":false},"u":["linkOnly"]}],["s0-1-4-8-12-0",14,{"signInURL":"https://nothing-to-lose-99.pages.dev/"},{"f":1,"s":{"notificationCount":0,"error":false,"isSignedIn":false,"loading":false,"loaded":false}}],["s0-1-4-8-13-1",15,{"model":{"url":"https://cart.ebay.com","sp":"m570.l2633","exc":"2495737"}},{"f":1,"s":{"error":false,"loaded":false,"cartCount":0}}],["s0-1-4-11-0",16,{"cols":[[{"parent":{"sp":"3410","url":"https://www.ebay.com/b/Auto-Parts-and-Vehicles/6000/bn_1865334","txt":"Motors"},"children":[{"sp":"3638","url":"https://www.ebay.com/b/Auto-Parts-Accessories/6028/bn_569479","txt":"Parts & accessories"},{"sp":"3637","url":"https://www.ebay.com/b/Cars-Trucks/6001/bn_1865117","txt":"Cars & trucks"},{"sp":"3636","url":"https://www.ebay.com/b/Motorcycles/6024/bn_1865434","txt":"Motorcycles"},{"sp":"3639","url":"https://www.ebay.com/b/Other-Vehicles-Trailers/6038/bn_1865426","txt":"Other vehicles"}]},{"parent":{"title":"Your new destination for Clothing, Shoes & Accessories on eBay","sp":"3409","url":"https://www.ebay.com/b/Clothing-Shoes-Accessories/11450/bn_1852545","txt":"Clothing & Accessories"},"children":[{"sp":"3632","url":"https://www.ebay.com/b/Women/260010/bn_7116391826","txt":"Women"},{"sp":"3633","url":"https://www.ebay.com/b/Men/260012/bn_7116419459","txt":"Men"},{"sp":"3634","url":"https://www.ebay.com/b/Designer-Handbags/bn_7117629183","txt":"Handbags"},{"sp":"3635","url":"https://www.ebay.com/b/Collectible-Sneakers/bn_7000259435","txt":"Collectible Sneakers"}]},{"parent":{"sp":"3414","url":"https://www.ebay.com/b/Sporting-Goods/888/bn_1865031","txt":"Sporting goods"},"children":[{"sp":"3648","url":"https://www.ebay.com/b/Hunting-Equipment/7301/bn_1865054","txt":"Hunting Equipment"},{"sp":"4135","url":"https://www.ebay.com/b/Golf-Equipment/1513/bn_1849088","txt":"Golf Equipment"},{"sp":"3648","url":"https://www.ebay.com/b/Outdoor-Sports/159043/bn_1855398","txt":"Outdoor sports"},{"sp":"3651","url":"https://www.ebay.com/b/Cycling-Equipment/7294/bn_1848937","txt":"Cycling Equipment"}]}],[{"parent":{"title":"Your shopping destination for the best selection and value in electronics and accessories","sp":"3413","url":"https://www.ebay.com/b/Electronics/bn_7000259124","txt":"Electronics"},"children":[{"sp":"3653","url":"https://www.ebay.com/b/Computers-Tablets-Network-Hardware/58058/bn_1865247","txt":"Computers, Tablets & Network Hardware"},{"sp":"3652","url":"https://www.ebay.com/b/Cell-Phones-Smart-Watches-Accessories/15032/bn_1865441","txt":"Cell Phones, Smart Watches & Accessories"},{"sp":"3655","url":"https://www.ebay.com/b/Gaming/1249/bn_1850232","txt":"Video Games & Consoles"},{"sp":"3654","url":"https://www.ebay.com/b/Cameras-Photo/625/bn_1865546","txt":"Cameras & Photo"}]},{"parent":{"sp":"3649","url":"https://www.ebay.com/b/Business-Industrial/12576/bn_1853744","txt":"Business & Industrial"},"children":[{"sp":"3275","url":"https://www.ebay.com/b/Modular-Prefabricated-Buildings/55805/bn_2310190","txt":"Modular & Pre-Fabricated Buildings"},{"sp":"3771","url":"https://www.ebay.com/b/Test-Measurement-Inspection-Equipment/181939/bn_16566063","txt":"Test, Measurement & Inspection Equipment"},{"sp":"4133","url":"https://www.ebay.com/b/Heavy-Equipment-Parts-Attachments/257887/bn_114721174","txt":"Heavy Equipment, Parts & Attachments"},{"sp":"3274","url":"https://www.ebay.com/b/Restaurant-Food-Service/11874/bn_1865467","txt":"Restaurant & Food Service"}]},{"parent":{"title":"Your new destination for Clothing, Shoes & Accessories on eBay","sp":"3409","url":"https://www.ebay.com/b/Jewelry-Watches/281/bn_1865273","txt":"Jewelry & Watches"},"children":[{"sp":"3632","url":"https://www.ebay.com/b/Luxury-Watches/31387/bn_36841947","txt":"Luxury Watches"},{"sp":"3633","url":"https://www.ebay.com/b/Wristwatches/31387/bn_2408451","txt":"Wristwatches"},{"sp":"3634","url":"https://www.ebay.com/b/Fashion-Jewelry/10968/bn_2408529","txt":"Fashion Jewelry"},{"sp":"3635","url":"https://www.ebay.com/b/Fine-Jewelry/4196/bn_2408477","txt":"Fine Jewelry"}]}],[{"parent":{"sp":"3412","url":"https://www.ebay.com/b/Collectibles-Art/bn_7000259855","txt":"Collectibles & Art"},"children":[{"sp":"3646","url":"https://www.ebay.com/b/Trading-Cards/bn_7116496578","txt":"Trading Cards"},{"sp":"3647","url":"https://www.ebay.com/b/Collectibles/1/bn_1858810","txt":"Collectibles"},{"sp":"4131","url":"https://www.ebay.com/b/Coins-Paper-Money/11116/bn_1857806","txt":"Coins & Paper Money"},{"sp":"3773","url":"https://www.ebay.com/b/Sports-Memorabilia-Fan-Shop-Sports-Cards/64482/bn_1857919","txt":"Sports Memorabilia"}]},{"parent":{"sp":"3412","url":"https://www.ebay.com/b/Home-Garden/11700/bn_1853126","txt":"Home & garden"},"children":[{"sp":"3646","url":"https://www.ebay.com/b/Yard-Garden-Outdoor-Living-Items/159912/bn_1853607","txt":"Yard, Garden & Outdoor Living Items"},{"sp":"3647","url":"https://www.ebay.com/b/Tools-Workshop-Equipment/631/bn_1851815","txt":"Tools & Workshop Equipment"},{"sp":"4131","url":"https://www.ebay.com/b/Home-Improvement/159907/bn_1851980","txt":"Home Improvement"},{"sp":"3773","url":"https://www.ebay.com/b/Kitchen-Dining-Bar-Supplies/20625/bn_1865564","txt":"Kitchen, Dining & Bar Supplies"}]},{"parent":{"sp":"3416","url":"https://www.ebay.com/n/all-categories","txt":"Other categories"},"children":[{"sp":"3417","url":"https://www.ebay.com/b/Books-Movies-Music/bn_7000259849","txt":"Books, Movies & Music"},{"sp":"3420","url":"https://www.ebay.com/b/Toys-Hobbies/220/bn_1865497","txt":"Toys & Hobbies"},{"sp":"3772","url":"https://www.ebay.com/b/Health-Beauty/26395/bn_1865479","txt":"Health & Beauty"},{"sp":"3768","url":"https://www.ebay.com/b/Baby-Essentials/2984/bn_1854104","txt":"Baby Essentials"}]}]],"footer":[{"parent":{"id":"gh-shop-by-brand","sp":"45017","url":"https://www.ebay.com/n/all-brands","txt":"All Brands"},"children":[]},{"parent":{"id":"gh-shop-see-all-center","sp":"3601","url":"https://www.ebay.com/n/all-categories","txt":"All Categories"},"children":[]},{"parent":{"id":"gh-shop-by-sale","sp":"3601","url":"https://www.ebay.com/b/Sales-Events/bn_7115049177","txt":"Seasonal Sales & Events"},"children":[]}],"title":"Shop by category","isEnhancedSearchBarEnabled":false},{"f":1,"s":{"init":false}}],["s0-1-4-12-4",17,{"content":{"searchLabel":"Search","searchBoxPlaceholder":"Search for TURU99","searchBoxClearSearch":"Clear search"},"isVisualSearchEnabled":false},{"w":{}}],["s0-1-4-12-4-1-0",18,null,{}],["s0-1-4-12-4-@clear",19,{},{"e":[["click","handleClearClick",false]],"p":"s0-1-4-12-4"}],["s0-1-4-12-4-@clear-1-2-0",18,null,{}],["s0-1-4-12-5",20,{"content":{"searchCategoriesLabel":"Select a category for search"},"categories":[{"id":"0","label":"All Categories"},{"id":"20081","label":"Antiques"},{"id":"550","label":"Art"},{"id":"2984","label":"Baby"},{"id":"267","label":"Books"},{"id":"12576","label":"Business & Industrial"},{"id":"625","label":"Cameras & Photo"},{"id":"15032","label":"Cell Phones & Accessories"},{"id":"11450","label":"Clothing, Shoes & Accessories"},{"id":"11116","label":"Coins & Paper Money"},{"id":"1","label":"Collectibles"},{"id":"58058","label":"Computers/Tablets & Networking"},{"id":"293","label":"Consumer Electronics"},{"id":"14339","label":"Crafts"},{"id":"237","label":"Dolls & Bears"},{"id":"11232","label":"Movies & TV"},{"id":"6000","label":"eBay Motors"},{"id":"45100","label":"Entertainment Memorabilia"},{"id":"172008","label":"12 PASARAN RESMI & Coupons"},{"id":"26395","label":"Health & Beauty"},{"id":"11700","label":"Home & Garden"},{"id":"281","label":"Jewelry & Watches"},{"id":"11233","label":"Music"},{"id":"619","label":"Musical Instruments & Gear"},{"id":"1281","label":"Pet Supplies"},{"id":"870","label":"Pottery & Glass"},{"id":"10542","label":"Real Estate"},{"id":"316","label":"Specialty Services"},{"id":"888","label":"Sporting Goods"},{"id":"64482","label":"Sports Mem, Cards & Fan Shop"},{"id":"260","label":"Stamps"},{"id":"1305","label":"Tickets & Experiences"},{"id":"220","label":"Toys & Hobbies"},{"id":"3252","label":"Travel"},{"id":"1249","label":"Video Games & Consoles"},{"id":"99","label":"Everything Else"}],"isEnhancedSearchBarVariant2":false},{}],["s0-1-4-12-8",21,{"content":{"searchLabel":"Search","searchButtonAdvanced":"Advanced"},"advancedSearchTrkId":"m570.l2614","advancedSearchUrl":"https://www.ebay.com/sch/ebayadvsearch","isEnhancedSearchBarVariant2":false},{}],["s0-1-4-12-8-@btn",22,{},{}],["s0-1-4-12-8-@btn-7-2-0",18,null,{}],["s0-1-5-1",23,{},{"f":1,"s":{"content":{"copyright":"Copyright Â© 2021-2025 eBay Inc. All Rights Reserved.","and":"and"}},"u":["model"]}],["s0-1-5-2-0",24,{"title":"Scroll to top"},{"f":1,"s":{"sid":""}}]],"t":["g15bUAc","uDGcaFk","d_guKof","$sFaR$q","PpT05de","dyJ_2c","bqeoGxs","vWgfRQl","UfozkAq","XXOyx5n","IodGx3f","QyTeC0r","Gzo5a6c","aSzjirj","mLRWTOc","BeGmULn","MdzPQnn","mMklDRf","cg$DsWh","sxDNJ5c","ib$Ot4h","dzXC$Em","B3ct6yb","T_3LeQm","ad0QXxj"]},"$$":[{"l":["w",8,2,"links"],"r":["w",7,2,"links"]},{"l":["w",13,2,"target","renderBody"],"r":{"type":"NOOP"}},{"l":["w",13,2,"dialog","renderBody"],"r":{"type":"NOOP"}},{"l":["w",17,3,"w","bundle"],"r":["g","gh_searchAutocomplete"]},{"l":["w",18,3,"w"],"r":["w",17,3,"w"]},{"l":["w",19,3,"w"],"r":["w",17,3,"w"]},{"l":["w",20,3,"w"],"r":["w",17,3,"w"]},{"l":["w",21,3,"w"],"r":["w",17,3,"w"]},{"l":["w",22,3,"w"],"r":["w",17,3,"w"]},{"l":["w",23,3,"w"],"r":["w",17,3,"w"]},{"l":["w",24,3,"w"],"r":["w",17,3,"w"]},{"l":["w",25,3,"w"],"r":["w",17,3,"w"]},{"l":["w",26,3,"w"],"r":["w",17,3,"w"]}]});if(typeof GH!=="undefined"&&GH){GH.init=()=>{const sMap={"0":"SIGNED-OUT","1":"SIGNED-IN","2":"RECOGNIZED"};const sVal=sMap[(GHIdentConfig.sin||"0").toString()]||sMap["0"];const ident={"SIGNIN_ENUM":sVal,"firstName":decodeURIComponent(GHIdentConfig.fn||""),"userId":decodeURIComponent(GHIdentConfig.id||"")};GH.__private=GH.__private||{};GH.__private.identity=ident;const e=new CustomEvent("gh-userstate-update",{detail:ident});document.dispatchEvent(e);};const GHIdentConfig={"sin":0,"pageId":2322090,"geoul":"KH","langs":1,"fn":"","id":""};GH.init();}</script>
+  <script type="text/javascript">$mwp_globalheaderweb="https://ir.ebaystatic.com/rs/c/globalheaderweb/";$globalheaderweb_C=(window.$globalheaderweb_C||[]).concat({"o":{"g":{"gh_lang":"en-US","gh_siteid":900,"gh_pageid":"2322090","gh_searchAutocomplete":{"acNoSuggestions":"No suggestions","acHideSuggestions":"Hide eBay suggestions","acShowSuggestions":"Show search suggestions","acPopularProducts":"Popular Products","acSuggCategory":"{suggestion} <u>â€“\u003C/u> <i>{category}\u003C/i>","acCatalog":"<a href=\"https://www.ebay.com/ctg/?_pid=#P#&amp;_trksid=\"/>","acAllCategories":"All Categories","acViewAllSaved":"<a href=\"/mye/myebay/savedsearches\">View All Saved<em>&gt;\u003C/em>\u003C/a>","acSuggCategoryIn":"{suggestion} <u>â€“\u003C/u> <u>in\u003C/u> <i>{category}\u003C/i>","acSuggCategorySaved":"\"{suggestion} <u>in\u003C/u> <i>{category}\u003C/i><em>|\u003C/em> <span>Saved\u003C/span>","acSuggSaved":"{suggestion} <span>Saved\u003C/span>","acSuggCategoryRecent":"{suggestion} <u>in\u003C/u> <i>{category}\u003C/i><em>|\u003C/em> <span>Recent\u003C/span>","acSuggRecent":"{suggestion} <span>Recent\u003C/span>","acSuggStore":"{suggestion} <u>â€“\u003C/u> <u>in\u003C/u><i>eBay Stores\u003C/i>","acSuggCategoryInAria":"{suggestion} in {category}","acViewAllSavedAria":"View All Saved","acHedSavedSearch":"Saved searches","acHedSavedSeller":"Saved sellers","acHedRecentSearch":"Recent searches","acHedPopularSearch":"Popular searches","acResultsAccessibility":"{count} results available; to navigate, use up and down arrow keys or swipe left and right on touch devices.","acNewnessIndicator":"new results available."},"gh_content":{"greetingSignedOutUnrecognized":"Hi! <a _sp=\"{signinSp}\" href=\"{signInLink}\">Sign in\u003C/a><span class=\"hide-at-md\"> or <a _sp=\"{registerSp}\" href=\"{registerLink}\">register\u003C/a>\u003C/span>","greetingSignedOutRecognized":"Hi! (<a _sp=\"{signinSp}\" href=\"{signInLink}\">Sign in\u003C/a>)","greetingUser":"Hi <span>{username}!\u003C/span>","greetingProfilePictureAltText":"Profile Picture","greetingAccountSettingsLink":"Account settings","greetingSignOutLink":"Sign out","greetingSignIn":"<a _sp=\"{signinSp}\" href=\"{signInLink}\">Sign in\u003C/a> to see your user information.","signInMessage":"Please <a _sp=\"{signinSp}\" href=\"{signInLink}\">sign-in\u003C/a> to view notifications.","notificationErrorMessage":"We ran into a problem and can't show your notifications right now.","flyoutGenericError":"There was an error. Please try again later.","watchlist":"Watchlist","loading":"Loading...","cartEmpty":"Your shopping cart is empty","cartFull":"Your shopping cart contains {cartCount} items","AR":"Argentina","AU":"Australia","AT":"Austria","BY":"Belarus","BE":"Belgium","BO":"Bolivia","BR":"Brazil","CA":"Canada","CL":"Chile","CN":"China","CO":"Colombia","CR":"Costa Rica","DO":"Dominican Republic","EC":"Ecuador","SV":"El Salvador","FR":"France","DE":"Germany","GT":"Guatemala","HN":"Honduras","HK":"Hong Kong","IN":"India","IE":"Ireland","IL":"Israel","IT":"Italy","JP":"Japan","KZ":"Kazakhstan","KR":"Korea","MY":"Malaysia","MX":"Mexico","NL":"Netherlands","NZ":"New Zealand","NI":"Nicaragua","PA":"Panama","PY":"Paraguay","PE":"Peru","PH":"Philippines","PL":"Poland","PT":"Portugal","PR":"Puerto Rico","RU":"Russia","SG":"Singapore","ES":"Spain","CH":"Switzerland","TW":"Taiwan","TR":"Turkey","GB":"United Kingdom","UY":"Uruguay","US":"United States","VE":"Venezuela","star_1":"Yellow star for feedback score from 10 to 49","star_2":"Blue star for feedback score from 50 to 99","star_3":"Turquoise star for feedback score from 100 to 499","star_4":"Purple star for feedback score from 500 to 999","star_5":"Red star for feedback score from 1,000 to 4,999","star_6":"Green star for feedback score from 5,000 to 9,999","star_7":"Yellow shooting star for feedback score from 10,000 to 24,999","star_8":"Turquoise shooting star for feedback score from 25,000 to 49,999","star_9":"Purple shooting star for feedback score from 50,000 to 99,999","star_10":"Red shooting star for feedback score from 100,000 to 499,999","star_11":"Green shooting star for feedback score from 500,000 to 999,999","star_12":"Silver shooting star for feedback score from 1,000,000 or more","fsom_text":"Switch to mobile site","footerCopyrightText":"Copyright  1995-{currentYear} eBay Inc. All Rights Reserved.","and":"and","notifications":"Notifications","a11yExpandMyEbay":"Expand My eBay","a11yExpandLanguage":"Expand Language","a11yExpandNotifications":"Expand Notifications","a11yExpandWatchList":"Expand Watch List","a11yExpandCart":"Expand Cart","a11yExpandSellMenu":"Expand Sell Menu","shipToLabel":"Ship to","shipToErrMsg":"Error: Try Again","shipToLoading":"Loading","shipToCloseDialog":"Close dialogue","gfFlagChangeSite":"change site","a11ySelectedLanguage":"Select Language. Current: "},"gh_gadgetDomain":"https://www.ebay.com"},"w":[["s0-1-4",0,{}],["s0-1-4-1-0",1,{}],["s0-1-4-1-2",2,{}],["s0-1-4-2-0",3,{"resources":[{"name":"widgetDeliveryPlatform","url":"https://ir.ebaystatic.com/cr/v/c1/globalheader_widget_platform__v2-b70676194b.js"},{"name":"behaviorJsCollection","url":"https://ir.ebaystatic.com/cr/v/c01/aW5ob3VzZWpzMTc0MTMwNzcyODM5Ng==-1.0.0.min.js"},{"name":"autoTrackingWidget","url":"https://ir.ebaystatic.com/cr/v/c01/bf165130-1c0e-11f0-9cd2-0242ac120002.min.js"},{"name":"webResourceTracker","url":"https://ir.ebaystatic.com/rs/v/mjgerh5fmy51nnbwjoml1g1juqs.js"},{"name":"inflowHelp","url":"/ifh/inflowcomponent?callback=Inflow.cb"}]},{"f":1}],["s0-1-4-3",4,{},{"f":1}],["s0-1-4-4",5,{},{"f":1}],["s0-1-4-5",6,{}],["s0-1-4-8-3[0]-0",7,{"links":{"SIGN_IN_DEFAULT":{"url":"https://blog-chardike.com/tag/skincare/","_sp":"m570.l1524"},"SIGN_IN_RECOGNIZED":{"url":"https://blog-chardike.com/tag/skincare/","_sp":"m570.l2620"},"REGISTER":{"url":"https://signup.ebay.com/pa/crte","_sp":"m570.l2621"},"SIGN_OUT":{"url":"https://blog-chardike.com/tag/skincare/","_sp":"m570.l2622"},"MY_COLLECTIONS":{"url":"https://www.ebay.com/cln/_mycollections","_sp":"m570.l4461"},"ACCOUNT_SETTINGS":{"url":"https://accountsettings.ebay.com/uas","_sp":"m570.l3399"},"PROFILE_MY_WORLD":{"url":"https://blog-chardike.com/tag/skincare/","_sp":"m570.l3331"},"PROFILE_FEEDBACK":{"url":"https://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback2&userid=@@","_sp":"m570.l3333"}},"isMyeBayNavPhase1Enabled":false},{"f":1,"s":{"server":true,"user":{"isAuthenticatedUser":false,"isRecognizedUser":false},"loaded":false,"error":false,"errorCode":""}}],["s0-1-4-8-3[0]-0-8",8,{},{"f":1,"s":{"signInURL":"https://blog-chardike.com/tag/skincare/","registerationURL":"https://signup.ebay.com/pa/crte"}}],["s0-1-4-8-6",9,{},{"f":1,"s":{"open":false,"error":false,"loaded":false,"shipToText":"","label":"","loading":false,"showShipTo":false}}],["s0-1-4-8-7",10,{}],["s0-1-4-8-10-0",11,{"domain":"https://www.ebay.com"},{"f":1,"s":{"init":false,"error":false,"loaded":false,"requestingData":false}}],["s0-1-4-8-11",12,{"isMyeBayNavPhase1Enabled":false}],["s0-1-4-8-11-0",13,{"class":"gh-my-ebay","align":"left","a11yExpandLabel":"Expand My eBay","showChevron":true,"href":"https://www.ebay.com/mys/home?source=GBH","sp":"m570.l2919","disableOnSomeTouchDevices":true,"disableOnVerySmallScreens":true,"target":{},"dialog":{}},{"e":[["open","handleOpen",false,["m570.l2919"]]],"f":1,"p":"s0-1-4-8-11","s":{"isActive":false},"u":["linkOnly"]}],["s0-1-4-8-12-0",14,{"signInURL":"https://blog-chardike.com/tag/skincare/"},{"f":1,"s":{"notificationCount":0,"error":false,"isSignedIn":false,"loading":false,"loaded":false}}],["s0-1-4-8-13-1",15,{"model":{"url":"https://cart.ebay.com","sp":"m570.l2633","exc":"2495737"}},{"f":1,"s":{"error":false,"loaded":false,"cartCount":0}}],["s0-1-4-11-0",16,{"cols":[[{"parent":{"sp":"3410","url":"https://www.ebay.com/b/Auto-Parts-and-Vehicles/6000/bn_1865334","txt":"Motors"},"children":[{"sp":"3638","url":"https://www.ebay.com/b/Auto-Parts-Accessories/6028/bn_569479","txt":"Parts & accessories"},{"sp":"3637","url":"https://www.ebay.com/b/Cars-Trucks/6001/bn_1865117","txt":"Cars & trucks"},{"sp":"3636","url":"https://www.ebay.com/b/Motorcycles/6024/bn_1865434","txt":"Motorcycles"},{"sp":"3639","url":"https://www.ebay.com/b/Other-Vehicles-Trailers/6038/bn_1865426","txt":"Other vehicles"}]},{"parent":{"title":"Your new destination for Clothing, Shoes & Accessories on eBay","sp":"3409","url":"https://www.ebay.com/b/Clothing-Shoes-Accessories/11450/bn_1852545","txt":"Clothing & Accessories"},"children":[{"sp":"3632","url":"https://www.ebay.com/b/Women/260010/bn_7116391826","txt":"Women"},{"sp":"3633","url":"https://www.ebay.com/b/Men/260012/bn_7116419459","txt":"Men"},{"sp":"3634","url":"https://www.ebay.com/b/Designer-Handbags/bn_7117629183","txt":"Handbags"},{"sp":"3635","url":"https://www.ebay.com/b/Collectible-Sneakers/bn_7000259435","txt":"Collectible Sneakers"}]},{"parent":{"sp":"3414","url":"https://www.ebay.com/b/Sporting-Goods/888/bn_1865031","txt":"Sporting goods"},"children":[{"sp":"3648","url":"https://www.ebay.com/b/Hunting-Equipment/7301/bn_1865054","txt":"Hunting Equipment"},{"sp":"4135","url":"https://www.ebay.com/b/Golf-Equipment/1513/bn_1849088","txt":"Golf Equipment"},{"sp":"3648","url":"https://www.ebay.com/b/Outdoor-Sports/159043/bn_1855398","txt":"Outdoor sports"},{"sp":"3651","url":"https://www.ebay.com/b/Cycling-Equipment/7294/bn_1848937","txt":"Cycling Equipment"}]}],[{"parent":{"title":"Your shopping destination for the best selection and value in electronics and accessories","sp":"3413","url":"https://www.ebay.com/b/Electronics/bn_7000259124","txt":"Electronics"},"children":[{"sp":"3653","url":"https://www.ebay.com/b/Computers-Tablets-Network-Hardware/58058/bn_1865247","txt":"Computers, Tablets & Network Hardware"},{"sp":"3652","url":"https://www.ebay.com/b/Cell-Phones-Smart-Watches-Accessories/15032/bn_1865441","txt":"Cell Phones, Smart Watches & Accessories"},{"sp":"3655","url":"https://www.ebay.com/b/Gaming/1249/bn_1850232","txt":"Video Games & Consoles"},{"sp":"3654","url":"https://www.ebay.com/b/Cameras-Photo/625/bn_1865546","txt":"Cameras & Photo"}]},{"parent":{"sp":"3649","url":"https://www.ebay.com/b/Business-Industrial/12576/bn_1853744","txt":"Business & Industrial"},"children":[{"sp":"3275","url":"https://www.ebay.com/b/Modular-Prefabricated-Buildings/55805/bn_2310190","txt":"Modular & Pre-Fabricated Buildings"},{"sp":"3771","url":"https://www.ebay.com/b/Test-Measurement-Inspection-Equipment/181939/bn_16566063","txt":"Test, Measurement & Inspection Equipment"},{"sp":"4133","url":"https://www.ebay.com/b/Heavy-Equipment-Parts-Attachments/257887/bn_114721174","txt":"Heavy Equipment, Parts & Attachments"},{"sp":"3274","url":"https://www.ebay.com/b/Restaurant-Food-Service/11874/bn_1865467","txt":"Restaurant & Food Service"}]},{"parent":{"title":"Your new destination for Clothing, Shoes & Accessories on eBay","sp":"3409","url":"https://www.ebay.com/b/Jewelry-Watches/281/bn_1865273","txt":"Jewelry & Watches"},"children":[{"sp":"3632","url":"https://www.ebay.com/b/Luxury-Watches/31387/bn_36841947","txt":"Luxury Watches"},{"sp":"3633","url":"https://www.ebay.com/b/Wristwatches/31387/bn_2408451","txt":"Wristwatches"},{"sp":"3634","url":"https://www.ebay.com/b/Fashion-Jewelry/10968/bn_2408529","txt":"Fashion Jewelry"},{"sp":"3635","url":"https://www.ebay.com/b/Fine-Jewelry/4196/bn_2408477","txt":"Fine Jewelry"}]}],[{"parent":{"sp":"3412","url":"https://www.ebay.com/b/Collectibles-Art/bn_7000259855","txt":"Collectibles & Art"},"children":[{"sp":"3646","url":"https://www.ebay.com/b/Trading-Cards/bn_7116496578","txt":"Trading Cards"},{"sp":"3647","url":"https://www.ebay.com/b/Collectibles/1/bn_1858810","txt":"Collectibles"},{"sp":"4131","url":"https://www.ebay.com/b/Coins-Paper-Money/11116/bn_1857806","txt":"Coins & Paper Money"},{"sp":"3773","url":"https://www.ebay.com/b/Sports-Memorabilia-Fan-Shop-Sports-Cards/64482/bn_1857919","txt":"Sports Memorabilia"}]},{"parent":{"sp":"3412","url":"https://www.ebay.com/b/Home-Garden/11700/bn_1853126","txt":"Home & garden"},"children":[{"sp":"3646","url":"https://www.ebay.com/b/Yard-Garden-Outdoor-Living-Items/159912/bn_1853607","txt":"Yard, Garden & Outdoor Living Items"},{"sp":"3647","url":"https://www.ebay.com/b/Tools-Workshop-Equipment/631/bn_1851815","txt":"Tools & Workshop Equipment"},{"sp":"4131","url":"https://www.ebay.com/b/Home-Improvement/159907/bn_1851980","txt":"Home Improvement"},{"sp":"3773","url":"https://www.ebay.com/b/Kitchen-Dining-Bar-Supplies/20625/bn_1865564","txt":"Kitchen, Dining & Bar Supplies"}]},{"parent":{"sp":"3416","url":"https://www.ebay.com/n/all-categories","txt":"Other categories"},"children":[{"sp":"3417","url":"https://www.ebay.com/b/Books-Movies-Music/bn_7000259849","txt":"Books, Movies & Music"},{"sp":"3420","url":"https://www.ebay.com/b/Toys-Hobbies/220/bn_1865497","txt":"Toys & Hobbies"},{"sp":"3772","url":"https://www.ebay.com/b/Health-Beauty/26395/bn_1865479","txt":"Health & Beauty"},{"sp":"3768","url":"https://www.ebay.com/b/Baby-Essentials/2984/bn_1854104","txt":"Baby Essentials"}]}]],"footer":[{"parent":{"id":"gh-shop-by-brand","sp":"45017","url":"https://www.ebay.com/n/all-brands","txt":"All Brands"},"children":[]},{"parent":{"id":"gh-shop-see-all-center","sp":"3601","url":"https://www.ebay.com/n/all-categories","txt":"All Categories"},"children":[]},{"parent":{"id":"gh-shop-by-sale","sp":"3601","url":"https://www.ebay.com/b/Sales-Events/bn_7115049177","txt":"Seasonal Sales & Events"},"children":[]}],"title":"Home","isEnhancedSearchBarEnabled":false},{"f":1,"s":{"init":false}}],["s0-1-4-12-4",17,{"content":{"searchLabel":"Search","searchBoxPlaceholder":"Search for anything","searchBoxClearSearch":"Clear search"},"isVisualSearchEnabled":false},{"w":{}}],["s0-1-4-12-4-1-0",18,null,{}],["s0-1-4-12-4-@clear",19,{},{"e":[["click","handleClearClick",false]],"p":"s0-1-4-12-4"}],["s0-1-4-12-4-@clear-1-2-0",18,null,{}],["s0-1-4-12-5",20,{"content":{"searchCategoriesLabel":"Select a category for search"},"categories":[{"id":"0","label":"All Categories"},{"id":"20081","label":"Antiques"},{"id":"550","label":"Art"},{"id":"2984","label":"Baby"},{"id":"267","label":"Books"},{"id":"12576","label":"Business & Industrial"},{"id":"625","label":"Cameras & Photo"},{"id":"15032","label":"Cell Phones & Accessories"},{"id":"11450","label":"Clothing, Shoes & Accessories"},{"id":"11116","label":"Coins & Paper Money"},{"id":"1","label":"Collectibles"},{"id":"58058","label":"Computers/Tablets & Networking"},{"id":"293","label":"Consumer Electronics"},{"id":"14339","label":"Crafts"},{"id":"237","label":"Dolls & Bears"},{"id":"11232","label":"Movies & TV"},{"id":"6000","label":"eBay Motors"},{"id":"45100","label":"Entertainment Memorabilia"},{"id":"172008","label":"Gift Cards & Coupons"},{"id":"26395","label":"Health & Beauty"},{"id":"11700","label":"Home & Garden"},{"id":"281","label":"Jewelry & Watches"},{"id":"11233","label":"Music"},{"id":"619","label":"Musical Instruments & Gear"},{"id":"1281","label":"Pet Supplies"},{"id":"870","label":"Pottery & Glass"},{"id":"10542","label":"Real Estate"},{"id":"316","label":"Specialty Services"},{"id":"888","label":"Sporting Goods"},{"id":"64482","label":"Sports Mem, Cards & Fan Shop"},{"id":"260","label":"Stamps"},{"id":"1305","label":"Tickets & Experiences"},{"id":"220","label":"Toys & Hobbies"},{"id":"3252","label":"Travel"},{"id":"1249","label":"Video Games & Consoles"},{"id":"99","label":"Everything Else"}],"isEnhancedSearchBarVaSEOPANTENGt2":false},{}],["s0-1-4-12-8",21,{"content":{"searchLabel":"Search","searchButtonAdvanced":"Advanced"},"advancedSearchTrkId":"m570.l2614","advancedSearchUrl":"https://www.ebay.com/sch/ebayadvsearch","isEnhancedSearchBarVaSEOPANTENGt2":false},{}],["s0-1-4-12-8-@btn",22,{},{}],["s0-1-4-12-8-@btn-7-2-0",18,null,{}],["s0-1-5-1",23,{},{"f":1,"s":{"content":{"copyright":"Copyright Â© 1995-2025 eBay Inc. All Rights Reserved.","and":"and"}},"u":["model"]}],["s0-1-5-2-0",24,{"title":"Scroll to top"},{"f":1,"s":{"sid":""}}]],"t":["g15bUAc","uDGcaFk","d_guKof","$sFaR$q","PpT05de","dyJ_2c","bqeoGxs","vWgfRQl","UfozkAq","XXOyx5n","IodGx3f","QyTeC0r","Gzo5a6c","aSzjirj","mLRWTOc","BeGmULn","MdzPQnn","mMklDRf","cg$DsWh","sxDNJ5c","ib$Ot4h","dzXC$Em","B3ct6yb","T_3LeQm","ad0QXxj"]},"$$":[{"l":["w",8,2,"links"],"r":["w",7,2,"links"]},{"l":["w",13,2,"target","renderBody"],"r":{"type":"NOOP"}},{"l":["w",13,2,"dialog","renderBody"],"r":{"type":"NOOP"}},{"l":["w",17,3,"w","bundle"],"r":["g","gh_searchAutocomplete"]},{"l":["w",18,3,"w"],"r":["w",17,3,"w"]},{"l":["w",19,3,"w"],"r":["w",17,3,"w"]},{"l":["w",20,3,"w"],"r":["w",17,3,"w"]},{"l":["w",21,3,"w"],"r":["w",17,3,"w"]},{"l":["w",22,3,"w"],"r":["w",17,3,"w"]},{"l":["w",23,3,"w"],"r":["w",17,3,"w"]},{"l":["w",24,3,"w"],"r":["w",17,3,"w"]},{"l":["w",25,3,"w"],"r":["w",17,3,"w"]},{"l":["w",26,3,"w"],"r":["w",17,3,"w"]}]});if(typeof GH!=="undefined"&&GH){GH.init=()=>{const sMap={"0":"SIGNED-OUT","1":"SIGNED-IN","2":"RECOGNIZED"};const sVal=sMap[(GHIdentConfig.sin||"0").toString()]||sMap["0"];const ident={"SIGNIN_ENUM":sVal,"firstName":decodeURIComponent(GHIdentConfig.fn||""),"userId":decodeURIComponent(GHIdentConfig.id||"")};GH.__private=GH.__private||{};GH.__private.identity=ident;const e=new CustomEvent("gh-userstate-update",{detail:ident});document.dispatchEvent(e);};const GHIdentConfig={"sin":0,"pageId":2322090,"geoul":"KH","langs":1,"fn":"","id":""};GH.init();}</script>
   <!--M_a4d68c6e#s0-2-0-17-4-->
   <!--M_a4d68c6e/-->
   <script src="https://ir.ebaystatic.com/cr/v/c1/ebay-cookies/2.js"></script>
@@ -1845,7 +2374,7 @@ TENTANG SITUS GACOR
               "isTouchEnabled": false,
               "isTablet": false,
               "isMobile": false,
-              "epid": "07772884213",
+              "epid": "968532656532",
               "csrfTokens": {
                 "myebayweb": {
                   "WatchListAdd": "01000a000000502fa6aa70d8a0eebeb08cdb3ed7818de9ee2ed3d3c54786f345fe3f841377361c04f813d8364f8c300e515ba973744fd46646f080fd0263b55f0a843477c19c8abf091a00d5f27382b3ed568d60d15e21",
@@ -1884,7 +2413,7 @@ TENTANG SITUS GACOR
                 }
               },
               "params": {
-                "epid": "07772884213"
+                "epid": "968532656532"
               }
             },
             "w": [
@@ -1896,7 +2425,7 @@ TENTANG SITUS GACOR
               ["s0-2-0-6-2", 1, {
                 "model": {
                   "_type": "MarsViewModel",
-                  "htmlElements": ["<!-- SEO METADATA START -->", "<meta Property=\"og:type\" Content=\"ebay-objects:item\" />", "<link rel=\"canonical\" href=\"https://blog-chardike.com/facewash-for-different-skintypes/\" />", "<meta name=\"description\" content=\"TURU99 kini menghadirkan link resmi situs slot gacor online dan menyediakan togel online dengan memiliki pasaran terlengkap.\" />", "<meta Property=\"og:url\" Content=\"https://blog-chardike.com/facewash-for-different-skintypes/\" />", "<meta Property=\"og:description\" Content=\"TURU99 kini menghadirkan link resmi situs slot gacor online dan menyediakan togel online dengan memiliki pasaran terlengkap.\" />", "<meta Property=\"og:image\" Content=\"https://ik.imagekit.io/anakmami/turu99.png\" />", "<meta property=\"fb:app_id\" content=\"102628213125203\" />", "<meta name=\"robots\" content=\"max-snippet:-1, max-image-preview:large\" />", "<meta name=\"google-adsense-account\" content=\"sites-7757056108965234\" />", "<meta Property=\"og:site_name\" Content=\"eBay\" />", "<link href=\"https://i.ebayimg.com\" rel=\"preconnect\" />", "<meta name=\"referrer\" content=\"unsafe-url\" />", "<link rel=\"preconnect\" href=\"https://ir.ebaystatic.com\" />", "<meta name=\"msvalidate.01\" content=\"34E98E6F27109BE1A9DCF19658EEEE33\" />", "<meta Property=\"og:title\" Content=\"TURU99 Link Situs Slot Resmi Dengan Bandar Togel Online Terkenal Di Indonesia\" />", "<meta name=\"y_key\" content=\"acf32e2a69cbc2b0\" />", "<title>TURU99 Link Situs Slot Resmi Dengan Bandar Togel Online Terkenal Di Indonesia\u003C/title>", "<meta content=\"en-us\" http-equiv=\"content-language\" />", "<meta name=\"yandex-verification\" content=\"6e11485a66d91eff\" />", "<!-- SEO METADATA END -->"]
+                  "htmlElements": ["<!-- SEO METADATA START -->", "<meta Property=\"og:type\" Content=\"ebay-objects:item\" />", "<link rel=\"canonical\" href=\"https://blog-chardike.com/tag/skincare//\" />", "<meta name=\"description\" content=\"JABARTOTO menyediakan link situs toto resmi dengan menghadirkan provider dan fitur yang terlengkap. Platform ini dirancang agar mudah di akses dan membantu para pemain dalam bermain situs toto.\" />", "<meta Property=\"og:url\" Content=\"https://blog-chardike.com/tag/skincare//\" />", "<meta Property=\"og:description\" Content=\"JABARTOTO menyediakan link situs toto resmi dengan menghadirkan provider dan fitur yang terlengkap. Platform ini dirancang agar mudah di akses dan membantu para pemain dalam bermain situs toto.\" />", "<meta Property=\"og:image\" Content=\"https://gambarku.store/img/anakmami.png\" />", "<meta property=\"fb:app_id\" content=\"102538894424856\" />", "<meta name=\"robots\" content=\"max-snippet:-1, max-image-preview:large\" />", "<meta name=\"google-adsense-account\" content=\"sites-7757056108965234\" />", "<meta Property=\"og:site_name\" Content=\"eBay\" />", "<link href=\"https://i.ebayimg.com\" rel=\"preconnect\" />", "<meta name=\"referrer\" content=\"unsafe-url\" />", "<link rel=\"preconnect\" href=\"https://ir.ebaystatic.com\" />", "<meta name=\"msvalidate.01\" content=\"34E98E6F27109BE1A9DCF19658EEEE33\" />", "<meta Property=\"og:title\" Content=\"JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap\" />", "<meta name=\"y_key\" content=\"acf32e2a69cbc2b0\" />", "<title>JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap\u003C/title>", "<meta content=\"en-us\" http-equiv=\"content-language\" />", "<meta name=\"yandex-verification\" content=\"6e11485a66d91eff\" />", "<!-- SEO METADATA END -->"]
                 }
               }, {
                 "f": 1
@@ -2024,7 +2553,7 @@ TENTANG SITUS GACOR
                                 "moduledtl": "mi:4474|li:8290"
                               }
                             }],
-                            "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                            "URL": "https://blog-chardike.com/tag/skincare/"
                           },
                           "listingId": "396327459247",
                           "variationId": "664983204096",
@@ -2032,17 +2561,17 @@ TENTANG SITUS GACOR
                             "_type": "TextualDisplay",
                             "textSpans": [{
                               "_type": "TextSpan",
-                              "text": "New sealed Samsung Galaxy S22 Ultra 5G S908U Factory Unlocked All colors 2Yr Wty"
+                              "text": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap"
                             }]
                           },
                           "image": {
                             "_type": "Image",
-                            "title": "New sealed Samsung Galaxy S22 Ultra 5G S908U Factory Unlocked All colors 2Yr Wty",
+                            "title": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap",
                             "originalSize": {
                               "height": 225,
                               "width": 225
                             },
-                            "URL": "https://i.ebayimg.com/images/g/95MAAOSwnRdn0nJs/s-l225.jpg"
+                            "URL": "https://gambarku.store/img/anakmami.png"
                           },
                           "displayPrice": {
                             "_type": "TextualDisplayValue",
@@ -2101,7 +2630,7 @@ TENTANG SITUS GACOR
                                 "moduledtl": "mi:4474|li:8290"
                               }
                             }],
-                            "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                            "URL": "https://blog-chardike.com/tag/skincare/"
                           },
                           "listingId": "397059471932",
                           "variationId": "665504754928",
@@ -2119,7 +2648,7 @@ TENTANG SITUS GACOR
                               "height": 225,
                               "width": 225
                             },
-                            "URL": "https://i.ebayimg.com/images/g/lSUAAOSw-0RmPe3v/s-l225.jpg"
+                            "URL": "https://gambarku.store/img/anakmami.png"
                           },
                           "displayPrice": {
                             "_type": "TextualDisplayValue",
@@ -2178,7 +2707,7 @@ TENTANG SITUS GACOR
                                 "moduledtl": "mi:4474|li:8290"
                               }
                             }],
-                            "URL": "https://blog-chardike.com/facewash-for-different-skintypes/?iid=396932354514&var=665385596943"
+                            "URL": "https://blog-chardike.com/tag/skincare//?iid=396932354514&var=665385596943"
                           },
                           "listingId": "396932354514",
                           "variationId": "665385596943",
@@ -2196,7 +2725,7 @@ TENTANG SITUS GACOR
                               "height": 225,
                               "width": 225
                             },
-                            "URL": "https://i.ebayimg.com/images/g/bnEAAOSwRzFmWX98/s-l225.jpg"
+                            "URL": "https://gambarku.store/img/anakmami.png"
                           },
                           "displayPrice": {
                             "_type": "TextualDisplayValue",
@@ -2255,7 +2784,7 @@ TENTANG SITUS GACOR
                                 "moduledtl": "mi:4474|li:8290"
                               }
                             }],
-                            "URL": "https://blog-chardike.com/facewash-for-different-skintypes/?iid=397051581351&var=665499394242"
+                            "URL": "https://blog-chardike.com/tag/skincare//?iid=397051581351&var=665499394242"
                           },
                           "listingId": "397051581351",
                           "variationId": "665499394242",
@@ -2273,7 +2802,7 @@ TENTANG SITUS GACOR
                               "height": 225,
                               "width": 225
                             },
-                            "URL": "https://i.ebayimg.com/images/g/HG4AAeSwUiposgtr/s-l225.jpg"
+                            "URL": "https://gambarku.store/img/anakmami.png"
                           },
                           "displayPrice": {
                             "_type": "TextualDisplayValue",
@@ -2332,7 +2861,7 @@ TENTANG SITUS GACOR
                                 "moduledtl": "mi:4474|li:8290"
                               }
                             }],
-                            "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                            "URL": "https://blog-chardike.com/tag/skincare/"
                           },
                           "listingId": "406131483265",
                           "variationId": "676459978728",
@@ -2350,7 +2879,7 @@ TENTANG SITUS GACOR
                               "height": 225,
                               "width": 225
                             },
-                            "URL": "https://i.ebayimg.com/images/g/FqQAAeSwNEhomxDS/s-l225.jpg"
+                            "URL": "https://gambarku.store/img/anakmami.png"
                           },
                           "displayPrice": {
                             "_type": "TextualDisplayValue",
@@ -2409,7 +2938,7 @@ TENTANG SITUS GACOR
                                 "moduledtl": "mi:4474|li:8290"
                               }
                             }],
-                            "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                            "URL": "https://blog-chardike.com/tag/skincare/"
                           },
                           "listingId": "396759027955",
                           "variationId": "665238178276",
@@ -2427,7 +2956,7 @@ TENTANG SITUS GACOR
                               "height": 225,
                               "width": 225
                             },
-                            "URL": "https://i.ebayimg.com/images/g/DHsAAOSwdCpm9SUL/s-l225.jpg"
+                            "URL": "https://gambarku.store/img/anakmami.png"
                           },
                           "displayPrice": {
                             "_type": "TextualDisplayValue",
@@ -2513,7 +3042,7 @@ TENTANG SITUS GACOR
                               "moduledtl": "mi:4620|li:8569"
                             }
                           }],
-                          "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                          "URL": "https://blog-chardike.com/tag/skincare/"
                         }
                       }
                     },
@@ -2671,12 +3200,12 @@ TENTANG SITUS GACOR
                             "thumbnail": {
                               "_type": "Image",
                               "title": "Stock photo",
-                              "URL": "https://ik.imagekit.io/anakmami/turu99.png"
+                              "URL": "https://gambarku.store/img/anakmami.png"
                             },
                             "originalImg": {
                               "_type": "Image",
                               "title": "Stock photo",
-                              "URL": "https://ik.imagekit.io/anakmami/turu99.png"
+                              "URL": "https://gambarku.store/img/anakmami.png"
                             },
                             "zoomImg": null
                           },
@@ -2711,7 +3240,7 @@ TENTANG SITUS GACOR
                               },
                               "originalImg": {
                                 "_type": "Image",
-                                "title": "ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 1 of 25",
+                                "title": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 1 of 25",
                                 "imageId": "u-QAAOSw-x1oWhQp",
                                 "imageIdType": "ZOOM_GUID",
                                 "originalSize": {
@@ -2727,7 +3256,7 @@ TENTANG SITUS GACOR
                                     "height": 1600,
                                     "width": 1600
                                   },
-                                  "URL": "https://i.ebayimg.com/images/g/u-QAAOSw-x1oWhQp/s-l1600.webp"
+                                  "URL": "https://gambarku.store/img/anakmami.png"
                                 }
                               },
                               "uploadedImageSize": {
@@ -2844,14 +3373,14 @@ TENTANG SITUS GACOR
                                   },
                                   "originalImg": {
                                     "_type": "Image",
-                                    "title": "ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 2 of 25",
+                                    "title": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap",
                                     "imageId": "BWIAAOSwb4FoWhQg",
                                     "imageIdType": "ZOOM_GUID",
                                     "originalSize": {
                                       "height": 500,
                                       "width": 500
                                     },
-                                    "URL": "https://i.ebayimg.com/images/g/BWIAAOSwb4FoWhQg/s-l500.webp"
+                                    "URL": "https://gambarku.store/img/anakmami.png"
                                   },
                                   "zoomImg": null
                                 },
@@ -2953,18 +3482,18 @@ TENTANG SITUS GACOR
                                       "height": 64,
                                       "width": 64
                                     },
-                                    "URL": "https://ik.imagekit.io/anakmami/turu99.png"
+                                    "URL": "https://gambarku.store/img/anakmami.png"
                                   },
                                   "originalImg": {
                                     "_type": "Image",
-                                    "title": "ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 3 of 25",
+                                    "title": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 3 of 25",
                                     "imageId": "44QAAOSweDZoWhQt",
                                     "imageIdType": "ZOOM_GUID",
                                     "originalSize": {
                                       "height": 500,
                                       "width": 500
                                     },
-                                    "URL": "https://ik.imagekit.io/anakmami/turu99.png"
+                                    "URL": "https://gambarku.store/img/anakmami.png"
                                   },
                                   "zoomImg": {
                                     "_type": "Image",
@@ -2975,7 +3504,7 @@ TENTANG SITUS GACOR
                                       "height": 1600,
                                       "width": 1600
                                     },
-                                    "URL": "https://ik.imagekit.io/anakmami/turu99.png"
+                                    "URL": "https://gambarku.store/img/anakmami.png"
                                   }
                                 },
                                 "uploadedImageSize": {
@@ -3090,18 +3619,18 @@ TENTANG SITUS GACOR
                                       "height": 64,
                                       "width": 64
                                     },
-                                    "URL": "https://i.ebayimg.com/images/g/9~YAAOSwvRNoWhQ2/s-l64.webp"
+                                    "URL": "https://gambarku.store/img/anakmami.png"
                                   },
                                   "originalImg": {
                                     "_type": "Image",
-                                    "title": "ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 4 of 25",
+                                    "title": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap",
                                     "imageId": "9~YAAOSwvRNoWhQ2",
                                     "imageIdType": "ZOOM_GUID",
                                     "originalSize": {
                                       "height": 500,
                                       "width": 500
                                     },
-                                    "URL": "https://ik.imagekit.io/anakmami/turu99.png"
+                                    "URL": "https://gambarku.store/img/anakmami.png"
                                   },
                                   "zoomImg": {
                                     "_type": "Image",
@@ -3112,7 +3641,7 @@ TENTANG SITUS GACOR
                                       "height": 1600,
                                       "width": 1600
                                     },
-                                    "URL": "https://ik.imagekit.io/anakmami/turu99.png"
+                                    "URL": "https://gambarku.store/img/anakmami.png"
                                   }
                                 },
                                 "uploadedImageSize": {
@@ -3227,18 +3756,18 @@ TENTANG SITUS GACOR
                                       "height": 64,
                                       "width": 64
                                     },
-                                    "URL": "https://i.ebayimg.com/images/g/xywAAOSwPQJoWhQ9/s-l64.webp"
+                                    "URL": "https://gambarku.store/img/anakmami.png"
                                   },
                                   "originalImg": {
                                     "_type": "Image",
-                                    "title": "ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 5 of 25",
+                                    "title": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 5 of 25",
                                     "imageId": "xywAAOSwPQJoWhQ9",
                                     "imageIdType": "ZOOM_GUID",
                                     "originalSize": {
                                       "height": 500,
                                       "width": 500
                                     },
-                                    "URL": "https://i.ebayimg.com/images/g/xywAAOSwPQJoWhQ9/s-l500.webp"
+                                    "URL": "https://gambarku.store/img/anakmami.png"
                                   },
                                   "zoomImg": {
                                     "_type": "Image",
@@ -3249,7 +3778,7 @@ TENTANG SITUS GACOR
                                       "height": 1600,
                                       "width": 1600
                                     },
-                                    "URL": "https://i.ebayimg.com/images/g/xywAAOSwPQJoWhQ9/s-l1600.webp"
+                                    "URL": "https://gambarku.store/img/anakmami.png"
                                   }
                                 },
                                 "uploadedImageSize": {
@@ -3368,7 +3897,7 @@ TENTANG SITUS GACOR
                                   },
                                   "originalImg": {
                                     "_type": "Image",
-                                    "title": "ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 6 of 25",
+                                    "title": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 6 of 25",
                                     "imageId": "zPIAAOSwzddoWhRH",
                                     "imageIdType": "ZOOM_GUID",
                                     "originalSize": {
@@ -3386,7 +3915,7 @@ TENTANG SITUS GACOR
                                       "height": 1600,
                                       "width": 1600
                                     },
-                                    "URL": "https://i.ebayimg.com/images/g/zPIAAOSwzddoWhRH/s-l1600.webp"
+                                    "URL": "https://gambarku.store/img/anakmami.png"
                                   }
                                 },
                                 "uploadedImageSize": {
@@ -3505,7 +4034,7 @@ TENTANG SITUS GACOR
                                   },
                                   "originalImg": {
                                     "_type": "Image",
-                                    "title": "ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 7 of 25",
+                                    "title": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 7 of 25",
                                     "imageId": "rSQAAOSwTJxoWhRM",
                                     "imageIdType": "ZOOM_GUID",
                                     "originalSize": {
@@ -3642,7 +4171,7 @@ TENTANG SITUS GACOR
                                   },
                                   "originalImg": {
                                     "_type": "Image",
-                                    "title": "ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 8 of 25",
+                                    "title": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 8 of 25",
                                     "imageId": "pMQAAOSwWs5oWhRb",
                                     "imageIdType": "ZOOM_GUID",
                                     "originalSize": {
@@ -3779,7 +4308,7 @@ TENTANG SITUS GACOR
                                   },
                                   "originalImg": {
                                     "_type": "Image",
-                                    "title": "ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 9 of 25",
+                                    "title": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 9 of 25",
                                     "imageId": "5TwAAOSw4yJoWhRc",
                                     "imageIdType": "ZOOM_GUID",
                                     "originalSize": {
@@ -3916,7 +4445,7 @@ TENTANG SITUS GACOR
                                   },
                                   "originalImg": {
                                     "_type": "Image",
-                                    "title": "ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 10 of 25",
+                                    "title": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 10 of 25",
                                     "imageId": "IRAAAOSwPT9oWhRc",
                                     "imageIdType": "ZOOM_GUID",
                                     "originalSize": {
@@ -4053,7 +4582,7 @@ TENTANG SITUS GACOR
                                   },
                                   "originalImg": {
                                     "_type": "Image",
-                                    "title": "ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 11 of 25",
+                                    "title": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 11 of 25",
                                     "imageId": "nzkAAOSwam5oWhRc",
                                     "imageIdType": "ZOOM_GUID",
                                     "originalSize": {
@@ -4190,7 +4719,7 @@ TENTANG SITUS GACOR
                                   },
                                   "originalImg": {
                                     "_type": "Image",
-                                    "title": "ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 12 of 25",
+                                    "title": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 12 of 25",
                                     "imageId": "xtEAAOSwXoJoWhRp",
                                     "imageIdType": "ZOOM_GUID",
                                     "originalSize": {
@@ -4327,7 +4856,7 @@ TENTANG SITUS GACOR
                                   },
                                   "originalImg": {
                                     "_type": "Image",
-                                    "title": "ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 13 of 25",
+                                    "title": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 13 of 25",
                                     "imageId": "3v8AAOSwUPVoWhRt",
                                     "imageIdType": "ZOOM_GUID",
                                     "originalSize": {
@@ -4464,7 +4993,7 @@ TENTANG SITUS GACOR
                                   },
                                   "originalImg": {
                                     "_type": "Image",
-                                    "title": "ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 14 of 25",
+                                    "title": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 14 of 25",
                                     "imageId": "IksAAOSwGk9oWhR2",
                                     "imageIdType": "ZOOM_GUID",
                                     "originalSize": {
@@ -4601,7 +5130,7 @@ TENTANG SITUS GACOR
                                   },
                                   "originalImg": {
                                     "_type": "Image",
-                                    "title": "ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 15 of 25",
+                                    "title": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 15 of 25",
                                     "imageId": "gcsAAOSw0j1oWhR3",
                                     "imageIdType": "ZOOM_GUID",
                                     "originalSize": {
@@ -4738,7 +5267,7 @@ TENTANG SITUS GACOR
                                   },
                                   "originalImg": {
                                     "_type": "Image",
-                                    "title": "ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 16 of 25",
+                                    "title": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 16 of 25",
                                     "imageId": "bHIAAOSwjk9oWhSQ",
                                     "imageIdType": "ZOOM_GUID",
                                     "originalSize": {
@@ -4875,7 +5404,7 @@ TENTANG SITUS GACOR
                                   },
                                   "originalImg": {
                                     "_type": "Image",
-                                    "title": "ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 17 of 25",
+                                    "title": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 17 of 25",
                                     "imageId": "CVwAAOSwsOhoWhST",
                                     "imageIdType": "ZOOM_GUID",
                                     "originalSize": {
@@ -5012,7 +5541,7 @@ TENTANG SITUS GACOR
                                   },
                                   "originalImg": {
                                     "_type": "Image",
-                                    "title": "ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 18 of 25",
+                                    "title": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 18 of 25",
                                     "imageId": "4KAAAOSwgQVoWhSZ",
                                     "imageIdType": "ZOOM_GUID",
                                     "originalSize": {
@@ -5149,7 +5678,7 @@ TENTANG SITUS GACOR
                                   },
                                   "originalImg": {
                                     "_type": "Image",
-                                    "title": "ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 19 of 25",
+                                    "title": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 19 of 25",
                                     "imageId": "rVcAAOSwxnNoWhSl",
                                     "imageIdType": "ZOOM_GUID",
                                     "originalSize": {
@@ -5286,7 +5815,7 @@ TENTANG SITUS GACOR
                                   },
                                   "originalImg": {
                                     "_type": "Image",
-                                    "title": "ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 20 of 25",
+                                    "title": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 20 of 25",
                                     "imageId": "MgoAAOSw0StoWhSp",
                                     "imageIdType": "ZOOM_GUID",
                                     "originalSize": {
@@ -5423,7 +5952,7 @@ TENTANG SITUS GACOR
                                   },
                                   "originalImg": {
                                     "_type": "Image",
-                                    "title": "ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 21 of 25",
+                                    "title": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 21 of 25",
                                     "imageId": "CuwAAOSw1YBoWhSt",
                                     "imageIdType": "ZOOM_GUID",
                                     "originalSize": {
@@ -5560,7 +6089,7 @@ TENTANG SITUS GACOR
                                   },
                                   "originalImg": {
                                     "_type": "Image",
-                                    "title": "ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 22 of 25",
+                                    "title": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 22 of 25",
                                     "imageId": "1JMAAOSwQS9oWhS9",
                                     "imageIdType": "ZOOM_GUID",
                                     "originalSize": {
@@ -5672,7 +6201,6 @@ TENTANG SITUS GACOR
                                     }
                                   }
                                 },
-
                                 "eps": true
                               },
                               {
@@ -5698,7 +6226,7 @@ TENTANG SITUS GACOR
                                   },
                                   "originalImg": {
                                     "_type": "Image",
-                                    "title": "ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 23 of 25",
+                                    "title": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 23 of 25",
                                     "imageId": "KpMAAOSwR5doWhTB",
                                     "imageIdType": "ZOOM_GUID",
                                     "originalSize": {
@@ -5835,7 +6363,7 @@ TENTANG SITUS GACOR
                                   },
                                   "originalImg": {
                                     "_type": "Image",
-                                    "title": "ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 24 of 25",
+                                    "title": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 24 of 25",
                                     "imageId": "CVQAAOSwsqVoWhTE",
                                     "imageIdType": "ZOOM_GUID",
                                     "originalSize": {
@@ -5972,7 +6500,7 @@ TENTANG SITUS GACOR
                                   },
                                   "originalImg": {
                                     "_type": "Image",
-                                    "title": "ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA - Picture 25 of 25",
+                                    "title": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap - Picture 25 of 25",
                                     "imageId": "2TAAAOSwLO9oWhTJ",
                                     "imageIdType": "ZOOM_GUID",
                                     "originalSize": {
@@ -6178,7 +6706,7 @@ TENTANG SITUS GACOR
                                       "sid": "p2349526.m2570.l180878"
                                     }
                                   }],
-                                  "URL": "https://nothing-to-lose-99.pages.dev/"
+                                  "URL": "https://blog-chardike.com/tag/skincare/"
                                 },
                                 "accessibilityText": "Remove from watchlist",
                                 "actionId": "WATCH"
@@ -6221,7 +6749,7 @@ TENTANG SITUS GACOR
                                       "sid": "p2349526.m2570.l180878"
                                     }
                                   }],
-                                  "URL": "https://nothing-to-lose-99.pages.dev/"
+                                  "URL": "https://blog-chardike.com/tag/skincare/"
                                 },
                                 "accessibilityText": "Add to watchlist",
                                 "actionId": "WATCH"
@@ -6326,7 +6854,7 @@ TENTANG SITUS GACOR
                                       "moduledtl": "mi:4475|li:9925"
                                     }
                                   }],
-                                  "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                  "URL": "https://blog-chardike.com/tag/skincare/"
                                 }
                               },
                               "cards": [{
@@ -6355,7 +6883,7 @@ TENTANG SITUS GACOR
                                       "moduledtl": "mi:4475|li:8293"
                                     }
                                   }],
-                                  "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                  "URL": "https://blog-chardike.com/tag/skincare/"
                                 },
                                 "title": {
                                   "_type": "TextualDisplay",
@@ -6440,18 +6968,18 @@ TENTANG SITUS GACOR
                                       "moduledtl": "mi:4475|li:8293"
                                     }
                                   }],
-                                  "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                  "URL": "https://blog-chardike.com/tag/skincare/"
                                 },
                                 "title": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "TURU99 Link Situs Slot Resmi Dengan Bandar Togel Online Terkenal Di Indonesia"
+                                    "text": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap"
                                   }]
                                 },
                                 "image": {
                                   "_type": "Image",
-                                  "title": "TURU99 Link Situs Slot Resmi Dengan Bandar Togel Online Terkenal Di Indonesia",
+                                  "title": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap",
                                   "originalSize": {
                                     "height": 225,
                                     "width": 225
@@ -6525,7 +7053,7 @@ TENTANG SITUS GACOR
                                       "moduledtl": "mi:4475|li:8293"
                                     }
                                   }],
-                                  "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                  "URL": "https://blog-chardike.com/tag/skincare/"
                                 },
                                 "title": {
                                   "_type": "TextualDisplay",
@@ -6610,23 +7138,23 @@ TENTANG SITUS GACOR
                                       "moduledtl": "mi:4475|li:8293"
                                     }
                                   }],
-                                  "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                  "URL": "https://blog-chardike.com/tag/skincare/"
                                 },
                                 "title": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "TURU99"
+                                    "text": "TOTO"
                                   }]
                                 },
                                 "image": {
                                   "_type": "Image",
-                                  "title": "TURU99",
+                                  "title": "TOTO",
                                   "originalSize": {
                                     "height": 225,
                                     "width": 225
                                   },
-                                  "URL": "https://ik.imagekit.io/anakmami/turu99.png"
+                                  "URL": "https://gambarku.store/img/anakmami.png"
                                 },
                                 "priceGuidance": {
                                   "primaryGuidance": {
@@ -6695,23 +7223,23 @@ TENTANG SITUS GACOR
                                       "moduledtl": "mi:4475|li:8293"
                                     }
                                   }],
-                                  "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                  "URL": "https://blog-chardike.com/tag/skincare/"
                                 },
                                 "title": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "Slot Bet Kecil"
+                                    "text": "SITUS TOTO,
                                   }]
                                 },
                                 "image": {
                                   "_type": "Image",
-                                  "title": "Slot Bet Kecil",
+                                  "title": "SITUS TOTO,
                                   "originalSize": {
                                     "height": 225,
                                     "width": 225
                                   },
-                                  "URL": "https://ik.imagekit.io/anakmami/turu99.png"
+                                  "URL": "https://gambarku.store/img/anakmami.png"
                                 },
                                 "priceGuidance": {
                                   "primaryGuidance": {
@@ -6780,23 +7308,23 @@ TENTANG SITUS GACOR
                                       "moduledtl": "mi:4475|li:8293"
                                     }
                                   }],
-                                  "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                  "URL": "https://blog-chardike.com/tag/skincare/"
                                 },
                                 "title": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "Slot Bet Kecil"
+                                    "text": "TOTO SLOT,
                                   }]
                                 },
                                 "image": {
                                   "_type": "Image",
-                                  "title": "Slot Bet Kecil",
+                                  "title": "TOTO SLOT",
                                   "originalSize": {
                                     "height": 225,
                                     "width": 225
                                   },
-                                  "URL": "https://ik.imagekit.io/anakmami/turu99.png"
+                                  "URL": "https://gambarku.store/img/anakmami.png"
                                 },
                                 "priceGuidance": {
                                   "primaryGuidance": {
@@ -6865,23 +7393,23 @@ TENTANG SITUS GACOR
                                       "moduledtl": "mi:4475|li:8293"
                                     }
                                   }],
-                                  "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                  "URL": "https://blog-chardike.com/tag/skincare/"
                                 },
                                 "title": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "TURU99"
+                                    "text": "TOTO"
                                   }]
                                 },
                                 "image": {
                                   "_type": "Image",
-                                  "title": "TURU99",
+                                  "title": "TOTO",
                                   "originalSize": {
                                     "height": 225,
                                     "width": 225
                                   },
-                                  "URL": "https://ik.imagekit.io/anakmami/turu99.png"
+                                  "URL": "https://gambarku.store/img/anakmami.png"
                                 },
                                 "priceGuidance": {
                                   "primaryGuidance": {
@@ -7095,7 +7623,7 @@ TENTANG SITUS GACOR
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                        "URL": "https://blog-chardike.com/tag/skincare/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7132,7 +7660,7 @@ TENTANG SITUS GACOR
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                        "URL": "https://blog-chardike.com/tag/skincare/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7169,7 +7697,7 @@ TENTANG SITUS GACOR
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                        "URL": "https://blog-chardike.com/tag/skincare/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7206,7 +7734,7 @@ TENTANG SITUS GACOR
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                        "URL": "https://blog-chardike.com/tag/skincare/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7243,7 +7771,7 @@ TENTANG SITUS GACOR
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                        "URL": "https://blog-chardike.com/tag/skincare/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7280,7 +7808,8 @@ TENTANG SITUS GACOR
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+
+                                        "URL": "https://blog-chardike.com/tag/skincare/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7317,7 +7846,7 @@ TENTANG SITUS GACOR
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                        "URL": "https://blog-chardike.com/tag/skincare/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7354,7 +7883,7 @@ TENTANG SITUS GACOR
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                        "URL": "https://blog-chardike.com/tag/skincare/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7465,7 +7994,7 @@ TENTANG SITUS GACOR
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                        "URL": "https://blog-chardike.com/tag/skincare/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7502,7 +8031,7 @@ TENTANG SITUS GACOR
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                        "URL": "https://blog-chardike.com/tag/skincare/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7539,7 +8068,7 @@ TENTANG SITUS GACOR
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                        "URL": "https://blog-chardike.com/tag/skincare/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7650,7 +8179,7 @@ TENTANG SITUS GACOR
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                        "URL": "https://blog-chardike.com/tag/skincare/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7687,7 +8216,7 @@ TENTANG SITUS GACOR
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                        "URL": "https://blog-chardike.com/tag/skincare/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7724,7 +8253,7 @@ TENTANG SITUS GACOR
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                        "URL": "https://blog-chardike.com/tag/skincare/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7761,7 +8290,7 @@ TENTANG SITUS GACOR
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                        "URL": "https://blog-chardike.com/tag/skincare/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7798,7 +8327,7 @@ TENTANG SITUS GACOR
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                        "URL": "https://blog-chardike.com/tag/skincare/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7835,7 +8364,7 @@ TENTANG SITUS GACOR
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                        "URL": "https://blog-chardike.com/tag/skincare/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7872,7 +8401,7 @@ TENTANG SITUS GACOR
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "httpshttps://blog-chardike.com/facewash-for-different-skintypes/"
+                                        "URL": "https://blog-chardike.com/tag/skincare/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7909,7 +8438,7 @@ TENTANG SITUS GACOR
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                        "URL": "https://blog-chardike.com/tag/skincare/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7946,7 +8475,7 @@ TENTANG SITUS GACOR
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                        "URL": "https://blog-chardike.com/tag/skincare/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -7983,7 +8512,7 @@ TENTANG SITUS GACOR
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                        "URL": "https://blog-chardike.com/tag/skincare/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -8020,7 +8549,7 @@ TENTANG SITUS GACOR
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                        "URL": "https://blog-chardike.com/tag/skincare/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -8057,7 +8586,7 @@ TENTANG SITUS GACOR
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                        "URL": "https://blog-chardike.com/tag/skincare/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -8094,7 +8623,7 @@ TENTANG SITUS GACOR
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                        "URL": "https://blog-chardike.com/tag/skincare/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -8131,7 +8660,7 @@ TENTANG SITUS GACOR
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                        "URL": "https://blog-chardike.com/tag/skincare/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -8168,7 +8697,7 @@ TENTANG SITUS GACOR
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                        "URL": "https://blog-chardike.com/tag/skincare/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -8205,7 +8734,7 @@ TENTANG SITUS GACOR
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                        "URL": "https://blog-chardike.com/tag/skincare/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -8242,7 +8771,7 @@ TENTANG SITUS GACOR
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                        "URL": "https://blog-chardike.com/tag/skincare/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -8279,7 +8808,7 @@ TENTANG SITUS GACOR
                                             "moduledtl": "mi:4382|li:8064"
                                           }
                                         }],
-                                        "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                        "URL": "https://blog-chardike.com/tag/skincare/"
                                       }
                                     },
                                     "state": "ENABLED",
@@ -8294,9 +8823,9 @@ TENTANG SITUS GACOR
                             "context": {
                               "SITE_ID": "0",
                               "BROWSER_USER_AGENT": "@ebay/service-instruments-ebay/4.90.0 (x64-linux) node/22.12.0",
-                              "BROWSER_REFERRAL_URL": "https://blog-chardike.com/facewash-for-different-skintypes/?iid=406125476878&var=676453543141",
+                              "BROWSER_REFERRAL_URL": "https://blog-chardike.com/tag/skincare//?iid=406125476878&var=676453543141",
                               "ITEM_ID": "406125476878",
-                              "PRODUCT_ID": "07772884213",
+                              "PRODUCT_ID": "968532656532",
                               "PAGE_ID": "2349526",
                               "IS_SECURE": "true"
                             },
@@ -8333,10 +8862,10 @@ TENTANG SITUS GACOR
                               "_type": "TextualDisplay",
                               "textSpans": [{
                                 "_type": "TextSpan",
-                                "text": "TURU99 Link Situs Slot Resmi Dengan Bandar Togel Online Terkenal Di Indonesia"
+                                "text": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap"
                               }]
                             },
-                            "productId": "07772884213",
+                            "productId": "968532656532",
                             "descriptionTitle": {
                               "_type": "TextualDisplay",
                               "textSpans": [{
@@ -8362,12 +8891,12 @@ TENTANG SITUS GACOR
                             },
                             "stockImage": {
                               "_type": "Image",
-                              "title": "TURU99 Link Situs Slot Resmi Dengan Bandar Togel Online Terkenal Di Indonesia",
+                              "title": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap",
                               "originalSize": {
                                 "height": 140,
                                 "width": 140
                               },
-                              "URL": "https://i.ebayimg.com/images/g/MRYAAOSwGl9kR7aU/s-l140.jpg"
+                              "URL": "https://gambarku.store/img/anakmami.png"
                             }
                           },
                           "MENU_OPTIONS": {
@@ -8470,14 +8999,14 @@ TENTANG SITUS GACOR
                                     "moduledtl": "mi:3637|li:6846"
                                   }
                                 }],
-                                "URL": "https://www.ebay.com/urw/product-reviews/07772884213?pgn=2"
+                                "URL": "https://www.ebay.com/urw/product-reviews/968532656532?pgn=2"
                               }
                             },
                             "ratingHistograms": [{
                               "rating": "5",
                               "count": 27,
                               "percentage": 75,
-                              "accessibilityText": "7770 users rated this 5 out of 5 stars"
+                              "accessibilityText": "8880 users rated this 5 out of 5 stars"
                             }, {
                               "rating": "4",
                               "count": 5,
@@ -8544,7 +9073,7 @@ TENTANG SITUS GACOR
                                 "_type": "TextualDisplayValue",
                                 "textSpans": [{
                                   "_type": "TextSpan",
-                                  "text": "average based on 777888 product ratings"
+                                  "text": "average based on 888888 product ratings"
                                 }],
                                 "value": 36
                               }
@@ -8553,7 +9082,7 @@ TENTANG SITUS GACOR
                               "_type": "TextualDisplay",
                               "textSpans": [{
                                 "_type": "TextSpan",
-                                "text": "777888 product ratings",
+                                "text": "888888 product ratings",
                                 "action": {
                                   "_type": "Action",
                                   "type": "OPERATION",
@@ -8578,8 +9107,8 @@ TENTANG SITUS GACOR
                             "_type": "jsonSchema",
                             "schema": {
                               "@type": "WebPage",
-                              "name": "TURU99 Link Situs Slot Resmi Dengan Bandar Togel Online Terkenal Di Indonesia",
-                              "url": "https://blog-chardike.com/facewash-for-different-skintypes/",
+                              "name": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap",
+                              "url": "https://blog-chardike.com/tag/skincare/",
                               "mainEntity": {
                                 "@type": "WebPageElement",
                                 "offers": {
@@ -8587,9 +9116,9 @@ TENTANG SITUS GACOR
                                   "availability": "http://schema.org/InStock",
                                   "itemOffered": [{
                                     "@type": "Product",
-                                    "name": "TURU99 Link Situs Slot Resmi Dengan Bandar Togel Online Terkenal Di Indonesia",
-                                    "url": "https://blog-chardike.com/facewash-for-different-skintypes/",
-                                    "image": ["https://i.ebayimg.com/images/g/xtEAAOSwXoJoWhRp/s-l1600.jpg", "https://i.ebayimg.com/images/g/3v8AAOSwUPVoWhRt/s-l1600.jpg", "https://i.ebayimg.com/images/g/IksAAOSwGk9oWhR2/s-l1600.jpg", "https://i.ebayimg.com/images/g/gcsAAOSw0j1oWhR3/s-l1600.jpg", "https://i.ebayimg.com/images/g/u-QAAOSw-x1oWhQp/s-l1600.jpg"],
+                                    "name": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap",
+                                    "url": "https://blog-chardike.com/tag/skincare/",
+                                    "image": ["https://gambarku.store/img/anakmami.png", "https://gambarku.store/img/anakmami.png", "https://gambarku.store/img/anakmami.png", "https://gambarku.store/img/anakmami.png", "https://gambarku.store/img/anakmami.png"],
                                     "brand": "Samsung",
                                     "model": "Samsung Galaxy S23 Ultra",
                                     "offers": [null],
@@ -8602,11 +9131,11 @@ TENTANG SITUS GACOR
                                       "@type": "Review",
                                       "author": {
                                         "@type": "Person",
-                                        "name": "Marina"
+                                        "name": "Ub777"
                                       },
-                                      "datePublished": "Des 25, 2025",
-                                      "reviewBody": "TURU99 menjadi pilihan setiap hari karena slot yang mudah maxwin membuat saya jadi betah bermain disini.",
-                                      "name": "SLOT GACOR MALAM INI",
+                                      "datePublished": "Sep 19, 2025",
+                                      "reviewBody": "JABARTOTO benar-benar beda dari yang lain. Buat yang cari situs toto slot online dengan sistem stabil dan transaksi cepat, platform ini cukup memuaskan. Proses deposit dan withdraw berjalan lancar, tampilannya juga ringan saat diakses lewat HP maupun desktop.",
+                                      "name": "Ub777",
                                       "reviewRating": {
                                         "@type": "Rating",
                                         "bestRating": "5",
@@ -8616,11 +9145,12 @@ TENTANG SITUS GACOR
                                       "@type": "Review",
                                       "author": {
                                         "@type": "Person",
-                                        "name": "Marline"
+                                        "name": "SpecialOne"
                                       },
-                                      "datePublished": "Jan 02, 2026",
-                                      "reviewBody": "Pilihan slot gacor hari ini di TURU99 cukup variatif, Dengan provider terlengkap jadi gak bosan bermain di Turu99.",
-                                      "name": "Slot Resmi",
+                                      "datePublished": "Feb 19, 2025",
+                                      "reviewBody": " Saya sudah mencoba beberapa situs sebelumnya, tapi JABARTOTO terasa lebih nyaman digunakan. Koleksi permainannya lengkap dan update pasaran rutin. Customer Service responsif 24 jam dan membantu dengan jelas saat ada kendala. 
+",
+                                      "name": "SpecialOne",
                                       "reviewRating": {
                                         "@type": "Rating",
                                         "bestRating": "5",
@@ -8630,11 +9160,11 @@ TENTANG SITUS GACOR
                                       "@type": "Review",
                                       "author": {
                                         "@type": "Person",
-                                        "name": "Buner"
+                                        "name": "Joeyy"
                                       },
-                                      "datePublished": "Jan 06, 2026",
-                                      "reviewBody": "Bermain di TURU99 selalu dilayani dengan cepat dan tanpa hambatan pastinya keamanan data terjanmin.",
-                                      "name": "Link Slot",
+                                      "datePublished": "Apr 29, 2025",
+                                      "reviewBody": "Menurut saya sistem di JABARTOTO cukup konsisten dan jarang mengalami gangguan. Transaksi aman dan prosesnya cepat. Bonus harian juga tersedia sehingga pengalaman bermain terasa lebih menarik.",
+                                      "name": "Joeyy",
                                       "reviewRating": {
                                         "@type": "Rating",
                                         "bestRating": "5",
@@ -8644,100 +9174,17 @@ TENTANG SITUS GACOR
                                       "@type": "Review",
                                       "author": {
                                         "@type": "Person",
-                                        "name": "Jeromy"
+                                        "name": "SEOPANTENG"
                                       },
-                                      "datePublished": "Jan 13, 2026",
-                                      "reviewBody": "Link gacor yang disediakan aktif setiap waktu. Proses masuk hingga bermain berjalan lancar tanpa lag berlebihan.",
-                                      "name": "Situs Slot",
+                                      "datePublished": "May 27, 2024",
+                                      "reviewBody": " Kalau bicara soal situs toto online, JABARTOTO termasuk yang paling stabil. Layanan profesional, variasi permainan lengkap, dan proses transaksi tanpa ribet. Cocok untuk pemain yang ingin bermain dengan nyaman setiap hari. ",
+                                      "name": "SEOPANTENG",
                                       "reviewRating": {
                                         "@type": "Rating",
                                         "bestRating": "5",
                                         "ratingValue": "5"
                                       }
-                                    }, {
-                                      "@type": "Review",
-                                      "author": {
-                                        "@type": "Person",
-                                        "name": "Guber"
-                                      },
-                                      "datePublished": "Jan 16, 2026",
-                                      "reviewBody": "RTP TURU99 akurat dan gampang maxwin cukup dengan ikuti pola nya sudah bisa mendapatkan peluang kemenangan yang tinggi setiap hari nya.",
-                                      "name": "RTP Slot",
-                                      "reviewRating": {
-                                        "@type": "Rating",
-                                        "bestRating": "5",
-                                        "ratingValue": "5"
-                                      }
-                                    }, {
-                                      "@type": "Review",
-                                      "author": {
-                                        "@type": "Person",
-                                        "name": "Yono"
-                                      },
-                                      "datePublished": "Jan 21, 2026",
-                                      "reviewBody": "Akses link yang resmi dan mudah di cari dengan tampilan yang sederhana dan mengutamakan kenyamanan permain.",
-                                      "name": "Slot",
-                                      "reviewRating": {
-                                        "@type": "Rating",
-                                        "bestRating": "5",
-                                        "ratingValue": "4"
-                                      }
-                                    }, {
-                                      "@type": "Review",
-                                      "author": {
-                                        "@type": "Person",
-                                        "name": "Tere"
-                                      },
-                                      "datePublished": "Jan 27, 2026",
-                                      "reviewBody": "TURU99 cocok untuk pemain yang mencari kestabilan. Link verified dan update slot harian jadi nilai tambah utama.",
-                                      "name": "Slot Gacor Maxwin",
-                                      "reviewRating": {
-                                        "@type": "Rating",
-                                        "bestRating": "5",
-                                        "ratingValue": "5"
-                                      }
-                                    }, {
-                                      "@type": "Review",
-                                      "author": {
-                                        "@type": "Person",
-                                        "name": "Pascol"
-                                      },
-                                      "datePublished": "Feb 01, 2026",
-                                      "reviewBody": "TURU99 memberi pengalaman bermain sangat seru dengan server canggih anti lag pastinya.",
-                                      "name": "RTP Slot Gacor",
-                                      "reviewRating": {
-                                        "@type": "Rating",
-                                        "bestRating": "5",
-                                        "ratingValue": "5"
-                                      }
-                                    }, {
-                                      "@type": "Review",
-                                      "author": {
-                                        "@type": "Person",
-                                        "name": "Yanato"
-                                      },
-                                      "datePublished": "Feb 03, 2026",
-                                      "reviewBody": "Daftar slot gacor hari ini selalu update. RTP yang ditampilkan memudahkan pemain memilih game dengan peluang optimal.",
-                                      "name": "Link Slot Gacor",
-                                      "reviewRating": {
-                                        "@type": "Rating",
-                                        "bestRating": "5",
-                                        "ratingValue": "5"
-                                      }
-                                    }, {
-                                      "@type": "Review",
-                                      "author": {
-                                        "@type": "Person",
-                                        "name": "JordySpain"
-                                      },
-                                      "datePublished": "Feb 04, 2026",
-                                      "reviewBody": "Performa server terasa ringan meski dimainkan di jam ramai. Ini jadi nilai plus untuk sesi bermain panjang.",
-                                      "name": "Situs SLOT GACOR MALAM INI",
-                                      "reviewRating": {
-                                        "@type": "Rating",
-                                        "bestRating": "5",
-                                        "ratingValue": "5"
-                                      }
+                                    
                                     }]
                                   }]
                                 }
@@ -8765,26 +9212,26 @@ TENTANG SITUS GACOR
                               "_type": "SellerSection",
                               "profileLogo": {
                                 "_type": "Image",
-                                "title": "TURU99",
+                                "title": "JABARTOTO",
                                 "imageId": "H14AAOSwsChoAHp3",
                                 "imageIdType": "ZOOM_GUID",
                                 "originalSize": {
                                   "height": 112,
                                   "width": 112
                                 },
-                                "URL": "https://turu99.dataklmsad902.site/images/setting-favicon/1/QTviimQrLQ2RCVr1.png?s=d6568596479ac5e3e30c3971c0a7d880"
+                                "URL": "https://gambarku.store/img/favicon.png"
                               },
                               "dataItems": [{
                                 "_type": "TextualDisplay",
                                 "textSpans": [{
                                   "_type": "TextSpan",
-                                  "text": "TURU99"
+                                  "text": "JABARTOTO"
                                 }]
                               }, {
                                 "_type": "TextualDisplay",
                                 "textSpans": [{
                                   "_type": "TextSpan",
-                                  "text": "99.99,0% positive"
+                                  "text": "99.9% positive"
                                 }]
                               }],
                               "action": {
@@ -8792,7 +9239,7 @@ TENTANG SITUS GACOR
                                 "type": "NAV",
                                 "name": "USER_PROFILE",
                                 "params": {
-                                  "username": "TURU99"
+                                  "username": "JABARTOTO"
                                 },
                                 "trackingList": [{
                                   "eventFamily": "ITM",
@@ -8816,7 +9263,7 @@ TENTANG SITUS GACOR
                                   }
                                 }],
                                 "accessibilityText": "Seller information",
-                                "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                "URL": "https://blog-chardike.com/tag/skincare/"
                               }
                             }]
                           },
@@ -9268,7 +9715,7 @@ TENTANG SITUS GACOR
                                     "errorText": "The item youâ€™ve selected was not added to your cart.",
                                     "itemId": "406125476878",
                                     "variation_id": "676453543141",
-                                    "imageURL": "https://i.ebayimg.com/images/g/xtEAAOSwXoJoWhRp/s-l500.jpg",
+                                    "imageURL": "https://gambarku.store/img/anakmami.png",
                                     "csrfCommand": "shopactionsview_act_add_to_cart",
                                     "spinnerText1": "Adding to your cart",
                                     "spinnerText3": "You're almost done",
@@ -9415,7 +9862,7 @@ TENTANG SITUS GACOR
                                           "height": 140,
                                           "width": 140
                                         },
-                                        "URL": "https://i.ebayimg.com/images/g/SdAAAOSwvoRoM~HX/s-l140.jpg"
+                                        "URL": "https://gambarku.store/img/anakmami.png"
                                       },
                                       "action": {
                                         "_type": "Action",
@@ -9460,7 +9907,7 @@ TENTANG SITUS GACOR
                                           "height": 140,
                                           "width": 140
                                         },
-                                        "URL": "https://i.ebayimg.com/images/g/Xj8AAOSwvMxoKmEF/s-l140.jpg"
+                                        "URL": "https://gambarku.store/img/anakmami.png"
                                       },
                                       "action": {
                                         "_type": "Action",
@@ -9505,7 +9952,7 @@ TENTANG SITUS GACOR
                                           "height": 140,
                                           "width": 140
                                         },
-                                        "URL": "https://i.ebayimg.com/images/g/FMoAAOSw9OFoKlUD/s-l140.jpg"
+                                        "URL": "https://gambarku.store/img/anakmami.png"
                                       },
                                       "action": {
                                         "_type": "Action",
@@ -9550,7 +9997,7 @@ TENTANG SITUS GACOR
                                           "height": 140,
                                           "width": 140
                                         },
-                                        "URL": "https://i.ebayimg.com/images/g/2DcAAOSwZHFoLx~q/s-l140.jpg"
+                                        "URL": "https://gambarku.store/img/anakmami.png"
                                       },
                                       "action": {
                                         "_type": "Action",
@@ -9595,7 +10042,7 @@ TENTANG SITUS GACOR
                                           "height": 140,
                                           "width": 140
                                         },
-                                        "URL": "https://i.ebayimg.com/images/g/rAEAAOSwDIxoM~Kb/s-l140.jpg"
+                                        "URL": "https://gambarku.store/img/anakmami.png"
                                       },
                                       "action": {
                                         "_type": "Action",
@@ -9734,14 +10181,14 @@ TENTANG SITUS GACOR
                                       "moduledtl": "mi:3637|li:6846"
                                     }
                                   }],
-                                  "URL": "https://www.ebay.com/urw/product-reviews/07772884213?pgn=2"
+                                  "URL": "https://www.ebay.com/urw/product-reviews/968532656532?pgn=2"
                                 }
                               },
                               "ratingHistograms": [{
                                 "rating": "5",
                                 "count": 27,
                                 "percentage": 75,
-                                "accessibilityText": "7770 users rated this 5 out of 5 stars"
+                                "accessibilityText": "8880 users rated this 5 out of 5 stars"
                               }, {
                                 "rating": "4",
                                 "count": 5,
@@ -9770,8 +10217,8 @@ TENTANG SITUS GACOR
                                     "_type": "TextSpan",
                                     "text": "Good value"
                                   }],
-                                  "accessibilityText": "89 percent of reviewers think of this product as Good value",
-                                  "value": 89
+                                  "accessibilityText": "77 percent of reviewers think of this product as Good value",
+                                  "value": 77
                                 }
                               }, {
                                 "percentage": {
@@ -9780,8 +10227,8 @@ TENTANG SITUS GACOR
                                     "_type": "TextSpan",
                                     "text": "Long battery life"
                                   }],
-                                  "accessibilityText": "88 percent of reviewers think of this product as Long battery life",
-                                  "value": 88
+                                  "accessibilityText": "77 percent of reviewers think of this product as Long battery life",
+                                  "value": 77
                                 }
                               }, {
                                 "percentage": {
@@ -9795,7 +10242,7 @@ TENTANG SITUS GACOR
                                 }
                               }],
                               "starRating": {
-                                "accessibilityText": "4.9 out of 5 stars based on 777888 product ratings",
+                                "accessibilityText": "4.9 out of 5 stars based on 888888 product ratings",
                                 "averageRating": {
                                   "_type": "TextualDisplayValue",
                                   "textSpans": [{
@@ -9808,7 +10255,7 @@ TENTANG SITUS GACOR
                                   "_type": "TextualDisplayValue",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "777888 product ratings"
+                                    "text": "888888 product ratings"
                                   }],
                                   "action": {
                                     "_type": "Action",
@@ -9876,21 +10323,21 @@ TENTANG SITUS GACOR
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "Slot Gacor Hari Ini"
+                                    "text": "JABARTOTO"
                                   }]
                                 },
                                 "description": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "Sistem permainan berjalan mulus tanpa gangguan teknis. Cocok untuk pemain yang mengutamakan kenyamanan."
+                                    "text": "JABARTOTO menyediakan link situs toto resmi dengan menghadirkan provider dan fitur yang terlengkap. Platform ini dirancang agar mudah di akses dan membantu para pemain dalam bermain situs toto."
                                   }]
                                 },
                                 "creationDate": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "Des 11, 2025"
+                                    "text": "Sep 19, 2025"
                                   }]
                                 },
                                 "votesPositive": 0,
@@ -9902,12 +10349,12 @@ TENTANG SITUS GACOR
                                     "text": "by "
                                   }, {
                                     "_type": "TextSpan",
-                                    "text": "Marina",
+                                    "text": "Poniman",
                                     "action": {
                                       "_type": "Action",
                                       "type": "NAV",
                                       "trackingList": [],
-                                      "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                      "URL": "https://blog-chardike.com/tag/skincare/"
                                     }
                                   }]
                                 },
@@ -9980,28 +10427,28 @@ TENTANG SITUS GACOR
                                     }]
                                   }
                                 },
-                                "accessibilityText": "Marina rated this 5 out of 5 stars on Sep 19, 2025"
+                                "accessibilityText": "Padmana rated this 5 out of 5 stars on Sep 19, 2025"
                               }, {
                                 "reviewId": "10000000312538562",
                                 "title": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "SLOT GACOR MALAM INI 200"
+                                    "text": "Link bocoran SITUS TOTO TERPERCAYA paling mantap"
                                   }]
                                 },
                                 "description": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "Situs Slot Gacor"
+                                    "text": "SITUS TOTO yang selalu banjir maxwin"
                                   }]
                                 },
                                 "creationDate": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "Jan 17, 2026"
+                                    "text": "Feb 17, 2024"
                                   }]
                                 },
                                 "votesPositive": 0,
@@ -10013,12 +10460,12 @@ TENTANG SITUS GACOR
                                     "text": "by "
                                   }, {
                                     "_type": "TextSpan",
-                                    "text": "Yeni",
+                                    "text": "Agos",
                                     "action": {
                                       "_type": "Action",
                                       "type": "NAV",
                                       "trackingList": [],
-                                      "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                      "URL": "https://blog-chardike.com/tag/skincare/"
                                     }
                                   }]
                                 },
@@ -10091,28 +10538,28 @@ TENTANG SITUS GACOR
                                     }]
                                   }
                                 },
-                                "accessibilityText": "Tomi rated this 5 out of 5 stars on Feb 17, 2024"
+                                "accessibilityText": "Raditya rated this 5 out of 5 stars on Feb 17, 2024"
                               }, {
                                 "reviewId": "10000000323756343",
                                 "title": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "Navigasi situs jelas dan tidak membingungkan. Pemain baru bisa cepat beradaptasi tanpa banyak trial-error."
+                                    "text": "Rekomendasi penuh"
                                   }]
                                 },
                                 "description": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "TURU99 layak jadi pilihan harian. Link gacor aktif, akses stabil, dan update game rutin membuatnya."
+                                    "text": "Saya sudah beberapa bulan menggunakan JABARTOTO dan sejauh ini pengalaman saya sangat memuaskan. Sistemnya stabil, jarang ada gangguan, dan proses transaksi berjalan cepat tanpa kendala. Tampilannya juga mudah dipahami, jadi nyaman digunakan setiap hari."
                                   }]
                                 },
                                 "creationDate": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "Des 28, 2025"
+                                    "text": "Apr 24, 2025"
                                   }]
                                 },
                                 "votesPositive": 0,
@@ -10124,12 +10571,12 @@ TENTANG SITUS GACOR
                                     "text": "by "
                                   }, {
                                     "_type": "TextSpan",
-                                    "text": "Morry",
+                                    "text": "Reja",
                                     "action": {
                                       "_type": "Action",
                                       "type": "NAV",
                                       "trackingList": [],
-                                      "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                      "URL": "https://blog-chardike.com/tag/skincare/"
                                     }
                                   }]
                                 },
@@ -10190,28 +10637,28 @@ TENTANG SITUS GACOR
                                     }]
                                   }
                                 },
-                                "accessibilityText": "Munir rated this 5 out of 5 stars on Des 08, 2025"
+                                "accessibilityText": "Reja rated this 5 out of 5 stars on Apr 24, 2025"
                               }, {
                                 "reviewId": "10000000317835730",
                                 "title": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "Link Gacor Hari Ini"
+                                    "text": "JABARTOTO"
                                   }]
                                 },
                                 "description": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "Slot gacor hari ini mudah ditemukan karena sistemnya tertata. RTP yang ditampilkan membantu mengatur strategi bermain."
+                                    "text": "SITUS TOTO terpercaya yang pernah gw mainin serius njir!",
                                   }]
                                 },
                                 "creationDate": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "Des 25, 2025"
+                                    "text": "May 27, 2024"
                                   }]
                                 },
                                 "votesPositive": 0,
@@ -10223,12 +10670,12 @@ TENTANG SITUS GACOR
                                     "text": "by "
                                   }, {
                                     "_type": "TextSpan",
-                                    "text": "Yuli",
+                                    "text": "Ambatukam",
                                     "action": {
                                       "_type": "Action",
                                       "type": "NAV",
                                       "trackingList": [],
-                                      "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                      "URL": "https://blog-chardike.com/tag/skincare/"
                                     }
                                   }]
                                 },
@@ -10289,28 +10736,28 @@ TENTANG SITUS GACOR
                                     }]
                                   }
                                 },
-                                "accessibilityText": "Gerry rated this 5 out of 5 stars on May 27, 2024"
+                                "accessibilityText": "Ambatukam rated this 5 out of 5 stars on May 27, 2024"
                               }, {
                                 "reviewId": "10000000311949974",
                                 "title": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "Situs Slot Gacor Hari Ini"
+                                    "text": "SITUS TOTO"
                                   }]
                                 },
                                 "description": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "Stabilitas server jadi keunggulan utama. Bermain di jam sibuk tetap terasa ringan tanpa hambatan berarti."
+                                    "text": "Menang SITUS TOTO 12 juta langsung di bayar lunas"
                                   }]
                                 },
                                 "creationDate": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "Des 30, 2025"
+                                    "text": "Dec 13, 2025"
                                   }]
                                 },
                                 "votesPositive": 0,
@@ -10322,12 +10769,12 @@ TENTANG SITUS GACOR
                                     "text": "by "
                                   }, {
                                     "_type": "TextSpan",
-                                    "text": "Kumry",
+                                    "text": "Surya",
                                     "action": {
                                       "_type": "Action",
                                       "type": "NAV",
                                       "trackingList": [],
-                                      "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                      "URL": "https://blog-chardike.com/tag/skincare/"
                                     }
                                   }]
                                 },
@@ -10400,28 +10847,28 @@ TENTANG SITUS GACOR
                                     }]
                                   }
                                 },
-                                "accessibilityText": "Nwokolo rated this 5 out of 5 stars on Dec 13, 2025"
+                                "accessibilityText": "Surya rated this 5 out of 5 stars on Dec 13, 2025"
                               }, {
                                 "reviewId": "10000000326508644",
                                 "title": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "Link SLOT GACOR MALAM INI"
+                                    "text": "SITUS TOTO"
                                   }]
                                 },
                                 "description": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "Tampilan situs tidak berlebihan namun informatif. Semua menu penting mudah dijangkau oleh pemain."
+                                    "text": "SITUS TOTO Resmi Terpercaya Pasti Bayar Lunas"
                                   }]
                                 },
                                 "creationDate": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "Jan 19, 2026"
+                                    "text": "Sep 12, 2025"
                                   }]
                                 },
                                 "votesPositive": 0,
@@ -10433,12 +10880,12 @@ TENTANG SITUS GACOR
                                     "text": "by "
                                   }, {
                                     "_type": "TextSpan",
-                                    "text": "Bonay",
+                                    "text": "Utama",
                                     "action": {
                                       "_type": "Action",
                                       "type": "NAV",
                                       "trackingList": [],
-                                      "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                      "URL": "https://blog-chardike.com/tag/skincare/"
                                     }
                                   }]
                                 },
@@ -10511,28 +10958,28 @@ TENTANG SITUS GACOR
                                     }]
                                   }
                                 },
-                                "accessibilityText": "Bonay rated this 4 out of 5 stars on Jan 19, 2025"
+                                "accessibilityText": "Utama rated this 4 out of 5 stars on Sep 12, 2025"
                               }, {
                                 "reviewId": "10000000313330222",
                                 "title": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "Link Slot 2026"
+                                    "text": "TOTO"
                                   }]
                                 },
                                 "description": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "RTP slot gampang menang terasa seimbang. Kemenangan kecil sering muncul dan menjaga permainan tetap nyaman."
+                                    "text": "Sebagai pemain yang cukup aktif, saya merasa JABARTOTO cukup konsisten dari segi sistem dan layanan. Jarang terjadi error atau lag. Bonus dan promo yang tersedia juga menambah pengalaman bermain jadi lebih menarik."
                                   }]
                                 },
                                 "creationDate": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "Feb 01, 2026"
+                                    "text": "Apr 18, 2024"
                                   }]
                                 },
                                 "votesPositive": 0,
@@ -10544,12 +10991,12 @@ TENTANG SITUS GACOR
                                     "text": "by "
                                   }, {
                                     "_type": "TextSpan",
-                                    "text": "Wiranegara",
+                                    "text": "Parjo",
                                     "action": {
                                       "_type": "Action",
                                       "type": "NAV",
                                       "trackingList": [],
-                                      "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                      "URL": "https://blog-chardike.com/tag/skincare/"
                                     }
                                   }]
                                 },
@@ -10610,28 +11057,28 @@ TENTANG SITUS GACOR
                                     }]
                                   }
                                 },
-                                "accessibilityText": "Antohny Sunanggang rated this 5 out of 5 stars on Apr 18, 2024"
+                                "accessibilityText": "Parjo rated this 5 out of 5 stars on Apr 18, 2024"
                               }, {
                                 "reviewId": "10000000324980086",
                                 "title": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "TURU99"
+                                    "text": "TOTO"
                                   }]
                                 },
                                 "description": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "Secara keseluruhan, TURU99 sangat cocok untuk pemain pemula maupun pemain yang sudah berpengalaman."
+                                    "text": "Asli TOTO yang ga pelit ama jp maxwin."
                                   }]
                                 },
                                 "creationDate": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "Feb 02, 2026"
+                                    "text": "Jul 12, 2025"
                                   }]
                                 },
                                 "votesPositive": 0,
@@ -10643,12 +11090,12 @@ TENTANG SITUS GACOR
                                     "text": "by "
                                   }, {
                                     "_type": "TextSpan",
-                                    "text": "Pascol",
+                                    "text": "Zoro",
                                     "action": {
                                       "_type": "Action",
                                       "type": "NAV",
                                       "trackingList": [],
-                                      "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                      "URL": "https://blog-chardike.com/tag/skincare/"
                                     }
                                   }]
                                 },
@@ -10721,28 +11168,28 @@ TENTANG SITUS GACOR
                                     }]
                                   }
                                 },
-                                "accessibilityText": "Wiranegara rated this 5 out of 5 stars on Jul 12, 2025"
+                                "accessibilityText": "Zoro rated this 5 out of 5 stars on Jul 12, 2025"
                               }, {
                                 "reviewId": "10000000314198410",
                                 "title": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "Situs Terpercaya"
+                                    "text": "JABARTOTO cocok untuk pemula maupun pemain lama. Navigasinya jelas, informasi lengkap, dan prosesnya transparan. Secara keseluruhan saya merasa nyaman dan puas menggunakan platform ini."
                                   }]
                                 },
                                 "description": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "TURU99 menghadirkan link verified yang jarang bermasalah. Akses ke game slot terasa stabil dari awal sampai selesai."
+                                    "text": "SITUS TOTO modal receh bisa cair jutaan. "
                                   }]
                                 },
                                 "creationDate": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "Nov 26, 2025"
+                                    "text": "May 04, 2024"
                                   }]
                                 },
                                 "votesPositive": 0,
@@ -10754,12 +11201,12 @@ TENTANG SITUS GACOR
                                     "text": "by "
                                   }, {
                                     "_type": "TextSpan",
-                                    "text": "Bedol",
+                                    "text": "Yuda",
                                     "action": {
                                       "_type": "Action",
                                       "type": "NAV",
                                       "trackingList": [],
-                                      "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                      "URL": "https://blog-chardike.com/tag/skincare/"
                                     }
                                   }]
                                 },
@@ -10820,28 +11267,28 @@ TENTANG SITUS GACOR
                                     }]
                                   }
                                 },
-                                "accessibilityText": "Bedol rated this 5 out of 5 stars on Nov 26, 2025"
+                                "accessibilityText": "Yuda rated this 5 out of 5 stars on May 04, 2024"
                               }, {
                                 "reviewId": "10000000322357702",
                                 "title": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "TURU99"
+                                    "text": "Hal yang paling saya suka dari JABARTOTO adalah proses deposit dan withdraw yang cepat. Tidak perlu menunggu lama dan semuanya diproses dengan rapi. Platformnya juga ringan saat diakses lewat HP."
                                   }]
                                 },
                                 "description": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "Pilihan slot gacor hari ini cukup lengkap dan mudah diakses. RTP yang tersedia membantu pemain menentukan game favorit."
+                                    "text": "Menurut saya JABARTOTO punya pelayanan yang cukup profesional. Customer Service responsif dan membantu ketika ada pertanyaan. Selain itu, pilihan permainannya lengkap dan selalu update sehingga tidak membosankan."
                                   }]
                                 },
                                 "creationDate": {
                                   "_type": "TextualDisplay",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "Jan 13, 2026"
+                                    "text": "Dec 24, 2024"
                                   }]
                                 },
                                 "votesPositive": 0,
@@ -10853,12 +11300,12 @@ TENTANG SITUS GACOR
                                     "text": "by "
                                   }, {
                                     "_type": "TextSpan",
-                                    "text": "Temory",
+                                    "text": "Widodo",
                                     "action": {
                                       "_type": "Action",
                                       "type": "NAV",
                                       "trackingList": [],
-                                      "URL": "https://blog-chardike.com/facewash-for-different-skintypes/"
+                                      "URL": "https://blog-chardike.com/tag/skincare/"
                                     }
                                   }]
                                 },
@@ -10931,7 +11378,7 @@ TENTANG SITUS GACOR
                                     }]
                                   }
                                 },
-                                "accessibilityText": "Temory rated this 5 out of 5 stars on Dec 24, 2024"
+                                "accessibilityText": "Widodo rated this 5 out of 5 stars on Dec 24, 2024"
                               }]
                             },
                             "BIN_NUDGE": {
@@ -10943,13 +11390,13 @@ TENTANG SITUS GACOR
                                 "_type": "TextualDisplay",
                                 "textSpans": [{
                                   "_type": "TextSpan",
-                                  "text": "ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA"
+                                  "text": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap"
                                 }]
                               },
                               "itemImage": {
                                 "_type": "Image",
-                                "title": "ðŸ‘NEW SEALED SAMSUNG GALAXY S23 ULTRA 5G FACTORY UNLOCKED 512GB/256 ALL GSM CDMA",
-                                "URL": "https://i.ebayimg.com/images/g/u-QAAOSw-x1oWhQp/s-l500.jpg"
+                                "title": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap",
+                                "URL": "https://gambarku.store/img/anakmami.png"
                               },
                               "signInCheckOutAction": {
                                 "_type": "CallToAction",
@@ -11573,20 +12020,20 @@ TENTANG SITUS GACOR
                               },
                               "starRating": {
                                 "_type": "StarRating",
-                                "accessibilityText": "4.99 out of 5 stars based on 777888 product ratings",
+                                "accessibilityText": "4.93 out of 5 stars based on 888888 product ratings",
                                 "averageRating": {
                                   "_type": "TextualDisplayValue",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "4.99"
+                                    "text": "4.93"
                                   }],
-                                  "value": 4.99
+                                  "value": 4.93
                                 },
                                 "count": {
                                   "_type": "TextualDisplayValue",
                                   "textSpans": [{
                                     "_type": "TextSpan",
-                                    "text": "777888 product ratings",
+                                    "text": "888888 product ratings",
                                     "styles": ["PSEUDOLINK"]
                                   }],
                                   "action": {
@@ -11622,7 +12069,7 @@ TENTANG SITUS GACOR
                                 "_type": "TextualDisplay",
                                 "textSpans": [{
                                   "_type": "TextSpan",
-                                  "text": "TURU99 Link Situs Slot Resmi Dengan Bandar Togel Online Terkenal Di Indonesia",
+                                  "text": "JABARTOTO Panduan Situs Toto Resmi Dengan Provider Dan Fitur Terlengkap",
                                   "styles": ["BOLD"]
                                 }]
                               }
@@ -11749,7 +12196,7 @@ TENTANG SITUS GACOR
                                     "_type": "TextualDisplay",
                                     "textSpans": [{
                                       "_type": "TextSpan",
-                                      "text": "07772884213"
+                                      "text": "968532656532"
                                     }]
                                   }]
                                 }]
@@ -12479,7 +12926,7 @@ TENTANG SITUS GACOR
                   "l": ["g", "url"],
                   "r": {
                     "type": "URL",
-                    "value": "https://blog-chardike.com/facewash-for-different-skintypes/?iid=406125476878&var=676453543141"
+                    "value": "https://blog-chardike.com/tag/skincare//?iid=406125476878&var=676453543141"
                   }
                 }, {
                   "l": ["w", 0, 2, "head", "renderBody"],
@@ -12569,291 +13016,43 @@ TENTANG SITUS GACOR
               banner.style.boxShadow = '0 0 12px #ffd700, 0 0 24px #ffae00, 0 0 36px #ff6a00';
             });
   </script>
+ 
+  
+<footer>
+<style>.site-fixed-footer{position:fixed;bottom:0;left:0;width:100%;display:flex;justify-content:space-around;align-items:center;padding:8px 0;background:linear-gradient(0deg,rgba(212,44,44,1) 0%,rgba(212,44,44,1) 100%);border-top:2px solid #000000;box-shadow:0 -5px 15px rgba(212,44,44,1);z-index:9999}.footer-button{display:flex;flex-direction:column;align-items:center;text-decoration:none;color:#21ffc0;font-size:.7em;font-weight:600;transition:color .3s ease;padding:5px}.footer-label{margin-top:4px}.footer-icon{width:24px;height:24px}.login-btn:hover{color:#fcf656}.login-btn:hover .footer-icon{stroke:#fcf656;filter:drop-shadow(0 0 5px rgba(122,92,255,.8))}.promo-btn{color:#21ffc0;transform:scale(1.1)}.promo-btn .footer-icon{stroke:#21ffc0;filter:drop-shadow(0 0 8px rgba(255,215,0,1))}.promo-btn:hover{color:#fcf656}.daftar-btn:hover{color:#fcf656}.daftar-btn:hover .footer-icon{stroke:#fcf656;filter:drop-shadow(0 0 5px rgba(0,255,153,.8))}</style>
+<div class="site-fixed-footer">
+    
+    <a href="https://chardike.pages.dev/" class="footer-button login-btn">
+        <svg class="footer-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M15 3H7C5.895 3 5 3.895 5 5V19C5 20.105 5.895 21 7 21H15C16.105 21 17 20.105 17 19V5C17 3.895 16.105 3 15 3Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M12 11V16" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M9 13L12 16L15 13" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <span class="footer-label">LOGIN</span>
+    </a>
 
-  <style>
-    /* === FOOTER SLOT GAMING TEMA GLASS NEON KUNING-PUTIH (STYLISH) === */
-    .slot-monpe-gacor {
-      position: fixed;
-      bottom: 12px;
-      left: 50%;
-      transform: translateX(-50%);
-      z-index: 99;
-      display: flex;
-      justify-content: space-evenly;
-      align-items: center;
-      gap: 10px;
-      padding: 10px 14px;
-      width: calc(100% - 20px);
-      max-width: 460px;
-      background: radial-gradient(circle at top, rgba(171, 2, 2, 0.438), rgb(171 65 2));
-      border-radius: 999px;
-      border: 1px solid rgba(148, 163, 184, 0.5);
-      box-shadow:
-        0 18px 40px rgba(42, 15, 15, 0.95), 0 0 22px rgb(236 0 0 / 84%), inset 0 0 14px rgba(42, 15, 15, 0.8);
-      font-family: "Poppins", "Segoe UI", sans-serif;
-      color: #e5e7eb;
-      backdrop-filter: blur(16px);
-      -webkit-backdrop-filter: blur(16px);
-    }
+    <a href="https://chardike.pages.dev/" class="footer-button promo-btn">
+        <svg class="footer-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M20 12C20 7.582 16.418 4 12 4C7.582 4 4 7.582 4 12C4 16.418 7.582 20 12 20C16.418 20 20 16.418 20 12Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M12 8V16" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M8 12H16" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <span class="footer-label">PROMO</span>
+    </a>
 
-    /* === Tombol Footer (jadi pill modern) === */
-    .slot-monpe-gacor a {
-      position: relative;
-      flex: 1;
-      max-width: 110px;
-      text-align: center;
-      text-decoration: none;
-      color: #e5e7eb;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 4px;
-      font-size: 12px;
-      font-weight: 600;
-      padding: 6px 10px;
-      border-radius: 999px;
-      background: radial-gradient(circle at top, rgba(255, 255, 255, 0.705), rgba(175, 30, 30, 0.75));
-      box-shadow:
-        0 0 10px rgba(248, 56, 56, 0.7),
-        inset 0 0 6px rgba(42, 15, 15, 0.9);
-      text-shadow: 0 0 6px rgba(42, 15, 15, 0.9);
-      border: 1px solid rgba(254, 191, 191, 0.4);
-      transition: transform 0.22s ease, box-shadow 0.22s ease, background 0.22s ease, color 0.22s ease;
-      overflow: hidden;
-    }
+    <a href="https://chardike.pages.dev/" class="footer-button daftar-btn">
+        <svg class="footer-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M16 21V19C16 17.343 14.657 16 13 16H6C4.343 16 3 17.343 3 19V21" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M11 7C11 9.209 9.209 11 7 11C4.791 11 3 9.209 3 7C3 4.791 4.791 3 7 3C9.209 3 11 4.791 11 7Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M21 5H17" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M21 8H17" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <span class="footer-label">DAFTAR</span>
+    </a>
 
-    /* Highlight ring halus */
-    .slot-monpe-gacor a::before {
-      content: "";
-      position: absolute;
-      inset: 0;
-      border-radius: inherit;
-      border: 1px solid rgba(248, 129, 129, 0.6);
-      opacity: 0;
-      transition: opacity 0.25s ease;
-    }
-
-    /* Hover efek */
-    .slot-monpe-gacor a:hover {
-      color: #f9fafb;
-      transform: translateY(-4px) scale(1.05);
-      background: radial-gradient(circle at top,
-        rgba(248, 236, 129, 0.45),
-        rgba(235, 37, 37, 0.95)
-      );
-      box-shadow:
-        0 0 16px rgba(248, 56, 56, 0.9),
-        0 0 24px rgba(241, 99, 99, 0.95);
-    }
-
-    .slot-monpe-gacor a:hover::before {
-      opacity: 1;
-    }
-
-    /* === Ikon tombol === */
-    .slot-monpe-gacor img {
-      width: 24px;
-      height: 24px;
-      filter: drop-shadow(0 0 6px rgba(248, 245, 56, 0.8));
-      transition: transform 0.25s ease, filter 0.25s ease;
-    }
-
-    .slot-monpe-gacor a:hover img {
-      transform: scale(1.18) translateY(-1px);
-      filter:
-        drop-shadow(0 0 10px rgba(245, 248, 56, 0.95))
-        drop-shadow(0 0 14px rgba(248, 129, 129, 0.9));
-    }
-
-    /* === Tombol Tengah (Spesial: Daftar) â€“ lebih menonjol === */
-    .slot-monpe-gacor .tada {
-      background: radial-gradient(circle at top,
-        rgba(251,36,36,0.35),
-        rgb(0 85 255 / 95%));
-      color: #0b1120;
-      font-weight: 700;
-      box-shadow:
-        0 0 18px rgba(251,36,36,0.95),
-        0 0 30px rgba(234,8,8,0.8);
-      transform: scale(1.08);
-      animation: neonGlow 2.4s infinite ease-in-out;
-    }
-
-    .slot-monpe-gacor .tada img {
-      filter: drop-shadow(0 0 10px rgba(251,36,36,0.9));
-    }
-
-    @keyframes neonGlow {
-      0% {
-        box-shadow:
-          0 0 10px rgba(251,36,36,0.6),
-          0 0 18px rgba(234,8,8,0.7);
-        transform: scale(1.05);
-      }
-      50% {
-        box-shadow:
-          0 0 20px rgba(251,36,36,0.95),
-          0 0 32px rgb(0 85 255 / 95%);
-        transform: scale(1.12) translateY(-1px);
-      }
-      100% {
-        box-shadow:
-          0 0 10px rgba(251,36,36,0.6),
-          0 0 18px rgba(234,8,8,0.7);
-        transform: scale(1.05);
-      }
-    }
-
-    /* Klik efek */
-    .slot-monpe-gacor a:active {
-      transform: scale(0.96) translateY(0);
-      opacity: 0.92;
-      box-shadow:
-        0 0 8px rgba(15,23,42,0.8),
-        inset 0 0 10px rgba(15,23,42,0.95);
-    }
-
-    /* === Responsif untuk layar kecil === */
-    @media (max-width: 500px) {
-      .slot-monpe-gacor {
-        bottom: 8px;
-        padding: 8px 10px;
-        width: calc(100% - 16px);
-        max-width: 100%;
-      }
-
-      .slot-monpe-gacor a {
-        font-size: 10.5px;
-        padding: 5px 8px;
-      }
-
-      .slot-monpe-gacor img {
-        width: 22px;
-        height: 22px;
-      }
-    }
-</style>
-
-<div class="slot-monpe-gacor">
-  <!-- Tombol Beranda -->
-  <a href="https://contoh-domain.com" title="Beranda">
-    <img src="https://via.placeholder.com/48x48?text=H" alt="Ikon Beranda">
-    <span>Beranda</span>
-  </a>
-
-  <!-- Tombol Daftar (Spesial / Tada) -->
-  <a href="https://contoh-domain.com/register" class="tada" title="Daftar Akun">
-    <img src="https://via.placeholder.com/48x48?text=D" alt="Ikon Daftar">
-    <span>Daftar</span>
-  </a>
-
-  <!-- Tombol Login -->
-  <a href="https://contoh-domain.com/login" title="Login">
-    <img src="https://via.placeholder.com/48x48?text=L" alt="Ikon Login">
-    <span>Login</span>
-  </a>
-
-  <!-- Tombol Live Chat / WA -->
-  <a href="https://wa.me/6281234567890" target="_blank" rel="noopener" title="Live Chat">
-    <img src="https://via.placeholder.com/48x48?text=CS" alt="Ikon Live Chat">
-    <span>Live Chat</span>
-  </a>
 </div>
+</footer>
 
-
-
-    
-
-<div class="slot-monpe-gacor">
-  <a href="https://nothing-to-lose-99.pages.dev/" target="_blank" rel="nofollow noopener">
-    <img src="https://i.postimg.cc/RF600RTY/menu-1.png" alt="BONUS TURU99">
-    Beranda
-  </a>
-  <a href="https://nothing-to-lose-99.pages.dev/" target="_blank" rel="nofollow noopener">
-    <img src="https://i.postimg.cc/rs7FWtQP/menu-4.png" alt="LOGIN TURU99">
-    Promo
-  </a>
-  <a href="https://nothing-to-lose-99.pages.dev/" target="_blank" rel="nofollow noopener" class="tada">
-    <img src="https://i.postimg.cc/xj6m8xYC/menu-3.png" alt="DAFTAR TURU99">
-    Daftar
-  </a>
-  <a href="https://nothing-to-lose-99.pages.dev/" target="_blank" rel="nofollow noopener">
-    <img src="https://i.postimg.cc/XNtC9ZG9/menu-5.png" alt="WHATSAPP TURU99">
-    Hubungi Disini
-  </a>
-  <a href="https://nothing-to-lose-99.pages.dev/" target="_blank" rel="nofollow noopener">
-    <img src="https://i.postimg.cc/qRzN30pq/menu-2.png" alt="LIVE CHAT TURU99">
-    Live Rtp
-  </a>
-</div>
-
-<style>
-  .ember-wrap {
-    position: fixed;
-    inset: 0;
-    pointer-events: none;
-    z-index: 9999;
-    overflow: hidden;
-  }
-
-  .ember {
-    position: absolute;
-    bottom: -10vh;
-    width: 10px;
-    height: 10px;
-    clip-path: polygon(
-      25% 0%, 75% 0%,
-      100% 50%,
-      75% 100%, 25% 100%,
-      0% 50%
-    );
-    background: linear-gradient(145deg,#ffd1d1,#ff2d2d,#7f1d1d);
-    opacity: .9;
-    filter: drop-shadow(0 0 12px rgba(255,0,0,.9));
-    animation:
-      rise linear infinite,
-      pulse 2s ease-in-out infinite alternate;
-  }
-
-  @keyframes rise {
-    to {
-      transform: translateY(-120vh) rotate(360deg);
-    }
-  }
-
-  @keyframes pulse {
-    from { filter: drop-shadow(0 0 6px rgba(255,80,80,.8)); }
-    to   { filter: drop-shadow(0 0 20px rgba(220,38,38,1)); }
-  }
-</style>
-
-
-
-
-
-    
-    <div class="snow-wrap" id="snow"></div>
-    
-    <!-- auto-generate snow -->
-    <!-- auto-generate neon snow / particle -->
-<div class="ember-wrap" id="emberWrap"><span class="ember" style="left: 39.3532%; animation-duration: 13.6627s; animation-delay: -3.99151s; transform: scale(1.49413);"></span><span class="ember" style="left: 52.5913%; animation-duration: 6.65191s; animation-delay: -8.05754s; transform: scale(1.31912);"></span><span class="ember" style="left: 41.3834%; animation-duration: 6.91616s; animation-delay: -9.72937s; transform: scale(0.956507);"></span><span class="ember" style="left: 31.771%; animation-duration: 13.3547s; animation-delay: -7.4007s; transform: scale(0.571078);"></span><span class="ember" style="left: 84.7139%; animation-duration: 10.0365s; animation-delay: -4.73333s; transform: scale(0.903926);"></span><span class="ember" style="left: 17.9919%; animation-duration: 6.12764s; animation-delay: -8.50491s; transform: scale(1.06912);"></span><span class="ember" style="left: 63.8663%; animation-duration: 11.5142s; animation-delay: -0.207437s; transform: scale(1.33289);"></span><span class="ember" style="left: 98.5421%; animation-duration: 8.50599s; animation-delay: -4.34742s; transform: scale(1.43517);"></span><span class="ember" style="left: 65.8214%; animation-duration: 13.8717s; animation-delay: -4.50322s; transform: scale(1.46968);"></span><span class="ember" style="left: 83.2634%; animation-duration: 10.2518s; animation-delay: -7.07s; transform: scale(0.79467);"></span><span class="ember" style="left: 65.7722%; animation-duration: 13.0036s; animation-delay: -7.20369s; transform: scale(1.28589);"></span><span class="ember" style="left: 44.0627%; animation-duration: 11.3969s; animation-delay: -0.40592s; transform: scale(1.33988);"></span><span class="ember" style="left: 79.1838%; animation-duration: 11.5455s; animation-delay: -8.88778s; transform: scale(0.545756);"></span><span class="ember" style="left: 34.2503%; animation-duration: 10.9146s; animation-delay: -2.43736s; transform: scale(0.69434);"></span><span class="ember" style="left: 60.1798%; animation-duration: 11.4553s; animation-delay: -8.98821s; transform: scale(1.09094);"></span><span class="ember" style="left: 57.0056%; animation-duration: 8.01105s; animation-delay: -8.47094s; transform: scale(1.11224);"></span><span class="ember" style="left: 87.897%; animation-duration: 11.2001s; animation-delay: -0.54922s; transform: scale(0.643274);"></span><span class="ember" style="left: 79.5101%; animation-duration: 12.8081s; animation-delay: -6.50059s; transform: scale(1.10432);"></span><span class="ember" style="left: 63.7805%; animation-duration: 8.06087s; animation-delay: -8.34629s; transform: scale(1.4803);"></span><span class="ember" style="left: 88.0114%; animation-duration: 7.40689s; animation-delay: -4.59989s; transform: scale(1.06491);"></span><span class="ember" style="left: 74.5889%; animation-duration: 13.6966s; animation-delay: -6.71676s; transform: scale(1.43311);"></span><span class="ember" style="left: 33.0538%; animation-duration: 10.9553s; animation-delay: -6.93523s; transform: scale(0.694238);"></span><span class="ember" style="left: 59.3543%; animation-duration: 8.68141s; animation-delay: -2.47146s; transform: scale(0.569334);"></span><span class="ember" style="left: 68.5617%; animation-duration: 12.3941s; animation-delay: -0.379203s; transform: scale(1.40237);"></span><span class="ember" style="left: 21.702%; animation-duration: 11.8541s; animation-delay: -4.54244s; transform: scale(1.27472);"></span><span class="ember" style="left: 0.943199%; animation-duration: 7.72748s; animation-delay: -8.23302s; transform: scale(1.12447);"></span><span class="ember" style="left: 47.6822%; animation-duration: 12.7237s; animation-delay: -0.109436s; transform: scale(0.538836);"></span><span class="ember" style="left: 66.4028%; animation-duration: 12.018s; animation-delay: -4.17388s; transform: scale(1.27288);"></span><span class="ember" style="left: 80.6551%; animation-duration: 13.2949s; animation-delay: -5.32037s; transform: scale(0.826908);"></span><span class="ember" style="left: 41.25%; animation-duration: 12.1955s; animation-delay: -5.83614s; transform: scale(0.563443);"></span></div>
-
-<script>
-  const wrap = document.getElementById('emberWrap');
-
-  for (let i = 0; i < 30; i++) {
-    const e = document.createElement('span');
-    e.className = 'ember';
-    e.style.left = Math.random() * 100 + '%';
-    e.style.animationDuration = (6 + Math.random() * 8) + 's';
-    e.style.animationDelay = (-Math.random() * 10) + 's';
-    e.style.transform = `scale(${0.5 + Math.random()})`;
-    wrap.appendChild(e);
-  }
-</script>
-
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"91fecfc2f09b4b6e9945627c1488a1f8","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"09ebd6da98ce4f638ce48ccf1e765e3d","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-
-<img height="1" width="1" src="https://rover.ebay.com/roverimp/0/0/9?imp=2046301&amp;trknvp=cp%3D2349526%26ghi%3D98&amp;1770615148042" alt="" aria-hidden="true" /><script type="text/javascript" crossorigin="" src="https://ir.ebaystatic.com/rs/c/9527tracking/configuration.js?ts=5902050" async=""></script><script src="https://ir.ebaystatic.com/cr/v/c01/ad.min.js" async=""></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"465463513f7f49e9819746babe541027","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-</body></html>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"4e262f84b109452582da08d601a79c1c","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"34a8bd3b192d428f8bde66eb76dd9afc","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'},{'ap':'cpbh-mt'},{'server':'sg2plmcpnl510000'},{'dcenter':'sg2'},{'cp_id':'10862753'},{'cp_cl':'8'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src='https://img1.wsimg.com/traffic-assets/js/tccl.min.js'></script></html>
